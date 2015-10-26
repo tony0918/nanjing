@@ -1,0 +1,25 @@
+{
+  "name": "nanjing",
+  "version": "0.0.0",
+  "authors": [
+    "Tony Mao"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "respond": "~1.4.2",
+    "html5shiv": "~3.7.3"
+  }
+}
