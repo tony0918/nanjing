@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cabin Regular'), local('Cabin-Regular'), url('../libs/fonts/cabin-regular.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+@brand-green: #35b38e;
+@brand-blue: #2ea0e9;
+@gutter: 15px;
+@gutter-sm: 10px;
+body {
+  font-family: "Microsoft YaHei", SimHei, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  &.en {
+    font-family: Cabin, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+}
+
+.btn-default {
+  border-color: @brand-blue;
+  color: @brand-blue;
+  transition: all 250ms ease-out;
+  &:hover {
+    background-color: @brand-blue;
+    color: white;
+  }
+}
+
+.btn-primary {
+  background-color: @brand-blue;
+  border-color: @brand-blue;
+}
+
+.mr-sm {
+  margin-right: @gutter;
+}
+
+.mr-md {
+  margin-right: 2 * @gutter;
+}
+
+.mr-lg {
+  margin-right: 3 * @gutter;
+}
+
+a {
+  color: @brand-blue;
+}

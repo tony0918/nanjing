@@ -1,0 +1,38 @@
+.header-banner {
+  position: relative;
+}
+
+.page-title {
+  position: absolute;
+  bottom: 50%;
+  left: 8%;
+  margin: 0;
+  color: white;
+}
+
+.article-title {
+  margin: 2 * @gutter;
+  color: @brand-green;
+}
+
+.text-block {
+  padding-left: @gutter;
+  border-left: solid 3px @brand-blue;
+  margin-bottom: 2 * @gutter-sm;
+  .text-title {
+    color: @brand-blue;
+    margin-top: 0;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  table {
+    margin: @gutter-sm 0;
+  }
+  ol {
+    padding-left: 2 * @gutter;
+    &.level-2 {
+      padding-left: 6 * @gutter-sm;
+    }
+  }
+}

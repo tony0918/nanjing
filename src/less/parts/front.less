@@ -1,0 +1,58 @@
+.front-countdown {
+  background-color: @brand-blue;
+  background-repeat: repeat;
+  //  min-height: 450px;
+  color: white;
+  padding: 2 * @gutter;
+  h2 {
+    margin: 0;
+  }
+  h3 {
+    margin: 0;
+  }
+  .countdown {
+    padding: 2 * @gutter 0;
+    & > div {
+      width: 240px;
+    }
+  }
+  .day,
+  .hour,
+  .min {
+    height: 40px;
+    line-height: 40px;
+    width: 40px;
+  }
+  .unit {
+    background: white;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 20px;
+    color: @brand-blue;
+  }
+}
+
+.register-btn-container {
+  padding: 2 * @gutter + @gutter-sm 0;
+}
+
+.front-image-section {
+  .image-block {
+    max-width: 378px;
+    margin-right: @gutter-sm;
+    .desc {
+      margin: @gutter;
+      border-left: solid 3px @brand-blue;
+      padding-left: @gutter;
+    }
+    &:last {
+      margin-right: 0;
+    }
+  }
+  .sponsor-title {
+    margin: 0;
+    padding: 4 * @gutter 0 2 * @gutter 0;
+    color: @brand-blue;
+  }
+}

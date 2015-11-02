@@ -1,0 +1,43 @@
+.main-navigation {
+  background: @brand-green;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  padding: 10px 0;
+  .main-menu {
+    padding-top: 10px;
+  }
+  .navbar-nav > li {
+    line-height: 30px;
+    & > a {
+      line-height: 30px;
+      height: 30px;
+      padding: 0 20px;
+      border-left: solid 1px white;
+      border-right: solid 1px black;
+      color: white;
+      &:focus,
+      &:hover {
+        background-color: transparent;
+      }
+    }
+    &.first > a {
+      border-left: 0;
+    }
+    &.last > div {
+      border-left: solid 1px white;
+      padding: 0 20px;
+    }
+    &.open > a {
+      background-color: transparent;
+      border-left: solid 1px white;
+      border-right: solid 1px black;
+    }
+  }
+}
+
+.main-footer {
+  margin-top: 3* @gutter;
+  padding: 2 * @gutter 0;
+  background: #e2e3e3 repeat top left;
+}
