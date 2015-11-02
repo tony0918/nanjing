@@ -16,10 +16,6 @@
       border-left: solid 1px white;
       border-right: solid 1px black;
       color: white;
-      &:focus,
-      &:hover {
-        background-color: transparent;
-      }
     }
     &.first > a {
       border-left: 0;
@@ -32,6 +28,14 @@
       background-color: transparent;
       border-left: solid 1px white;
       border-right: solid 1px black;
+      &:hover,
+      &:focus {
+        color: @brand-blue !important;
+      }
+    }
+    .dropdown-menu {
+      opacity: 0.9;
+//      padding: @gutter;
     }
   }
 }
