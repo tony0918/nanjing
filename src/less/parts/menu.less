@@ -35,8 +35,14 @@
     }
     .dropdown-menu {
       opacity: 0.9;
-//      padding: @gutter;
     }
+  }
+  .navbar-toggle {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: @gutter-sm;
+    background-color: #ddd;
   }
 }
 
@@ -44,4 +50,14 @@
   margin-top: 3* @gutter;
   padding: 2 * @gutter 0;
   background: #e2e3e3 repeat top left;
+}
+
+@media (max-width: 767px) {
+  .main-navigation .navbar-nav > li.last > div,
+  .main-navigation .navbar-nav > li > a {
+    border: 0;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: black;
+  }
 }

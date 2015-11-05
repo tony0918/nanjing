@@ -8,9 +8,9 @@
   <title>南京山地马拉松</title>
   <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="../dist/css/main.css" />
-  <!--[if lt IE 9]>
-    <script src="../bower_components/html5shiv/dist/html5shiv.min.js"></script>
-    <script src="../bower_components/respond/dest/respond.min.js"></script>
+ <!--[if lt IE 9]>
+    <script src="libs/html5shiv/dist/html5shiv.min.js"></script>
+    <script src="libs/respond/dest/respond.min.js"></script>
     <![endif]-->
 </head>
 
@@ -18,54 +18,58 @@
   <nav class="main-navigation navbar navbar-default">
     <div class="container-fluid">
       <div class="row">
-        <div class="navbar-header col-sm-12 col-md-4 col-lg-5">
+        <div class="navbar-header col-xs-12 col-md-4 col-lg-5">
           <img src="images/logo.jpg" alt="" class="img-responsive">
         </div>
-        <div class="collapse navbar-collapse main-menu pull-right col-sm-12 col-md-8 col-lg-7">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <div id="navbar" class="collapse navbar-collapse main-menu pull-right col-xs-12 col-md-8 col-lg-7">
           <ul class="nav navbar-nav navbar-right">
-            <li class="first"><a href="#">品牌官网</a></li>
-            <li><a href="#">首页</a></li>
+            <li class="first"><a href="http://www.huluanpao.com">品牌官网</a></li>
+            <li><a href="/">首页</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事专题&nbsp;<span class="caret"></span>
 								</a>
               <ul class="dropdown-menu">
-                <li>有关赛事</li>
-                <li></li>
-                <li>menu3</li>
+                <li><a href="about.html" class="text-center">有关赛事</a></li>
+                <li><a href="rule.html" class="text-center">竞赛规程</a></li>
+                <li><a href="map.html" class="text-center">赛事线路图</a></li>
+                <li><a href="faq.html" class="text-center">常见问题</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事报名&nbsp;<span class="caret"></span>
 								</a>
               <ul class="dropdown-menu">
-                <li>有关赛事</li>
-                <li></li>
-                <li>menu3</li>
+                <li><a href="guidelines.html" class="text-center">报名须知</a></li>
+                <li><a href="signup.html" class="text-center">立即报名</a></li>
+                <li><a href="query.html" class="text-center">报名查询</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">成绩与照片&nbsp;<span class="caret"></span>
 								</a>
               <ul class="dropdown-menu">
-                <li>成绩与照片</li>
-                <li></li>
-                <li>menu3</li>
+                <li><a href="result.html" class="text-center">成绩查询</a></li>
+                <li><a href="photos.html" class="text-center">照片下载</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事赞助&nbsp;<span class="caret"></span>
 								</a>
               <ul class="dropdown-menu">
-                <li>赛事赞助</li>
-                <li></li>
-                <li>menu3</li>
+                <li><a href="sponsorship.html" class="text-center">赛事合作</a></li>
+                <li><a href="sponsor.html" class="text-center">赞助商</a></li>
               </ul>
             </li>
             <li class="last">
               <div>
                 <div class="btn-group btn-group-xs" role="group" aria-label="">
                   <a href="#" class="btn btn-default" disabled="disabled">CH</a>
-                  <a href="btn" class="btn btn-primary">EN</a>
+                  <a href="/en/" class="btn btn-primary">EN</a>
                 </div>
               </div>
             </li>

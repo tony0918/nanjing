@@ -1,0 +1,212 @@
+<nav class="main-navigation navbar navbar-default">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="navbar-header col-xs-12 col-sm-12 col-md-4 col-lg-5">
+        <img src="images/logo.jpg" alt="" class="img-responsive">
+      </div>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <div id="navbar" class="collapse navbar-collapse main-menu pull-right col-xs-12 col-sm-12 col-md-8 col-lg-7">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="first"><a href="http://www.huluanpao.com">品牌官网</a></li>
+          <li><a href="/">首页</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事专题&nbsp;<span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="about.html" class="text-center">有关赛事</a></li>
+              <li><a href="rule.html" class="text-center">竞赛规程</a></li>
+              <li><a href="map.html" class="text-center">赛事线路图</a></li>
+              <li><a href="faq.html" class="text-center">常见问题</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事报名&nbsp;<span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="guidelines.html" class="text-center">报名须知</a></li>
+              <li><a href="signup.html" class="text-center">立即报名</a></li>
+              <li><a href="query.html" class="text-center">报名查询</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">成绩与照片&nbsp;<span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="result.html" class="text-center">成绩查询</a></li>
+              <li><a href="photos.html" class="text-center">照片下载</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事赞助&nbsp;<span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="sponsorship.html" class="text-center">赛事合作</a></li>
+              <li><a href="sponsor.html" class="text-center">赞助商</a></li>
+            </ul>
+          </li>
+          <li class="last">
+            <div>
+              <div class="btn-group btn-group-xs" role="group" aria-label="">
+                <a href="#" class="btn btn-default" disabled="disabled">CH</a>
+                <a href="/en/" class="btn btn-primary">EN</a>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid front-kv-container">
+  <div class="row">
+    <img src="assets/kv.jpg" alt="" class="img-responsive" />
+  </div>
+</div>
+
+<div class="container-fluid front-countdown">
+  <div class="row text-center">
+    <h3>2016汇添富南京山地马拉松比赛倒计时</h3>
+    <div class="countdown">
+      <div class="center-block clearfix">
+        <div class="day pull-left">
+          <h4>99</h4></div>
+        <div class="unit pull-left">
+          <h4>天</h4></div>
+        <div class="hour pull-left">
+          <h4>99</h4></div>
+        <div class="unit pull-left">
+          <h4>时</h4></div>
+        <div class="min pull-left">
+          <h4>99</h4></div>
+        <div class="unit pull-left">
+          <h4>分</h4></div>
+      </div>
+    </div>
+    <h3>2016年3月27日 08:30</h3>
+  </div>
+</div>
+
+<div class="container-fluid content">
+  <div class="row">
+    <div class="register-btn-container">
+      <div class="text-center">
+        <a href="signup.html" class="btn btn-default btn-lg">立即报名</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="front-image-section clearfix">
+      <div class="container">
+        <div class="row">
+          <div class="image-block col-md-4 col-xs-12">
+            <div><img src="assets/small-kv1.jpg" alt="" class="img-rounded img-responsive"></div>
+            <p class="desc">参加42公里组和25公里组比赛者须在比赛当年3月27日前满18周岁</p>
+          </div>
+          <div class="image-block col-md-4 col-xs-12">
+            <div><img src="assets/small-kv1.jpg" alt="" class="img-rounded img-responsive"></div>
+            <p class="desc">参加42公里组和25公里组比赛者须在比赛当年3月27日前满18周岁</p>
+          </div>
+          <div class="image-block col-md-4 col-xs-12">
+            <div><img src="assets/small-kv1.jpg" alt="" class="img-rounded img-responsive"></div>
+            <p class="desc">参加42公里组和25公里组比赛者须在比赛当年3月27日前满18周岁</p>
+          </div>
+        </div>
+
+        <div class="row text-center">
+          <h3 class="sponsor-title">独家冠名赞助商</h3>
+          <p class="col-xs-12">
+            <a href=""><img src="images/u143.png" alt="汇添富基金"></a>
+          </p>
+        </div>
+
+        <div class="row text-center">
+          <h3 class="sponsor-title">官方赞助商</h3>
+          <p class="col-xs-6 col-md-2 col-md-offset-4">
+            <a href=""><img src="images/u181.png" alt="JEEP"></a>
+          </p>
+          <p class="col-xs-6 col-md-2">
+            <a href=""><img src="images/u183.png" alt="JEEP"></a>
+          </p>
+        </div>
+
+        <div class="row text-center">
+          <div class="col-md-6 col-xs-12">
+            <h3 class="sponsor-title">荣誉赞助</h3>
+            <p class="col-xs-6 col-md-4">
+              <a href=""><img src="images/u153.png" alt=""></a>
+            </p>
+            <p class="col-xs-6 col-md-4">
+              <a href=""><img src="images/u157.png" alt=""></a>
+            </p>
+            <p class="col-xs-6 col-md-4">
+              <a href=""><img src="images/u155.png" alt=""></a>
+            </p>
+          </div>
+          <div class="col-md-6 col-xs-12">
+            <h3 class="sponsor-title">公益合作 &middot; 公益监理</h3>
+            <p class="col-xs-6 col-md-4 col-md-offset-2">
+              <a href=""><img src="images/u163.png" alt=""></a>
+            </p>
+            <p class="col-xs-6 col-md-4">
+              <a href=""><img src="images/u167.png" alt=""></a>
+            </p>
+          </div>
+        </div>
+
+        <div class="row text-center">
+          <h3 class="sponsor-title">合作媒体</h3>
+          <p class="col-xs-6 col-md-2 col-md-offset-1">
+            <a href=""><img src="images/u169.png" alt=""></a>
+          </p>
+          <p class="col-xs-6 col-md-2">
+            <a href=""><img src="images/u171.png" alt=""></a>
+          </p>
+          <p class="col-xs-6 col-md-2">
+            <a href=""><img src="images/u173.png" alt=""></a>
+          </p>
+          <p class="col-xs-6 col-md-2">
+            <a href=""><img src="images/u185.png" alt=""></a>
+          </p>
+          <p class="col-xs-6 col-md-2">
+            <a href=""><img src="images/u187.png" alt=""></a>
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="container-fluid">
+  <div class="row main-footer">
+
+    <div class="col-md-3 col-md-offset-2 col-xs-12 text-center">
+      <p>主办单位：</p>
+      <p>南京市户外运动协会</p>
+      <p>南京市江宁区体育总会</p>
+      <p>上海穹景体育文化发展有限公司</p>
+    </div>
+
+    <div class="col-md-2 col-xs-12 text-center">
+      <p>
+        <label for="language">Language：</label>
+        <select name="" id="language">
+          <option value="zh" selected="selected">中文</option>
+          <option value="en">English</option>
+        </select>
+      </p>
+      <p>沪ICP备14023412号-2</p>
+    </div>
+
+    <div class="col-md-3 col-xs-12 text-center">
+      <span class="hidden-xs">关注我们：</span><img src="images/qr.jpg" alt="">
+    </div>
+
+  </div>
+</footer>
