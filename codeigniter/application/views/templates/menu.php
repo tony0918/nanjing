@@ -58,18 +58,19 @@
               </li>
             </ul>
           </li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事赞助&nbsp;<span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu">
-              <li>
-                <a href="<?php echo $baseUrl; ?>sponsor/sponsorship.html" class="text-center">赛事合作</a>
-              </li>
-              <li>
-                <a href="<?php echo $baseUrl; ?>sponsor.html" class="text-center">赞助商</a>
-              </li>
-            </ul>
-          </li>
+          <li><a href="<?php echo $baseUrl; ?>sponsor.html">赞助商</a></li>
+<!--          <li class="dropdown">-->
+<!--            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事赞助&nbsp;<span class="caret"></span>-->
+<!--            </a>-->
+<!--            <ul class="dropdown-menu">-->
+<!--              <li>-->
+<!--                <a href="--><?php //echo $baseUrl; ?><!--sponsor/sponsorship.html" class="text-center">赛事合作</a>-->
+<!--              </li>-->
+<!--              <li>-->
+<!--                <a href="--><?php //echo $baseUrl; ?><!--sponsor.html" class="text-center">赞助商</a>-->
+<!--              </li>-->
+<!--            </ul>-->
+<!--          </li>-->
           <li class="last">
             <div>
               <div class="btn-group btn-group-xs" role="group" aria-label="">
