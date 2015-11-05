@@ -42,8 +42,8 @@ module.exports = function (grunt) {
             cwd: 'src',
             src: ['libs/**'],
             dest: 'dist/'
-					}
-				]
+          }
+        ]
       },
       production: {
         files: [
@@ -52,7 +52,7 @@ module.exports = function (grunt) {
             cwd: 'src',
             src: ['libs/**'],
             dest: 'dist/'
-					}, {
+          }, {
             expand: true,
             cwd: 'bower_components',
             src: ['**/*.min.*'],
@@ -141,6 +141,7 @@ module.exports = function (grunt) {
 
   // Default task(s).
   grunt.registerTask('default', ['clean', 'less:development', 'autoprefixer:development', 'copy:development', 'watch']);
+  grunt.registerTask('imgmin', ['newer:imagemin']);
   grunt.registerTask('deploy', ['clean', 'less:production', 'autoprefixer:production', 'cssmin', 'copy:production', 'newer:imagemin', 'cdnify']);
 
 };

@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-  <title>南京山地马拉松</title>
+  <title><?php echo $pageTitle;?>|南京山地马拉松</title>
+  <link rel="shortcut icon" href="<?php echo $baseUrl;?>images/favicon.ico" type="image/vnd.microsoft.icon" />
   <link rel="stylesheet" href="<?php echo $baseUrl;?>libs/bootstrap/dist/css/bootstrap.min.css"/>
   <link rel="stylesheet" href="<?php echo $baseUrl;?>css/main.css"/>
   <!--[if lt IE 9]>

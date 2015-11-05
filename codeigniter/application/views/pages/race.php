@@ -35,16 +35,18 @@
         <p>在晨曦朝阳之下，征服一切目标；在湖光山色掩映之中，释放您的原动力！</p>
       </div>
     </div>
-    <div class="row">
-      <p class="col-xs-8 col-xs-offset-2 col-md-2 col-md-offset-3">
-        <img src="<?php echo $baseUrl; ?>assets/img1.jpg" alt="" class="img-responsive"/>
-      </p>
-      <p class="col-xs-8 col-xs-offset-2 col-md-2">
-        <img src="<?php echo $baseUrl; ?>assets/img2.jpg" alt="" class="img-responsive"/>
-      </p>
-      <p class="col-xs-8 col-xs-offset-2 col-md-2">
-        <img src="<?php echo $baseUrl; ?>assets/img3.jpg" alt="" class="img-responsive"/>
-      </p>
-    </div>
+  </div>
+  <div class="row">
+    <p class="col-xs-8 col-xs-offset-2 col-md-2 col-md-offset-3">
+      <img src="<?php echo $baseUrl; ?>assets/img1.jpg" alt="" class="img-responsive"/>
+    </p>
+
+    <p class="col-xs-8 col-xs-offset-2 col-md-2 col-md-offset-0">
+      <img src="<?php echo $baseUrl; ?>assets/img2.jpg" alt="" class="img-responsive"/>
+    </p>
+
+    <p class="col-xs-8 col-xs-offset-2 col-md-2 col-md-offset-0">
+      <img src="<?php echo $baseUrl; ?>assets/img3.jpg" alt="" class="img-responsive"/>
+    </p>
   </div>
 </div>
