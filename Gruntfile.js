@@ -3,15 +3,15 @@ module.exports = function (grunt) {
   // Project configuration.
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-    //    uglify: {
-    //      options: {
-    //        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
-    //      },
-    //      build: {
-    //        src: 'src/<%= pkg.name %>.js',
-    //        dest: 'build/<%= pkg.name %>.min.js'
-    //      }
-    //    }
+    uglify: {
+      options: {
+        //        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
+      },
+      production: {
+        src: 'src/js/*.js',
+        dest: 'dist/js/main.min.js'
+      }
+    },
     watch: {
       files: ['src/less/**/*.less'],
       tasks: ['less', 'autoprefixer']
@@ -55,7 +55,7 @@ module.exports = function (grunt) {
           }, {
             expand: true,
             cwd: 'bower_components',
-            src: ['**/*.min.*'],
+            src: ['**/{dist,dest}/**/*.min.{js,css}', '**/dist/**/fonts/*', '!**/src/**/*'],
             dest: 'dist/libs'
           }
         ]
@@ -137,11 +137,11 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-newer');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-cdnify');
-  //  grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks('grunt-contrib-uglify');
 
   // Default task(s).
   grunt.registerTask('default', ['clean', 'less:development', 'autoprefixer:development', 'copy:development', 'watch']);
   grunt.registerTask('imgmin', ['newer:imagemin']);
-  grunt.registerTask('deploy', ['clean', 'less:production', 'autoprefixer:production', 'cssmin', 'copy:production', 'newer:imagemin', 'cdnify']);
+  grunt.registerTask('deploy', ['clean', 'less:production', 'autoprefixer:production', 'uglify', 'cssmin', 'copy:production', 'newer:imagemin', 'cdnify']);
 
 };
