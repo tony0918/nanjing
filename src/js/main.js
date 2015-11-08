@@ -25,10 +25,18 @@
       }, 1000);
     }
 
-
     if ($('.time_area').attr('data-time')) {
       countDown($('.time_area').attr('data-time'), ".time_area");
     }
+
+    $('#language').change(function () {
+      var v = $(this).children('option:selected').val();
+      if ('en' == v) {
+        window.location.href = '/en';
+      } else {
+        window.location.href = '/';
+      }
+    });
   });
 
 })(jQuery);

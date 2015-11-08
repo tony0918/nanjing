@@ -7,19 +7,28 @@ class PageRender {
     $data = new stdClass();
     $data->baseUrl = base_url();
     $data->pageTitle = $pageTitle;
+    $head = 'head';
+    $menu = 'menu';
+    $footer = 'footer';
+    $foot = 'foot';
     if ($language === 'en') {
       $page .= '-en';
-      $data->baseUrl .= '/en/';
+      $head .= '-en';
+      $menu .= '-en';
+      $footer .= '-en';
+      $foot .= '-en';
+//      $data->baseUrl .= 'en/';
     }
     if (!file_exists(APPPATH . '/views/pages/' . $page . '.php')) {
       show_404();
     }
     else {
-      $self->load->view('templates/head', $data);
-      $self->load->view('templates/menu', $data);
+      $self->load->view('templates/' . $head, $data);
+      $self->load->view('templates/' . $menu, $data);
       $self->load->view('pages/' . $page, $data);
-      $self->load->view('templates/footer', $data);
-      $self->load->view('templates/foot', $data);
+      $self->load->view('templates/' . $footer, $data);
+      $self->load->view('templates/' . $foot, $data);
     }
+
   }
 }

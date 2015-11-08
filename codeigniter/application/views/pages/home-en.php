@@ -6,24 +6,24 @@
 
 <div class="container-fluid front-countdown">
   <div class="row text-center">
-    <h3>2016汇添富南京山地马拉松比赛倒计时</h3>
+    <h3>COUNTDOWN OF NANJING MOUNTAIN MARATHON 2016</h3>
     <div class="countdown time_area" data-time="2016-3-27 8:30:00">
       <div class="center-block clearfix">
         <div class="day pull-left">
           <h4 id="t_h"></h4></div>
         <div class="unit pull-left">
-          <h4>天</h4></div>
+          <h4>D</h4></div>
         <div class="hour pull-left">
           <h4 id="t_m"></h4></div>
         <div class="unit pull-left">
-          <h4>时</h4></div>
+          <h4>H</h4></div>
         <div class="min pull-left">
           <h4 id="t_s"></h4></div>
         <div class="unit pull-left">
-          <h4>分</h4></div>
+          <h4>M</h4></div>
       </div>
     </div>
-    <h3>2016年3月27日 08:30</h3>
+    <h3>March 27, 2015 08:30</h3>
   </div>
 </div>
 
@@ -31,7 +31,7 @@
   <div class="row">
     <div class="register-btn-container">
       <div class="text-center">
-        <a href="<?php echo $baseUrl; ?>signup.html" class="btn btn-default btn-lg">立即报名</a>
+        <a href="<?php echo $baseUrl; ?>en/signup.html" class="btn btn-default btn-lg">Register Now</a>
       </div>
     </div>
   </div>
