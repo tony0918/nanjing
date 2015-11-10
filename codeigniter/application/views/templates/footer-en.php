@@ -2,10 +2,10 @@
   <div class="row main-footer">
 
     <div class="col-md-3 col-md-offset-2 col-xs-12 text-center">
-      <p>主办单位：</p>
-      <p>南京市户外运动协会</p>
-      <p>南京市江宁区体育总会</p>
-      <p>上海穹景体育文化发展有限公司</p>
+      <p>Hosts：</p>
+      <p>Association of Outdoor Sports of Nanjing</p>
+      <p>General Sports Association of Jiangning District of Nanjing</p>
+      <p>Shanghai Skyview Sports Co., ltd</p>
     </div>
 
     <div class="col-md-2 col-xs-12 text-center">

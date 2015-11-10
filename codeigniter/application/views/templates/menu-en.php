@@ -18,13 +18,13 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="<?php echo $baseUrl; ?>en/race.html" class="text-center">有关赛事</a>
+                <a href="<?php echo $baseUrl; ?>en/race.html" class="text-center">About Race</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/race/rule.html" class="text-center">竞赛规程</a>
+                <a href="<?php echo $baseUrl; ?>en/race/rule.html" class="text-center">Competition Rules</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/race/map.html" class="text-center">赛事线路图</a>
+                <a href="<?php echo $baseUrl; ?>en/race/map.html" class="text-center">Route Map</a>
               </li>
               <li>
                 <a href="<?php echo $baseUrl; ?>en/race/faq.html" class="text-center">常见问题</a>
@@ -39,10 +39,10 @@
                 <a href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">报名须知</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/signup.html" class="text-center">立即报名</a>
+                <a href="<?php echo $baseUrl; ?>en/signup.html" class="text-center">Registrate Immediately</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/signup/query.html" class="text-center">报名查询</a>
+                <a href="<?php echo $baseUrl; ?>en/signup/query.html" class="text-center">Registration Status Check</a>
               </li>
             </ul>
           </li>
@@ -51,10 +51,10 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="<?php echo $baseUrl; ?>en/result.html" class="text-center">成绩查询</a>
+                <a href="<?php echo $baseUrl; ?>en/result.html" class="text-center">Query Result</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/photos.html" class="text-center">照片下载</a>
+                <a href="<?php echo $baseUrl; ?>en/photos.html" class="text-center">Photo Download</a>
               </li>
             </ul>
           </li>
