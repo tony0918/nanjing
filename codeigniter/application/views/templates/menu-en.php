@@ -27,7 +27,7 @@
                 <a href="<?php echo $baseUrl; ?>en/race/map.html" class="text-center">Route Map</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/race/faq.html" class="text-center">常见问题</a>
+                <a href="<?php echo $baseUrl; ?>en/race/faq.html" class="text-center">FAQ</a>
               </li>
             </ul>
           </li>
@@ -36,7 +36,7 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">报名须知</a>
+                <a href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">Regstitration Note</a>
               </li>
               <li>
                 <a href="<?php echo $baseUrl; ?>en/signup.html" class="text-center">Registrate Immediately</a>
