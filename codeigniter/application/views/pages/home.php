@@ -42,15 +42,15 @@
         <div class="row">
           <div class="image-block col-md-4 col-xs-12">
             <div><img src="<?php echo $baseUrl; ?>assets/small-kv2.jpg" alt="" class="img-rounded img-responsive"></div>
-            <p class="desc">参加42公里组和25公里组比赛者须在比赛当年3月27日前满18周岁</p>
+            <p class="desc">探索、享受南京的人文和自然之美</p>
           </div>
           <div class="image-block col-md-4 col-xs-12">
             <div><img src="<?php echo $baseUrl; ?>assets/small-kv3.jpg" alt="" class="img-rounded img-responsive"></div>
-            <p class="desc">参加42公里组和25公里组比赛者须在比赛当年3月27日前满18周岁</p>
+            <p class="desc">在晨曦朝阳之下，征服一切目标；在湖光山色掩映之中，释放您的原动力</p>
           </div>
           <div class="image-block col-md-4 col-xs-12">
             <div><img src="<?php echo $baseUrl; ?>assets/small-kv1.jpg" alt="" class="img-rounded img-responsive"></div>
-            <p class="desc">参加42公里组和25公里组比赛者须在比赛当年3月27日前满18周岁</p>
+            <p class="desc">在环保与公益领域积极探讨，鼓励选手参与回报社会</p>
           </div>
         </div>
 
@@ -58,16 +58,6 @@
           <h3 class="sponsor-title">独家冠名赞助商</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="img-responsive center-block">
-          </p>
-        </div>
-
-        <div class="row text-center">
-          <h3 class="sponsor-title">官方赞助商</h3>
-          <p class="col-xs-6 col-md-2 col-md-offset-4">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u181.png" alt="JEEP"></a>
-          </p>
-          <p class="col-xs-6 col-md-2">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u183.png" alt="JEEP"></a>
           </p>
         </div>
 
@@ -85,7 +75,7 @@
             </p>
           </div>
           <div class="col-md-6 col-xs-12">
-            <h3 class="sponsor-title">公益合作 &middot; 公益监理</h3>
+            <h3 class="sponsor-title">公益合作</h3>
             <p class="col-xs-6 col-md-4 col-md-offset-2">
               <a href=""><img src="<?php echo $baseUrl; ?>images/u163.png" alt=""></a>
             </p>
@@ -94,26 +84,6 @@
             </p>
           </div>
         </div>
-
-        <div class="row text-center">
-          <h3 class="sponsor-title">合作媒体</h3>
-          <p class="col-xs-6 col-md-2 col-md-offset-1">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u169.png" alt=""></a>
-          </p>
-          <p class="col-xs-6 col-md-2">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u171.png" alt=""></a>
-          </p>
-          <p class="col-xs-6 col-md-2">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u173.png" alt=""></a>
-          </p>
-          <p class="col-xs-6 col-md-2">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u185.png" alt=""></a>
-          </p>
-          <p class="col-xs-6 col-md-2">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u187.png" alt=""></a>
-          </p>
-        </div>
-
       </div>
     </div>
   </div>
