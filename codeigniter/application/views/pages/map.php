@@ -25,6 +25,16 @@
           <img src="<?php echo $baseUrl; ?>assets/25_u66.jpg" alt="" class="img-responsive"/>
         </p>
       </div>
+      
+      <div class="text-block">
+        <h4 class="text-title">(三) 12公里组: 地图有待上传</h4>
+
+<!--
+        <p>
+          <img src="<?php echo $baseUrl; ?>assets/25_u66.jpg" alt="" class="img-responsive"/>
+        </p>
+-->
+      </div>
     </div>
   </div>
 </div>

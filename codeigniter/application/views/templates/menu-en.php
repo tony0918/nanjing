@@ -36,7 +36,7 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">Regstitration Note</a>
+                <a href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">Registration Note</a>
               </li>
               <li>
                 <a href="<?php echo $baseUrl; ?>en/signup.html" class="text-center">Registrate Immediately</a>

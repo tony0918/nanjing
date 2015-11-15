@@ -60,11 +60,11 @@
           <tbody>
           <tr>
             <td>42km group</td>
-            <td>500 RMB per head</td>
+            <td>560 RMB per head</td>
           </tr>
           <tr>
             <td>25km group</td>
-            <td>300 RMB per head</td>
+            <td>350 RMB per head</td>
           </tr>
           <tr>
             <td>12km group</td>
@@ -72,6 +72,7 @@
           </tr>
           </tbody>
         </table>
+        <p>Remark:  parts of each participant's entry fee will be donated to the charity project in cooperation with the race: River and Kids. The amount will be 60 yuan for the 42 km group, 50 yuan for the 25 km group and the whole entry fee 300 yuan for the 12 km group. Additional donations from the runners are also encouraged.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">6. Payment</h4>

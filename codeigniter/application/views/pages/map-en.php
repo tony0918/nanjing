@@ -25,6 +25,15 @@
           <img src="<?php echo $baseUrl; ?>assets/25_u66.jpg" alt="" class="img-responsive"/>
         </p>
       </div>
+      <div class="text-block">
+        <h4 class="text-title">(3) 12km group: Soon available</h4>
+
+<!--
+        <p>
+          <img src="<?php echo $baseUrl; ?>assets/25_u66.jpg" alt="" class="img-responsive"/>
+        </p>
+-->
+      </div>
     </div>
   </div>
 </div>
