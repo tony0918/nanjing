@@ -4,5 +4,9 @@ version: 1
 handle:
 - rewrite: if (path ~ "^(?!codeigniter/)(.*)") goto "codeigniter/$1?%{QUERY_STRING}"
 - rewrite: if (!-d && !-f) goto "codeigniter/index.php/$1?%{QUERY_STRING}"
-#- compress: if(in_header["Accept-Encoding"] ~ "gzip") compress
+- compress: if(in_header["Accept-Encoding"] ~ "gzip") compress
 - compress: if(%{REQUEST_URI} ~* ".css") compress
+- compress: if(%{REQUEST_URI} ~* ".js") compress
+- compress: if(%{REQUEST_URI} ~* "/images/") compress
+- compress: if(%{REQUEST_URI} ~* "/assets/") compress
+- compress: if(%{REQUEST_URI} ~* "/libs/") compress
