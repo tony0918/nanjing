@@ -4,3 +4,4 @@ version: 1
 handle:
 - rewrite:if (path ~ "^(?!codeigniter/)(.*)") goto "codeigniter/$1?%{QUERY_STRING}"
 - rewrite:if (!-d && !-f) goto "codeigniter/index.php?%{QUERY_STRING}"
+- compress:if (%{REQUEST_URI} ~ "/images/") compress
