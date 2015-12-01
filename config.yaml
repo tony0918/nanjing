@@ -10,5 +10,5 @@ handle:
 #- compress: if(%{REQUEST_URI} ~* "/images/") compress
 #- compress: if(%{REQUEST_URI} ~* "/assets/") compress
 #- compress: if(%{REQUEST_URI} ~* "/libs/") compress
-- compress: if(out_header["Content-type"] ~* "javascript") compress
-- compress: if(out_header["Content-type"] ~* "image") compress
+- compress: if(out_header["Content-Type"] ~* "javascript") compress
+- compress: if(out_header["Content-Type"] ~* "image") compress
