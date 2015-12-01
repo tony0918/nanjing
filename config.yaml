@@ -5,3 +5,6 @@ handle:
 - rewrite:if (path ~ "^(?!codeigniter/)(.*)") goto "codeigniter/$1?%{QUERY_STRING}"
 - rewrite:if (!-d && !-f) goto "codeigniter/index.php?%{QUERY_STRING}"
 - compress:if (%{REQUEST_URI} ~ "/images/") compress
+- compress:if (%{REQUEST_URI} ~ "/assets/") compress
+- compress:if (%{REQUEST_URI} ~ "*.js") compress
+- compress:if (%{REQUEST_URI} ~ "*.css") compress
