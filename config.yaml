@@ -3,4 +3,4 @@ version: 1
 
 handle:
 - rewrite:if (path ~ "^(?!codeigniter/)(.*)") goto "codeigniter/$1?%{QUERY_STRING}"
-#- rewrite:if (in_header["host"] ~ "nanjinghuluanpao.sinaapp.com" && path ~ "^(?!codeigniter/)(.*)") goto "codeigniter/$1?%{QUERY_STRING}"
+- rewrite:if (!-d && !-f) goto "/index.php?%{QUERY_STRING}"
