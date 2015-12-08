@@ -19,14 +19,14 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">III. Date for race registration</h4>
-        <p>1. November 18th - December 30th (All registration is based on a first-come-first-served basis.)</p>
+        <p>1. December 18th - December 30th (All registration is based on a first-come-first-served basis.)</p>
         <p>2. Please refer to "Registration Note of 2016 CUAM Nanjing Mountain Marathon" for more information about the registration.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">IV. Events</h4>
         <p>1. 42km , with an elevation gain of 1200m</p>
         <p>2. 25km, with an elevation gain of 500m</p>
-        <p>3. 12km, with an elevation gain of 300m</p>
+        <p>3. 12km Family, with an elevation gain of 300m</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">V. Course</h4>
@@ -35,7 +35,7 @@
       <div class="text-block">
         <h4 class="text-title">VI. Participation</h4>
         <p>1. Runners in the 42km and 25km group should be in a health condition suitable for the race and at least 18 years old by the race day, March 27th, 2016.</p>
-        <p>2. Runners in 12km group should be in a suitable health condition and between 8 and 16 years old by the race day, March 27th, 2016.</p>
+        <p>2. Each team in the 12km family  will be formed by an adolescent between 8 years old and 16 years old (born between March 27, 2008 and March 27, 2000) and a parent or a legal guardian (born before March 27, 1998). They should enroll the race together. Anyone in a good health condition can participates in the race.</p>
         <p>3. The 42km group is limited to 600 entries. The 25km group is limited to 350 entries. The 12km group is limited to 50 entries. All registration is based on a first-come-first-served basis.</p>
         <p>4. Please follow "Registration Note" to enroll the race.</p>
         <p>5. Anyone who has any of the following diseases is not in a suitable health condition to participate in the 2016 CUAM Nanjing Mountain Marathon. </p>

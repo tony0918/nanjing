@@ -15,14 +15,14 @@
         <p>2. Events</p>
         <p>2.1 42km group: with an elevation gain of 1200m, 650 participants</p>
         <p>2.2 25km group: with an elevation gain of 500m, 300 participants</p>
-        <p>2.3 12km group: with an elevation gain of 300m, 50 participants</p>
+        <p>2.3 12km Family group: with an elevation gain of 300m, 50 participants</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">II. Qualification</h4>
         <p>1. Anyone who meets the requirements of the competition rules, with legal ID certifications and in good health conditions proved by physical checks, can register the race with no regard of nationalities.</p>
         <p>2. Age limits:</p>
         <p>2.1 Participants in the 42km and 25km group must be at least 18 years old (born before March 27, 1998), in a good health condition, and shall be runners with regular training. </p>
-        <p>2.2 Participants in the 12km group must be between 8 and 16 years old and in a good health condition.</p>
+        <p>2.2 Each team in the 12km family will be formed by an adolescent between 8 years old and 16 years old and a parent or a legal guardian. They should enroll the race together. Anyone in a good health condition can participates in the race.</p>
         <p>Remarks: Adolescent participants between 8 and 16 years old can only enroll the race with a statement signed by their guardians or legal representatives. </p>
         <p>3. Patients of the following diseases are not in suitable health conditions for the race. </p>
         <p>3.1 Congenital heart disease and rheumatic heart disease.</p>
@@ -34,7 +34,7 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">III. Open period for registration</h4>
-        <p>November 18th, 9:00 am – December 30th, 17:00 pm</p>
+        <p>December 15th, 9:00 – December 30th, 17:00</p>
         <p>All registration is based on a first-come-first-served basis.</p>
       </div>
       <div class="text-block">
@@ -60,16 +60,16 @@
             <td>350 RMB per head</td>
           </tr>
           <tr>
-            <td>12km</td>
-            <td>300 RMB per head</td>
+            <td>12 family km</td>
+            <td>200 RMB per head</td>
           </tr>
           </tbody>
         </table>
-        <p>Remark:  parts of each participant's entry fee will be donated to the charity project in cooperation with the race: River and Kids. The amount will be 60 yuan for the 42 km group, 50 yuan for the 25 km group and the whole entry fee 300 yuan for the 12 km group. Additional donations from the runners are also encouraged.</p>
+        <p>Remark: parts of each participant's entry fee will be donated to the charity project in cooperation with the race: River and Kids. The amount will be 60 yuan for the 42 km group, 50 yuan for the 25 km group and the whole entry fee 200 yuan for the 12 km family group. Additional donations from the runners are also encouraged.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">VI. Timing Chip</h4>
-        <p>All events will adopt the disposal timing chip. Runners will have no need to return the timing chips after the race.</p>
+        <p>All events will adopt the disposal timing chip. Runners will have no need to return the timing chips after the race.(The parent or legal guardian of 12km family team has no timing chips)</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">VII. The online registration process and things to note</h4>
