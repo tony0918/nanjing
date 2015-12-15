@@ -16,7 +16,7 @@
       </div>
 
       <div class="text-center">
-        <p><a class="btn btn-default btn-lg" href="https://regonline.activeglobal.com/Register/Checkin.aspx?EventID=1775664" target="_blank">立即报名</a></p>
+        <p><a class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/485?guest_register=true" target="_blank">立即报名</a></p>
       </div>
 
       <div class="text-center">
