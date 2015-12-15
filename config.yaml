@@ -10,5 +10,8 @@ handle:
 - compress: if(%{REQUEST_URI} ~* "/images/") compress
 - compress: if(%{REQUEST_URI} ~* "/assets/") compress
 - compress: if(%{REQUEST_URI} ~* "/libs/") compress
-- expire: if(path ~* ".css") time 99999
-- expire: if(path ~* ".js") time 99999
+- expire: if(path ~* ".css") time 9999999
+- expire: if(path ~* ".js") time 9999999
+- expire: if(path ~* "/images/") time 9999999
+- expire: if(path ~* "/assets/") time 9999999
+- expire: if(path ~* "/libs/") time 9999999
