@@ -16,7 +16,7 @@
       </div>
 
       <div class="text-center">
-        <p><a class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/485?guest_register=true" target="_blank">立即报名</a></p>
+        <p><a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','cn']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/485?guest_register=true" target="_blank">立即报名</a></p>
       </div>
 
       <div class="text-center">

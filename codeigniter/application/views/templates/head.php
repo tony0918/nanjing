@@ -9,10 +9,6 @@
   <link rel="shortcut icon" href="<?php echo $baseUrl;?>images/favicon.ico" type="image/vnd.microsoft.icon" />
   <link rel="stylesheet" href="<?php echo $baseUrl;?>libs/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="<?php echo $baseUrl;?>css/main.css" />
-  <!--[if lt IE 9]>
-  <script src="<?php echo $baseUrl;?>libs/html5shiv/dist/html5shiv.min.js"></script>
-  <script src="<?php echo $baseUrl;?>libs/respond/dest/respond.min.js"></script>
-  <![endif]-->
   <script>
     var _hmt = _hmt || [];
     (function () {
@@ -22,6 +18,10 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
+  <!--[if lt IE 9]>
+  <script src="<?php echo $baseUrl;?>libs/html5shiv/dist/html5shiv.min.js"></script>
+  <script src="<?php echo $baseUrl;?>libs/respond/dest/respond.min.js"></script>
+  <![endif]-->
 </head>
 
 <body>

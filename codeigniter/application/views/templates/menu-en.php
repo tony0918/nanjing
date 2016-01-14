@@ -11,23 +11,25 @@
       </button>
       <div id="navbar" class="collapse navbar-collapse pull-right main-menu col-xs-12 col-sm-12 col-md-8 col-lg-8">
         <ul class="nav navbar-nav navbar-right">
-          <li class="first"><a href="http://www.huluanpao.com">BRAND WEBSITE</a></li>
+          <li class="first">
+            <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'brandSite', 'en']);" href="http://www.huluanpao.com">BRAND WEBSITE</a>
+          </li>
           <li><a href="<?php echo $baseUrl; ?>en">HOME</a></li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS&nbsp;<span class="caret"></span>
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="<?php echo $baseUrl; ?>en/race.html" class="text-center">About Race</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race', 'en']);" href="<?php echo $baseUrl; ?>en/race.html" class="text-center">About Race</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/race/rule.html" class="text-center">Competition Rules</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-rule', 'en']);" href="<?php echo $baseUrl; ?>en/race/rule.html" class="text-center">Competition Rules</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/race/map.html" class="text-center">Route Map</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-map', 'en']);" href="<?php echo $baseUrl; ?>en/race/map.html" class="text-center">Route Map</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/race/faq.html" class="text-center">FAQ</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-faq', 'en']);" href="<?php echo $baseUrl; ?>en/race/faq.html" class="text-center">FAQ</a>
               </li>
             </ul>
           </li>
@@ -36,13 +38,13 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">Registration Note</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'signup-guidelines', 'en']);" href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">Registration Note</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/signup.html" class="text-center">Registrate Immediately</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'signup', 'en']);" href="<?php echo $baseUrl; ?>en/signup.html" class="text-center">Registrate Immediately</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/signup/query.html" class="text-center">Registration Status Check</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'signup-query', 'en']);" href="<?php echo $baseUrl; ?>en/signup/query.html" class="text-center">Registration Status Check</a>
               </li>
             </ul>
           </li>
@@ -51,14 +53,14 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="<?php echo $baseUrl; ?>en/result.html" class="text-center">Query Result</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'result', 'en']);" href="<?php echo $baseUrl; ?>en/result.html" class="text-center">Query Result</a>
               </li>
               <li>
-                <a href="<?php echo $baseUrl; ?>en/photos.html" class="text-center">Photo Download</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'photos', 'en']);" href="<?php echo $baseUrl; ?>en/photos.html" class="text-center">Photo Download</a>
               </li>
             </ul>
           </li>
-          <li><a href="<?php echo $baseUrl; ?>en/sponsor.html">PARTNERS</a></li>
+          <li><a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'sponsor', 'en']);" href="<?php echo $baseUrl; ?>en/sponsor.html">PARTNERS</a></li>
 <!--          <li class="dropdown">-->
 <!--            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事赞助&nbsp;<span class="caret"></span>-->
 <!--            </a>-->
@@ -74,7 +76,7 @@
           <li class="last">
             <div>
               <div class="btn-group btn-group-xs" role="group" aria-label="">
-                <a href="<?php echo $baseUrl; ?>" class="btn btn-primary">CH</a>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'languageCN', 'en']);" href="<?php echo $baseUrl; ?>" class="btn btn-primary">CH</a>
                 <a href="#" class="btn btn-default" disabled="disabled">EN</a>
               </div>
             </div>
