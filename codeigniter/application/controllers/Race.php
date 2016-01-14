@@ -18,4 +18,8 @@ class Race extends CI_Controller {
   public function map() {
     $this->pagerender->page_render_body($this, 'map', '赛事线路图');
   }
+
+  public function accommodation() {
+    $this->pagerender->page_render_body($this, 'accommodation', '酒店与交通');
+  }
 }
