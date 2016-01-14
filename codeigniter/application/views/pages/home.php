@@ -31,7 +31,7 @@
   <div class="row">
     <div class="register-btn-container">
       <div class="text-center">
-        <a href="<?php echo $baseUrl; ?>signup.html" class="btn btn-default btn-lg">立即报名</a>
+        <a onclick="_hmt.push(['_trackEvent', 'btn:front', 'click', 'signup','cn']);" href="<?php echo $baseUrl; ?>signup.html" class="btn btn-default btn-lg">立即报名</a>
       </div>
     </div>
   </div>

@@ -16,7 +16,7 @@
       </div>
 
       <div class="text-center">
-        <p><a class="btn btn-default btn-lg" href="">立即查询</a></p>
+        <p><a onclick="_hmt.push(['_trackEvent', 'btn:result', 'click', 'result','cn']);" class="btn btn-default btn-lg" href="">立即查询</a></p>
       </div>
 
       <div class="text-center">

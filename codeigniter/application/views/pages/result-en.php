@@ -16,7 +16,7 @@
       </div>
 
       <div class="text-center">
-        <p><a class="btn btn-default btn-lg" href="">Query Now</a></p>
+        <p><a onclick="_hmt.push(['_trackEvent', 'btn:result', 'click', 'result','en']);" class="btn btn-default btn-lg" href="">Query Now</a></p>
       </div>
 
       <div class="text-center">
