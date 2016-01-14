@@ -121,7 +121,7 @@
         <p>（1）	南京银城皇冠假日酒店为3月26日赛事包发放地；</p>
         <p>（2）	比赛起终点的南京蟠龙湖度假酒店为赛事工作酒店，赛事期间不对外接受选手预定。</p>
         <p>另外携程旅行网为赛事开放<b>&lt;银城皇冠假日酒店&gt;</b>和<b>&lt;丽湖雅致酒店&gt;</b>的优惠预定，选手可以扫下面二维码进行预定。</p>
-        <p><img src="<?php echo $baseUrl; ?>assets/img6.png" alt="携程二维码"></p>
+        <p class="text-center"><img src="<?php echo $baseUrl; ?>assets/img6.png" alt="携程二维码"></p>
       </div>
       <div class="text-block">
         <h4 class="text-title">亲友团服务包</h4>
