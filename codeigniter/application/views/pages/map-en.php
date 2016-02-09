@@ -12,28 +12,13 @@
       <h3 class="article-title text-center">Course map of 2016 CUAM Nanjing Mountain Marathon</h3>
 
       <div class="text-block">
-        <h4 class="text-title">(1) 42km group</h4>
-
         <p>
-          <img src="<?php echo $baseUrl; ?>assets/42_u57.jpg" alt="" class="img-responsive"/>
+          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map_2016.jpg','en']);" href="<?php echo $baseUrl; ?>assets/map_2016_original.jpg" target="_blank">
+            <img src="<?php echo $baseUrl; ?>assets/map_2016.jpg" alt="" class="img-responsive"/>
+          </a>
         </p>
       </div>
-      <div class="text-block">
-        <h4 class="text-title">(2) 25km group</h4>
 
-        <p>
-          <img src="<?php echo $baseUrl; ?>assets/25_u66.jpg" alt="" class="img-responsive"/>
-        </p>
-      </div>
-      <div class="text-block">
-        <h4 class="text-title">(3) 12km group: Soon available</h4>
-
-<!--
-        <p>
-          <img src="<?php echo $baseUrl; ?>assets/25_u66.jpg" alt="" class="img-responsive"/>
-        </p>
--->
-      </div>
     </div>
   </div>
 </div>
