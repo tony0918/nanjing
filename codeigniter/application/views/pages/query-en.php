@@ -16,7 +16,7 @@
       </div>
 
       <div class="text-center">
-        <p><a onclick="_hmt.push(['_trackEvent', 'btn:query', 'click', 'query','en']);" class="btn btn-default btn-lg" href="">Registration Check</a></p>
+        <p><a onclick="_hmt.push(['_trackEvent', 'btn:query', 'click', 'query','en']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/485/query?locale=en" target="_blank">Registration Check</a></p>
       </div>
 
       <div class="text-center">
