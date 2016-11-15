@@ -6,8 +6,8 @@
 
 <div class="container-fluid front-countdown">
   <div class="row text-center">
-    <h3>COUNTDOWN OF NANJING MOUNTAIN MARATHON 2016</h3>
-    <div class="countdown time_area" data-time="2016-3-27 8:30:00">
+    <h3>COUNTDOWN OF NANJING MOUNTAIN MARATHON 2017</h3>
+    <div class="countdown time_area" data-time="2017-3-26 8:30:00">
       <div class="center-block clearfix">
         <div class="day pull-left">
           <h4 id="t_h"></h4></div>
@@ -23,7 +23,7 @@
           <h4>M</h4></div>
       </div>
     </div>
-    <h3>March 27, 2015 08:30</h3>
+    <h3>March 26, 2017 08:30</h3>
   </div>
 </div>
 
