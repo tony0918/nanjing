@@ -8,7 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">2016汇添富南京山地马拉松竞赛规程</h3>
+      <h3 class="article-title text-center">2017汇添富南京山地马拉松竞赛规程</h3>
       <div class="text-block">
         <h4 class="text-title">一、主办单位</h4>
         <p>南京市户外运动协会、南京市江宁区体育总会、上海穹景体育文化发展有限公司</p>
