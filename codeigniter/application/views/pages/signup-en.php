@@ -12,11 +12,15 @@
       <h3 class="article-title text-center">Registrate Immediately</h3>
 
       <div class="text-block">
-        <p>Undoubtedly, 2016 CUAM Nanjing Mountain Marathon will be a dreamy race. If you´ve prepared to stand behind the start line on March 27th, please make your vacation plan and your training plan properly, and click the registration button as below.</p>
+        <p>Undoubtedly, 2017 CUAM Nanjing Mountain Marathon will be a dreamy race. If you´ve prepared to stand behind
+          the start line on March 26th, 2017, please make your vacation plan and your training plan properly, and click
+          the registration button as below.</p>
       </div>
 
       <div class="text-center">
-        <p><a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','en']);" class="btn btn-default btn-lg" href="https://regonline.activeglobal.com/Register/Checkin.aspx?EventID=1786840" target="_blank">Sign Up</a></p>
+        <p>
+          <a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','en']);" class="btn btn-default btn-lg" href="https://regonline.activeglobal.com/Register/Checkin.aspx?EventID=1786840" target="_blank">Sign
+            Up</a></p>
       </div>
 
       <div class="text-center">

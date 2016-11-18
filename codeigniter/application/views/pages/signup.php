@@ -12,11 +12,13 @@
       <h3 class="article-title text-center">立即报名</h3>
 
       <div class="text-block">
-        <p>毫无疑问2016汇添富南京山地马拉松将是梦幻般的赛事，当您准备3月27日站在起跑线之前，请安排您的假期、制定好您的训练计划、并点击下面的报名键</p>
+        <p>毫无疑问2017汇添富南京山地马拉松将是梦幻般的赛事，当您准备3月26日站在起跑线之前，请安排您的假期、制定好您的训练计划、并点击下面的报名键</p>
       </div>
 
       <div class="text-center">
-        <p><a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','cn']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/485?guest_register=true" target="_blank">立即报名</a></p>
+        <p>
+          <a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','cn']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/485?guest_register=true" target="_blank">立即报名</a>
+        </p>
       </div>
 
       <div class="text-center">

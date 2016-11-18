@@ -1,6 +1,6 @@
 <div class="container-fluid">
   <div class="row header-banner">
-    <img src="<?php echo $baseUrl;?>images/header-banner.jpg" alt="" class="img-responsive" />
+    <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
     <h1 class="page-title hidden-xs">报名须知</h1>
   </div>
 </div>
@@ -8,10 +8,10 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">2016汇添富南京山地马拉松赛报名须知</h3>
+      <h3 class="article-title text-center">2017汇添富南京山地马拉松赛报名须知</h3>
       <div class="text-block">
         <h4 class="text-title">一、比赛日期及项目</h4>
-        <p>1、比赛日期：2016年03月27日（星期日）</p>
+        <p>1、比赛日期：2017年03月26日（星期日）</p>
         <p>2、比赛项目</p>
         <p>（1）42公里组，累计爬升1200米，650人</p>
         <p>（2）25公里组，累计爬升500米，300人</p>
@@ -21,18 +21,18 @@
         <h4 class="text-title">二、报名资格</h4>
         <p>1、任何符合竞赛规程要求的人士，不分国籍，具有合法身份证明、经身体检查适宜者均可报名。</p>
         <p>2、参赛者年龄限定：</p>
-        <p>（1）参加42公里组和25公里组比赛者须在比赛当年3月27日前满18周岁，身体健康，适宜参加该项比赛；</p>
+        <p>（1）参加42公里组和25公里组比赛者须在比赛当年3月26日前满18周岁，身体健康，适宜参加该项比赛；</p>
         <p>（2）参加12公里家庭组的比赛者成年人必须18周岁以上，青少年在8-16周岁之间，身体健康者均可参加；</p>
         <p>注：8-16周岁未成年人参赛，需由其监护人或法定代理人签署参赛声明。</p>
         <p>3、以下疾病患者不宜报名参赛：先天性心脏病和风湿性心脏病患者/高血压和脑血管疾病患者/心肌炎和其它心脏病患者/冠状动脉病患者和严重心率不齐者/糖尿病患者/其他不适合运动的疾病患者。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">三、报名时间</h4>
-        <p>12月15日10:00至12月30日17:00，额满即止。</p>
+        <p>2016年12月15日10:00至2017年2月15日17:00，额满即止。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">四、报名方法</h4>
-        <p>前往2016汇添富南京山地马拉松官方网站www.huluanpao.com进行在线报名。</p>
+        <p>前往2017汇添富南京山地马拉松官方网站 <a href="http://nanjing.huluanpao.com">nanjing.huluanpao.com</a> 进行在线报名。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">五、报名费</h4>
@@ -66,22 +66,24 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">七、在线报名流程及注意事项</h4>
-        <p>1、参赛者登陆2016汇添富南京山地马拉松官方网站 <a href="http://nanjing.huluanpao.com">nanjing.huluanpao.com</a> 进行报名。</p>
+        <p>1、参赛者登陆2017汇添富南京山地马拉松官方网站 <a href="http://nanjing.huluanpao.com">nanjing.huluanpao.com</a> 进行报名。</p>
         <p>2、认真阅读报名须知、保险说明书及网上报名的相关内容。</p>
         <p>3、填写报名表。</p>
-        <p>4、网上缴纳报名费（支持支付宝和信用卡支付）。</p>
+        <p>4、网上缴纳报名费（支持支付宝、微信和信用卡支付）。</p>
         <p>5、付费成功后，既完成相应报名流程，等所有报名结束，赛事发送报名确认单。</p>
-        <p>6、报名成功的参赛者于3月26日（周六） 10:00-20:00，携带报名确认单和身份证原件至南京市银城皇冠假日酒店（南京市江宁区佳湖东路9号）领取比赛装备。不能代领装备。</p>
-        <p>7、注册缴费后，无法取消和退费。在2015年3月26日16:00之前可以转让名额。3月18 日之前转让名额发邮件申请，转让费用为人民币80元；3月18日－3月26日转让名额在领取赛事包现场咨询处，转让费用为人民币100元。名额接受人在领取赛事包时须出示有效人身意外保险单，赛事包的衣服尺码和号码布名字按照原注册人发放，成绩按照名额接受人。</p>
+        <p>6、报名成功的参赛者于3月25日（周六）10:00-20:00，携带报名确认单和身份证原件至南京市银城皇冠假日酒店（南京市江宁区佳湖东路9号）领取比赛装备。不能代领装备。</p>
+        <p>
+          7、注册缴费后，无法取消和退费。在2015年3月26日16:00之前可以转让名额。3月18日之前转让名额发邮件申请，转让费用为人民币80元；3月18日－3月26日转让名额在领取赛事包现场咨询处，转让费用为人民币100元。名额接受人在领取赛事包时须出示有效人身意外保险单，赛事包的衣服尺码和号码布名字按照原注册人发放，成绩按照名额接受人。</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">八、报名确认后如不参加比赛，将不予退还报名费，参赛项目和其他一切个人信息经确认后不得更改，参赛名额在一定时期内能转让，参考<a href="<?php echo $baseUrl; ?>faq.html">常见问题FAQ</a>。</h4>
+        <h4 class="text-title">八、报名确认后如不参加比赛，将不予退还报名费，参赛项目和其他一切个人信息经确认后不得更改，参考<a href="<?php echo $baseUrl; ?>faq.html">常见问题FAQ</a>。
+        </h4>
       </div>
       <div class="text-block">
-        <h4 class="text-title">九、本报名须知最终解释权归2016汇添富南京山地马拉松组委会所有。未尽事宜，另行通知。</h4>
+        <h4 class="text-title">九、本报名须知最终解释权归2017汇添富南京山地马拉松组委会所有。未尽事宜，另行通知。</h4>
       </div>
-      <p class="text-right">2016汇添富南京山地马拉松赛组委会</p>
-      <p class="text-right">二〇一五年十一月</p>
+      <p class="text-right">2017汇添富南京山地马拉松赛组委会</p>
+      <p class="text-right">二〇一六年十一月</p>
     </div>
   </div>
 </div>
