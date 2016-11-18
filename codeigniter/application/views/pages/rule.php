@@ -1,6 +1,6 @@
 <div class="container-fluid">
   <div class="row header-banner">
-    <img src="<?php echo $baseUrl;?>images/header-banner.jpg" alt="" class="img-responsive" />
+    <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
     <h1 class="page-title hidden-xs">赛事规程</h1>
   </div>
 </div>
@@ -15,12 +15,12 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">二、竞赛日期及地点</h4>
-        <p>2016年3月27日(星期日) 8:30 南京市江宁区蟠龙湖</p>
+        <p>2017年3月26日(星期日) 8:30 南京市江宁区蟠龙湖</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">三、报名日期</h4>
-        <p>（一）12月15日—12月30日（报名参赛人数额满为止）；</p>
-        <p>（二）报名办法详见《2016汇添富南京山地马拉松赛报名须知》。</p>
+        <p>（一）2016年12月15日—2017年2月15日（报名参赛人数额满为止）；</p>
+        <p>（二）报名办法详见《2017汇添富南京山地马拉松赛报名须知》。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">四、比赛项目</h4>
@@ -34,16 +34,16 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">六、参赛办法</h4>
-        <p>（一）参加42公里组和25公里组比赛者须在比赛当年3月27日前满18周岁，身体健康，适宜参加该项比赛；</p>
-        <p>（二）参加12公里家庭组比赛者由一名成年人和青少年组成，成年人比赛当年3月27日前满18周岁，青少人须在比赛当年3月27日前8-16周岁，身体健康者；</p>
+        <p>（一）参加42公里组和25公里组比赛者须在比赛当年3月26日前满18周岁，身体健康，适宜参加该项比赛；</p>
+        <p>（二）参加12公里家庭组比赛者由一名成年人和青少年组成，成年人比赛当年3月26日前满18周岁，青少人须在比赛当年3月26日前8-16周岁，身体健康者；</p>
         <p>（三）42公里组限报600人，25公里组限报350人，12公里组限报50人，额满为止；</p>
         <p>（四）按《报名须知》办理报名手续；</p>
-        <p>（五）以下疾病患者不宜参加2016汇添富南京山地马拉松赛：先天性心脏病和风湿性心脏病患者/高血压和脑血管疾病患者/心肌炎和其它心脏病患者/冠状动脉病患者和严重心率不齐者/糖尿病患者/其他不适合运动的疾病患者；</p>
+        <p>（五）以下疾病患者不宜参加2017汇添富南京山地马拉松赛：先天性心脏病和风湿性心脏病患者/高血压和脑血管疾病患者/心肌炎和其它心脏病患者/冠状动脉病患者和严重心率不齐者/糖尿病患者/其他不适合运动的疾病患者；</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">七、竞赛办法</h4>
         <p>（一）运动员比赛号码由组委会统一编发；</p>
-        <p>（二）参赛运动员必须于3月27日上午8：25前到起点按竞赛项目及号码布分类/分区，分别进行排队集结，8:30鸣枪起跑；</p>
+        <p>（二）参赛运动员必须于3月26日上午8：25前到起点按竞赛项目及号码布分类/分区，分别进行排队集结，8:30鸣枪起跑；</p>
         <p>（三）关门距离和时间：为了保证参赛选手比赛安全、顺利，比赛设关门时间。在规定的关门时间内，未跑完对应距离的参赛选手须立即停止比赛，退出赛道，以免发生危险。退出比赛的选手可乘坐组委会提供的收容车到终点处。</p>
         <p>
         <table class="table table-bordered text-center">
@@ -118,12 +118,12 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">十一、组委会联系方法</h4>
-        <p>2016汇添富南京山地马拉松赛组委会</p>
+        <p>2017汇添富南京山地马拉松赛组委会</p>
         <p>地址：上海市杨浦区隆昌路619号8号楼中区A03</p>
-        <p>电话： 021－6567 3212</p>
+        <p>电话：021－6567 3828</p>
         <p>邮编：200090</p>
-        <p>2016汇添富南京山地马拉松赛网址：<a href="http://nanjing.huluanpao.com">http://nanjing.huluanpao.com</a></p>
-        <p>2016汇添富南京山地马拉松赛电子邮箱：<a href="mailto:service@skyviewsport.com">service@skyviewsport.com</a></p>
+        <p>2017汇添富南京山地马拉松赛网址：<a href="http://nanjing.huluanpao.com">http://nanjing.huluanpao.com</a></p>
+        <p>2017汇添富南京山地马拉松赛电子邮箱：<a href="mailto:service@skyviewsport.com">service@skyviewsport.com</a></p>
       </div>
       <div class="text-block">
         <h4 class="text-title">十二、如遇不可抗力情况，组委会有权取消比赛。</h4>
@@ -134,8 +134,8 @@
       <div class="text-block">
         <h4 class="text-title">十四、本规程解释权归组委会</h4>
       </div>
-      <p class="text-right">2016汇添富南京山地马拉松赛组委会</p>
-      <p class="text-right">二〇一五年十一月</p>
+      <p class="text-right">2017汇添富南京山地马拉松赛组委会</p>
+      <p class="text-right">二〇一六年十一月</p>
     </div>
   </div>
 </div>
