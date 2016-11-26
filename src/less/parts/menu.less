@@ -48,9 +48,32 @@
 }
 
 .main-footer {
-  margin-top: 3* @gutter;
-  padding: 2 * @gutter 0;
-  //background: #e2e3e3 repeat top left;
+  //margin-top: 3* @gutter;
+  padding: 2 * @gutter 2 * @gutter @gutter 2 * @gutter;
+
+  a {
+    text-decoration: none;
+  }
+
+  .copyright p {
+    margin: 0;
+    color: #b8b8b8;
+  }
+
+  .language {
+    width: 50%;
+    padding: 30px 0;
+    ul {
+      padding-left: 10px;
+    }
+  }
+
+  .share-list {
+    a {
+      width: 30px;
+      margin: 30px 20px 30px 0;
+    }
+  }
 }
 
 @media (max-width: 767px) {
