@@ -1,40 +1,31 @@
 <footer class="container-fluid">
   <div class="row main-footer">
 
-    <div class="col-md-4 col-xs-12">
+    <div class="col-md-4 col-xs-12 copyright">
       <p>主办单位：</p>
       <p>南京市户外运动协会</p>
       <p>南京市江宁区体育总会</p>
-      <p>上海穹景体育文化发展有限公司</p>
+      <p>上海穹景体育文化发展有限公司 © 沪ICP备14023412号-2</p>
     </div>
 
-    <div class="col-md-4 col-xs-12 text-center">
-      <p>
-        <label for="language">Language：</label>
-        <select name="" id="language">
-          <option value="zh" selected="selected">中文</option>
-          <option value="en">English</option>
-        </select>
-      </p>
-      <p>沪ICP备14023412号-2</p>
+    <div class="col-md-3 col-md-offset-1 col-xs-12">
+      <div class="center-block language">
+        <div class="pull-left">Language:</div>
+        <ul class="pull-left list-unstyled">
+          <li><a href="zh">中文&nbsp;<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a></li>
+          <!--          <li value="en">English</li>-->
+        </ul>
+      </div>
+
     </div>
 
-    <div id="shareBar" class="clearfix">
-      <div class="tit pull-left">关注我们</div>
-      <ul class="shareList pull-left">
-        <li><a href="" class="sina">sina</a></li>
-        <li><a href="" class="wechat">wechat</a></li>
-        <li><a href="" class="qrcode">qrcode</a></li>
-      </ul>
-    </div>
-
-    <div class="col-md-4 hidden-xs text-right">
-      <div class="tit pull-left">关注我们</div>
-      <ul class="shareList pull-left">
-        <li><a href="http://weibo.com/u/3239397594" target="_blank" class="sina">sina</a></li>
-        <li><a href="" class="wechat">wechat</a></li>
-        <li><img src="<?php echo $baseUrl; ?>images/qr.jpg" alt=""></li>
-      </ul>
+    <div class="col-md-4 hidden-xs share-list">
+      <div class="pull-right">
+        <div class="pull-left" style="padding: 30px 20px 30px 0">关注我们</div>
+        <a href="http://weibo.com/u/3239397594" class="pull-left sina"><img src="<?php echo $baseUrl; ?>images/sina_icon.svg" alt=""></a>
+        <a href="#" class="wechat pull-left"><img src="<?php echo $baseUrl; ?>images/wechat_icon.svg" alt=""></a>
+        <div class="pull-left"><img src="<?php echo $baseUrl; ?>images/qr.jpg" alt=""></div>
+      </div>
     </div>
 
   </div>

@@ -1,6 +1,6 @@
 <div class="container-fluid front-kv-container">
   <div class="row">
-    <img src="<?php echo $baseUrl; ?>assets/kv.jpg" alt="" class="img-responsive" />
+    <img src="<?php echo $baseUrl; ?>assets/kv.jpg" alt="" class="img-responsive"/>
   </div>
 </div>
 
