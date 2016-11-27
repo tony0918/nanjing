@@ -22,4 +22,4 @@
   <script src="<?php echo $baseUrl;?>libs/respond/dest/respond.min.js"></script>
   <![endif]-->
 </head>
-<body class="en">
+<body class="en <?php echo $pageClass;?>">

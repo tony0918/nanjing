@@ -24,4 +24,4 @@
   <![endif]-->
 </head>
 
-<body>
+<body class="<?php echo $pageClass?>">

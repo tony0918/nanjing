@@ -1,15 +1,14 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-
-    <h1 class="page-title hidden-xs">FAQ</h1>
+    <h4 class="page-title hidden-xs text-center col-md-12">FAQ</h4>
   </div>
 </div>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">FAQ</h3>
+      <h3 class="article-title text-center visible-xs-block">FAQ</h3>
 
       <div class="text-block">
         <h4 class="text-title">I. Regarding the registration</h4>
