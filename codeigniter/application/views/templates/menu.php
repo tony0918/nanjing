@@ -1,8 +1,8 @@
 <nav class="main-navigation navbar navbar-default">
   <div class="container-fluid">
     <div class="row">
-      <div class="navbar-header col-xs-12 col-sm-12 col-md-4 col-lg-5">
-        <img src="<?php echo $baseUrl; ?>images/logo.jpg" alt="" class="img-responsive">
+      <div class="navbar-header col-xs-12 col-sm-12 col-md-3 col-lg-4">
+        <img src="<?php echo $baseUrl; ?>images/logo.png" alt="" class="img-responsive">
       </div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
         <span class="icon-bar"></span>
@@ -65,27 +65,31 @@
               </li>
             </ul>
           </li>
-          <li><a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'sponsor', 'cn']);" href="<?php echo $baseUrl; ?>sponsor.html">赞助商</a></li>
+          <li class="last">
+            <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'sponsor', 'cn']);" href="<?php echo $baseUrl; ?>sponsor.html">赞助商</a>
+          </li>
           <!--          <li class="dropdown">-->
           <!--            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">赛事赞助&nbsp;<span class="caret"></span>-->
           <!--            </a>-->
           <!--            <ul class="dropdown-menu">-->
           <!--              <li>-->
-          <!--                <a href="--><?php //echo $baseUrl; ?><!--sponsor/sponsorship.html" class="text-center">赛事合作</a>-->
+          <!--                <a href="-->
+          <?php //echo $baseUrl; ?><!--sponsor/sponsorship.html" class="text-center">赛事合作</a>-->
           <!--              </li>-->
           <!--              <li>-->
           <!--                <a href="--><?php //echo $baseUrl; ?><!--sponsor.html" class="text-center">赞助商</a>-->
           <!--              </li>-->
           <!--            </ul>-->
           <!--          </li>-->
-          <li class="last">
-            <div>
-              <div class="btn-group btn-group-xs" role="group" aria-label="">
-                <a href="#" class="btn btn-default" disabled="disabled">CH</a>
-                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'languageEN', 'cn']);" href="<?php echo $baseUrl; ?>en" class="btn btn-primary">EN</a>
-              </div>
-            </div>
-          </li>
+          <!--          <li >-->
+          <!--            <div>-->
+          <!--              <div class="btn-group btn-group-xs" role="group" aria-label="">-->
+          <!--                <a href="#" class="btn btn-default" disabled="disabled">CH</a>-->
+          <!--                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'languageEN', 'cn']);" href="-->
+          <?php //echo $baseUrl; ?><!--en" class="btn btn-primary">EN</a>-->
+          <!--              </div>-->
+          <!--            </div>-->
+          <!--          </li>-->
         </ul>
       </div>
     </div>
