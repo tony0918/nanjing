@@ -12,8 +12,10 @@
       <div class="center-block language">
         <div class="pull-left">Language:</div>
         <ul class="pull-left list-unstyled">
-          <li><a href="zh">English&nbsp;<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a></li>
-          <!--          <li value="en">English</li>-->
+          <li>
+            <a href="<?php echo $baseUrl; ?>en">English&nbsp;<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+          </li>
+          <li><a href="<?php echo $baseUrl; ?>zh">中文</a></li>
         </ul>
       </div>
     </div>
