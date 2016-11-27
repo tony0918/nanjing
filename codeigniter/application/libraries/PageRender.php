@@ -7,6 +7,7 @@ class PageRender {
     $data = new stdClass();
     $data->baseUrl = base_url();
     $data->pageTitle = $pageTitle;
+    $data->pageClass = strtolower($page);
     $head = 'head';
     $menu = 'menu';
     $footer = 'footer';

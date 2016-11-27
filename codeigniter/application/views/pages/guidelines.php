@@ -1,14 +1,14 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-    <h1 class="page-title hidden-xs">报名须知</h1>
+    <h4 class="page-title hidden-xs text-center col-md-12">2017汇添富南京山地马拉松赛报名须知</h4>
   </div>
 </div>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">2017汇添富南京山地马拉松赛报名须知</h3>
+      <h3 class="article-title text-center visible-xs-block">2017汇添富南京山地马拉松赛报名须知</h3>
       <div class="text-block">
         <h4 class="text-title">一、比赛日期及项目</h4>
         <p>1、比赛日期：2017年03月26日（星期日）</p>
