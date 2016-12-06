@@ -1,14 +1,14 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-    <h4 class="page-title text-center hidden-xs col-md-12">Competition Rules of 2017 CUAM Nanjing Mountain Marathon</h4>
+<!--    <h4 class="page-title text-center hidden-xs col-md-12">Competition Rules of 2017 CUAM Nanjing Mountain Marathon</h4>-->
   </div>
 </div>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center visible-xs-block">Competition Rules of 2017 CUAM Nanjing Mountain Marathon</h3>
+      <h3 class="article-title text-center">Competition Rules of 2017 CUAM Nanjing Mountain Marathon</h3>
       <div class="text-block">
         <h4 class="text-title">I. Host</h4>
         <p>Association of Outdoor Sports of Nanjing, General Sports Association of Jiangning District of Nanjing,

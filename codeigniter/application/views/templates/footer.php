@@ -2,10 +2,10 @@
   <div class="row main-footer">
 
     <div class="col-md-4 col-xs-12 copyright">
-      <p>主办单位：</p>
-      <p>南京市户外运动协会</p>
-      <p>南京市江宁区体育总会</p>
-      <p>上海穹景体育文化发展有限公司 © 沪ICP备14023412号-2</p>
+      <p>主办单位：南京市体育发展集团 </p>
+      <p>运营推广单位：上海穹景体育文化发展有限公司</p>
+      <p>协办单位：南京市户外运动协会、南京市江宁区体育局</p>
+      <p>© 2016-2017 沪ICP备14023412号-2</p>
     </div>
 
     <div class="col-md-3 col-md-offset-1 col-xs-12">

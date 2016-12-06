@@ -1,52 +1,44 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-    <h4 class="page-title hidden-xs text-center col-md-12">常见问题</h4>
+    <!--    <h4 class="page-title hidden-xs text-center col-md-12">常见问题</h4>-->
   </div>
 </div>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center visible-xs-block">常见问题</h3>
-
+      <h3 class="article-title text-center">常见问题</h3>
       <div class="text-block">
         <h4 class="text-title">一、报名类相关问题</h4>
       </div>
       <div class="text-block">
         <h4 class="text-title">1. 关于参赛报名资格</h4>
-
         <p>（1）任何人士，不分国籍，具有合法身份证明、身体健康者均可报名。</p>
-
         <p>（2）参赛者年龄限定：</p>
         <ol class="level-2">
           <li>参加42公里组和25公里组的比赛者必须年满18周岁（1999年3月26日前出生），身体健康，坚持长跑锻炼；</li>
           <li>参加12公里家庭组的比赛者成年人必须18周岁以上，青少年在8-16周岁之间，身体健康者均可参加。</li>
         </ol>
         <p>注：8-16周岁未成年人参赛，需由其监护人或法定代理人签署参赛声明。</p>
-
         <p>（3）以下疾病患者不宜报名参赛：先天性心脏病和风湿性心脏病患者/高血压和脑血管疾病患者/心肌炎和其它心脏病患者/冠状动脉病患者和严重心率不齐者/糖尿病患者/其他不适合运动的疾病患者。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">2. 如何报名参加2017汇添富南京山地马拉松</h4>
 
         <p>登陆2017汇添富南京山地马拉松官方网站 <a href="http://nanjing.huluanpao.com">nanjing.huluanpao.com</a> 进行报名。</p>
-        <h4 class="text-title">重要提醒：</h4>
-
-        <p>（1）报名成功后，请于3月01日－3月25日之间，在官网查询参赛号码并下载报名确认
-          单。请参赛者于3月25日10:00-20:00携带报名确认单和身份证原件至南京市银城皇冠假日酒店（南京市江宁区佳湖东路9号）领取比赛装备。（网站报名成功后都需至2017汇添富南京山地马拉松官方网站“报名查询”栏自行查询参赛号码下载报名确认单并签署参赛声明。）</p>
-
+        <p>重要提醒：</p>
+        <p>
+          （1）报名成功后，请于3月01日－3月25日之间，在官网查询参赛号码并下载报名确认单。请参赛者于3月25日10:00-20:00携带报名确认单和身份证原件至南京市银城皇冠假日酒店（南京市江宁区佳湖东路9号）领取比赛装备。（网站报名成功后都需至2017汇添富南京山地马拉松官方网站“报名查询”栏自行查询参赛号码下载报名确认单并签署参赛声明。）</p>
         <p>（2）建议参赛者关注“湖乱跑”官方微信，以便于参赛者第一时间获取赛事资讯。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">3. 报名项目及时间</h4>
-
         <p>所有项目组别：2016年12月15日10:00—2017年2月15日17:00，额满即止。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">4. 关于报名名额</h4>
-
-        <p>名额总计1000人：42公里组600人，25公里组350人，12公里组50人。各项目均限额报名，额满为止。</p>
+        <p>名额总计1000人：42公里组600人，25公里组350人，12公里组50组。各项目均限额报名，额满为止。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">5. 报名费用</h4>
@@ -72,16 +64,14 @@
           </tr>
           </tbody>
         </table>
-        <p>标注： 42公里组报名费中 60元／人、25公里组报名费中50元／人，12公里家庭组报名费的全部200元／人，捐赠给赛事合作公益项目”河流·孩子“，并鼓励选手额外的捐赠。</p>
+        <p>标注：12公里家庭组报名费的全部200元/人，捐赠给赛事合作公益项目”河流·孩子“，并鼓励选手额外的捐赠。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">6. 支付方式</h4>
-
         <p>参赛者可通过 “支付宝”、“微信支付”、“信用卡“进行在线缴费。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">7. 报名成功确认</h4>
-
         <p>完成缴费，显示报名成功，并发送确认邮件到注册邮箱。完成报名后，于3月01日－3月25日之间在官网查询号码并下载报名确认单。</p>
       </div>
       <div class="text-block">
@@ -100,7 +90,6 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">1、 装备领取</h4>
-
         <p>报名成功的参赛者于3月25日（周六） 10:00-20:00，携带报名确认单和身份证原件至南京市银城皇冠假日酒店（南京市江宁区佳湖东路9号）领取比赛装备装备包括：号码布、计时芯片、T恤、背袋等。</p>
       </div>
       <div class="text-block">
@@ -154,7 +143,7 @@
             <td>5小时</td>
           </tr>
           <tr>
-            <td>12公里组</td>
+            <td>12公里家庭组</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>3小时</td>
