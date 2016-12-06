@@ -3,9 +3,10 @@
 
     <div class="col-md-4 col-xs-12 copyright">
       <p>Hosts：</p>
+      <p>Nanjing Sports Development Group</p>
+      <p>Shanghai Skyview Sports Co., ltd</p>
       <p>Association of Outdoor Sports of Nanjing</p>
       <p>General Sports Association of Jiangning District of Nanjing</p>
-      <p>Shanghai Skyview Sports Co., ltd</p>
     </div>
 
     <div class="col-md-3 col-md-offset-1 col-xs-12">

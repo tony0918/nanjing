@@ -1,7 +1,7 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-<!--    <h4 class="page-title text-center hidden-xs col-md-12">Competition Rules of 2017 CUAM Nanjing Mountain Marathon</h4>-->
+    <!--    <h4 class="page-title text-center hidden-xs col-md-12">Competition Rules of 2017 CUAM Nanjing Mountain Marathon</h4>-->
   </div>
 </div>
 
@@ -11,40 +11,52 @@
       <h3 class="article-title text-center">Competition Rules of 2017 CUAM Nanjing Mountain Marathon</h3>
       <div class="text-block">
         <h4 class="text-title">I. Host</h4>
-        <p>Association of Outdoor Sports of Nanjing, General Sports Association of Jiangning District of Nanjing,
-          Shanghai Skyview Sports Co., ltd</p>
+        <p>Nanjing Sports Development Group</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">II. Race date and location</h4>
+        <h4 class="text-title">II. Operation</h4>
+        <p>Shanghai Skyview Sports Co., ltd</p>
+      </div>
+      <div class="text-block">
+        <h4 class="text-title">III. Co - Operation</h4>
+        <p>Association of Outdoor Sports of Nanjing</p>
+        <p>General Sports Association of Jiangning District of Nanjing</p>
+      </div>
+      <div class="text-block">
+        <h4 class="text-title">IV. Title Sponsors</h4>
+        <p>China Universal Asset Management Co., ltd</p>
+      </div>
+      <div class="text-block">
+        <h4 class="text-title">V. Race date and location</h4>
         <p>March 26th, 2017 (Sunday) 8:30 am at the Panlong Lake, Jiangning District, Nanjing</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">III. Date for race registration</h4>
+        <h4 class="text-title">VI. Date for race registration</h4>
         <p>1. December 15th,2016 - February 15th ,2017 ( All registration is based on a first-come-first-served basis.
           )</p>
         <p>2. Please refer to "Registration Note of 2017 CUAM Nanjing Mountain Marathon" for more information about the
           registration.</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">IV. Events</h4>
+        <h4 class="text-title">VII. Events</h4>
         <p>1. 42km , with an elevation gain of 1200m</p>
         <p>2. 25km, with an elevation gain of 500m</p>
         <p>3. 12km Family, with an elevation gain of 300m</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">V. Course</h4>
+        <h4 class="text-title">VIII. Course</h4>
         <p>Please refer to the course map publicized in the official website and "Race Guide" for derailed course
           information.</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">VI. Participation</h4>
+        <h4 class="text-title">IX. Participation</h4>
         <p>1. Runners in the 42km and 25km group should be in a health condition suitable for the race and at least 18
           years old by the race day, March 26th, 2017.</p>
         <p>2. Each team in the 12km family will be formed by an adolescent between 8 years old and 16 years old (born
           between March 26, 2009 and March 26, 2001) and a parent or a legal guardian (born before March 26, 1999). They
           should enroll the race together. Anyone in a good health condition can participates in the race.</p>
         <p>3. The 42km group is limited to 600 entries. The 25km group is limited to 350 entries. The 12km group is
-          limited to 50 entries. All registration is based on a first-come-first-served basis.</p>
+          limited to 50 groups. All registration is based on a first-come-first-served basis.</p>
         <p>4. Please follow "Registration Note" to enroll the race.</p>
         <p>5. Anyone who has any of the following diseases is not in a suitable health condition to participate in the
           2017 CUAM Nanjing Mountain Marathon.</p>
@@ -56,7 +68,7 @@
         <p>5.6 Other diseases that is not suitable for sports.</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">VI. Race</h4>
+        <h4 class="text-title">X. Race</h4>
         <p>1. Race numbers of all participants will be decided and distributed by the committee. </p>
         <p>2. All participants have to arrive at and gather in the corrals correspondent with their events and their BIB
           numbers before 8:25 am, March 26th. The race will start at 8:30 am with a gunshot. </p>
@@ -88,7 +100,7 @@
             <td>5h</td>
           </tr>
           <tr>
-            <td>12km group</td>
+            <td>12km Family group</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>3h</td>
@@ -120,13 +132,13 @@
         </ol>
       </div>
       <div class="text-block">
-        <h4 class="text-title">VII. Awards</h4>
+        <h4 class="text-title">XI. Awards</h4>
         <p>1. All groups: Top 6 male runners and top 6 female runners (gunshot time) will be awarded. </p>
         <p>2. All groups: Finishers’ medals will be handed out to runners who complete the race within the regulated
           time. </p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">VIII. Race insurance and medical</h4>
+        <h4 class="text-title">XII. Race insurance and medical</h4>
         <p>1 The race committee will purchase personal accident insurances for all the participants and staff. If
           insurances can’t be purchased or are invalidated due to incomplete or false information provided by the
           participants, it shall be the participants who take the responsibility. </p>
@@ -156,11 +168,11 @@
         </p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">IX. Judges</h4>
+        <h4 class="text-title">XIII. Judges</h4>
         <p>Judges of the race will be appointed by the race committee.</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">X. Contact</h4>
+        <h4 class="text-title">XIV. Contact</h4>
         <p>Race committee of 2017 CUAM Nanjing Mountain Marathon</p>
         <p>Address: Room A03, Central district, Block 8 No.619, LongChang Road, Yangpu Shanghai</p>
         <p>Tel: 021－6567 3828</p>
@@ -169,14 +181,14 @@
         <p>Email: <a href="mailto:service@skyviewsport.com">service@skyviewsport.com</a></p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XI. The race committee has the right to cancel the race if force majeure is
+        <h4 class="text-title">XV. The race committee has the right to cancel the race if force majeure is
           encountered.</h4>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XII. All pending matters will be given further notice. </h4>
+        <h4 class="text-title">XVI. All pending matters will be given further notice.</h4>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XIII. The race committee reserves the right of the final interpretation of this
+        <h4 class="text-title">XVII. The race committee reserves the right of the final interpretation of this
           "competition rules".</h4>
       </div>
       <p class="text-right">Committee of the 2017 CUAM Nanjing Mountain Marathon</p>
