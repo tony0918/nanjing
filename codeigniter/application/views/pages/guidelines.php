@@ -1,21 +1,21 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-    <h4 class="page-title hidden-xs text-center col-md-12">2017汇添富南京山地马拉松赛报名须知</h4>
+    <!--    <h4 class="page-title hidden-xs text-center col-md-12">2017汇添富南京山地马拉松赛报名须知</h4>-->
   </div>
 </div>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center visible-xs-block">2017汇添富南京山地马拉松赛报名须知</h3>
+      <h3 class="article-title text-center">2017汇添富南京山地马拉松赛报名须知</h3>
       <div class="text-block">
         <h4 class="text-title">一、比赛日期及项目</h4>
         <p>1、比赛日期：2017年03月26日（星期日）</p>
         <p>2、比赛项目</p>
         <p>（1）42公里组，累计爬升1200米，650人</p>
         <p>（2）25公里组，累计爬升500米，300人</p>
-        <p>（3）12公里家庭组，累计爬升 300米，50人</p>
+        <p>（3）12公里家庭组，累计爬升 300米，50组</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">二、报名资格</h4>
@@ -58,7 +58,7 @@
           </tr>
           </tbody>
         </table>
-        <p>标注： 42公里组报名费中 60元／人、25公里组报名费中50元／人，12公里家庭组报名费的全部200元／人，捐赠给赛事合作公益项目”河流·孩子“，并鼓励选手额外的捐赠。</p>
+        <p>标注：12公里家庭组报名费的全部200元/人，捐赠给赛事合作公益项目”河流·孩子“，并鼓励选手额外的捐赠。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">六、计时芯片</h4>
@@ -72,8 +72,6 @@
         <p>4、网上缴纳报名费（支持支付宝、微信和信用卡支付）。</p>
         <p>5、付费成功后，既完成相应报名流程，等所有报名结束，赛事发送报名确认单。</p>
         <p>6、报名成功的参赛者于3月25日（周六）10:00-20:00，携带报名确认单和身份证原件至南京市银城皇冠假日酒店（南京市江宁区佳湖东路9号）领取比赛装备。不能代领装备。</p>
-        <p>
-          7、注册缴费后，无法取消和退费。在2015年3月26日16:00之前可以转让名额。3月18日之前转让名额发邮件申请，转让费用为人民币80元；3月18日－3月26日转让名额在领取赛事包现场咨询处，转让费用为人民币100元。名额接受人在领取赛事包时须出示有效人身意外保险单，赛事包的衣服尺码和号码布名字按照原注册人发放，成绩按照名额接受人。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">八、报名确认后如不参加比赛，将不予退还报名费，参赛项目和其他一切个人信息经确认后不得更改，参考<a href="<?php echo $baseUrl; ?>faq.html">常见问题FAQ</a>。
