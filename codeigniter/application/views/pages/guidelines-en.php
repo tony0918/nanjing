@@ -15,8 +15,7 @@
         <p>2. Events</p>
         <p>2.1 42km group: with an elevation gain of 1200m, 650 participants</p>
         <p>2.2 25km group: with an elevation gain of 500m, 300 participants</p>
-        <p>2.3 12km Family group: with an elevation gain of 300m, 50
-          participants</p>
+        <p>2.3 12km Family group: with an elevation gain of 300m, 50 groups</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">II. Qualification</h4>
@@ -66,24 +65,21 @@
           </thead>
           <tbody>
           <tr>
-            <td>42km</td>
+            <td>42km group</td>
             <td>560 RMB per head</td>
           </tr>
           <tr>
-            <td>25km</td>
+            <td>25km group</td>
             <td>350 RMB per head</td>
           </tr>
           <tr>
-            <td>12 family km</td>
+            <td>12km Family group</td>
             <td>200 RMB per head</td>
           </tr>
           </tbody>
         </table>
-        <p>Remark: parts of each participant's entry fee will be donated to the
-          charity project in cooperation with the race: River and Kids. The
-          amount will be 60 yuan for the 42 km group, 50 yuan for the 25 km
-          group and the whole entry fee 200 yuan for the 12 km family group.
-          Additional donations from the runners are also encouraged.</p>
+        <p>Remark: The whole entry fee 200 yuan for the 12km family group will be donated to the charity project in
+          cooperation with the race: River and Kids.. Additional donations from the runners are also encouraged.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">VI. Timing Chip</h4>

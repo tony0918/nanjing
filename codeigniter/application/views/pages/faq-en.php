@@ -1,7 +1,7 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-<!--    <h4 class="page-title hidden-xs text-center col-md-12">FAQ</h4>-->
+    <!--    <h4 class="page-title hidden-xs text-center col-md-12">FAQ</h4>-->
   </div>
 </div>
 
@@ -19,10 +19,10 @@
           the race.</p>
         <p>b. Age limits: </p>
         <ol class="level-2">
-          <li>1. Participants in the 42km and 25km group must be at least 18 years old (born before March 26, 1999), in
-            a good health condition, and shall be runners with regular training.
+          <li>Participants in the 42km and 25km group must be at least 18 years old (born before March 26, 1999), in a
+            good health condition, and shall be runners with regular training.
           </li>
-          <li>2. Each team in the 12km family will be formed by an adolescent between 8 years old and 16 years old and a
+          <li>Each team in the 12km family will be formed by an adolescent between 8 years old and 16 years old and a
             parent or a legal guardian. They should enroll the race together. Anyone in a good health condition can
             participates in the race.
           </li>
@@ -41,7 +41,7 @@
         <h4 class="text-title">2. How to register 2017 CUAM Nanjing Mountain Marathon?</h4>
         <p>Please log onto the official website of 2017 CUAM Nanjing Mountain Marathon to register the race. </p>
         <p>Official website: <a href="http://nanjing.huluanpao.com">nanjing.huluanpao.com</a></p>
-        <h4 class="text-title">Attention:</h4>
+        <p>Attention:</p>
         <p>1. Please inquire your bib number in the official website and download your confirmation slip of the race
           registration between March 1st and March 26th. Please pick up your race packet with your confirmation slip of
           the race registration and your original ID at Crowne Plaza Nanjing Jiangning (No.9 East Jiahu Road, Jiangning
@@ -59,8 +59,8 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">4. Quota limits</h4>
-        <p>There will be 1000 places in all, including 600 for the 42km group, 350 for the 25km group and 50 for the
-          12km group. All registration is based on a first-come-first-served basis.</p>
+        <p>There will be 1000 places in all, including 600 for the 42km group, 350 for the 25km group and 50 groups for
+          the 12km group. All registration is based on a first-come-first-served basis.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">5. Entry fee</h4>
@@ -86,10 +86,8 @@
           </tr>
           </tbody>
         </table>
-        <p>Remark: parts of each participant's entry fee will be donated to the charity project in cooperation with the
-          race: River and Kids. The amount will be 60 yuan for the 42 km group, 50 yuan for the 25 km group and the
-          whole entry fee 200 yuan for the 12 km family group. Additional donations from the runners are also
-          encouraged.</p>
+        <p>Remark: The whole entry fee 200 yuan for the 12km family group will be donated to the charity project in
+          cooperation with the race: River and Kids. Additional donations from the runners are also encouraged.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">6. Payment</h4>
@@ -173,7 +171,7 @@
             <td>5h</td>
           </tr>
           <tr>
-            <td>12km group</td>
+            <td>12km Family group</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>3h</td>
