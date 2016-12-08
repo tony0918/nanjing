@@ -19,7 +19,7 @@
         </ul>
         <div class="pull-left visible-xs-block">&nbsp;
           <a href="<?php echo $baseUrl; ?>zh">中文</a>
-          <a href="<?php echo $baseUrl; ?>en" style="margin-left: 15px;">English</a>
+          <a href="<?php echo $baseUrl; ?>en" style="margin-left: 5px;">English</a>
         </div>
       </div>
 
