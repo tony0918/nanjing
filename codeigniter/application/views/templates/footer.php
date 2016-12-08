@@ -17,8 +17,9 @@
           </li>
           <li><a href="<?php echo $baseUrl; ?>en">English</a></li>
         </ul>
-        <div class="pull-left visible-md-block">
-          <a href="<?php echo $baseUrl; ?>zh">中文</a>&nbsp;<a href="<?php echo $baseUrl; ?>en">English</a>
+        <div class="pull-left visible-xs-block">&nbsp;
+          <a href="<?php echo $baseUrl; ?>zh">中文</a>
+          <a href="<?php echo $baseUrl; ?>en" style="margin-left: 15px;">English</a>
         </div>
       </div>
 
