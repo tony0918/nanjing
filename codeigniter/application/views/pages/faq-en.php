@@ -59,7 +59,7 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">4. Quota limits</h4>
-        <p>There will be 1000 places in all, including 600 for the 42km group, 350 for the 25km group and 50 groups for
+        <p>There will be 1050 places in all, including 600 for the 42km group, 350 for the 25km group and 50 groups for
           the 12km group. All registration is based on a first-come-first-served basis.</p>
       </div>
       <div class="text-block">
@@ -95,9 +95,12 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">7. Confirmation of the registration</h4>
-        <p>After payment you'll be prompted that you've successfully registered the race and an email will be sent to
-          you for confirmation. After the registration you need to inquire your bib number at the official website and
-          download the confirmation slip of the registration between March 1st and March 25th.</p>
+        <p>1. After the pay success, a confirmation email will be sent to the email address provided by
+          participants. </p>
+        <p>2. After the pay success,participants’ll be able to inquire registration status in the “Query Result” column
+          of the website after registration. </p>
+        <p>3. After the registration success, please inquire your bib number at the official website and download the
+          confirmation slip of the registration between March 1st and March 25th.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">8. Refund of the entry fee</h4>
@@ -124,8 +127,8 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">2. Picking up race packets by others and quota transfer</h4>
-        <p>The race committee suggests you pick up your own race packet in person at the expo. After the registration is
-          confirmed, the quota can’t be cancel/refund and transfer.</p>
+        <p>The race packet can't be picked by other person. After the registration is confirmed, you won’t be allowed to
+          cancel and transfer your race event. There won’t be any refund either if you quit the race.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">3. Race date and time</h4>

@@ -12,8 +12,8 @@
 
       <div class="text-block">
         <p>
-          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map_2016.jpg','cn']);" href="<?php echo $baseUrl; ?>assets/map_2016_original.jpg" target="_blank">
-            <img src="<?php echo $baseUrl; ?>assets/map_2016.jpg" alt="" class="img-responsive"/>
+          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map_2016.jpg','cn']);" href="<?php echo $baseUrl; ?>assets/map_original.jpg" target="_blank">
+            <img src="<?php echo $baseUrl; ?>assets/map.jpg" alt="" class="img-responsive"/>
           </a>
         </p>
       </div>

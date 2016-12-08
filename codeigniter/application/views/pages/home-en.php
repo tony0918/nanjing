@@ -42,15 +42,15 @@
       <div class="container">
         <div class="row">
           <div class="image-block col-md-4 col-xs-12">
-            <div><img src="<?php echo $baseUrl; ?>assets/small-kv2.jpg" alt="" class="img-rounded img-responsive"></div>
+            <div><img src="<?php echo $baseUrl; ?>assets/small-kv1.jpg" alt="" class="img-rounded img-responsive"></div>
             <p class="desc">Discover，enjoy the cultural and natural beauty of Nanjing</p>
           </div>
           <div class="image-block col-md-4 col-xs-12">
-            <div><img src="<?php echo $baseUrl; ?>assets/small-kv3.jpg" alt="" class="img-rounded img-responsive"></div>
+            <div><img src="<?php echo $baseUrl; ?>assets/small-kv2.jpg" alt="" class="img-rounded img-responsive"></div>
             <p class="desc">Release your motive power in company with the mountains and the lake</p>
           </div>
           <div class="image-block col-md-4 col-xs-12">
-            <div><img src="<?php echo $baseUrl; ?>assets/small-kv1.jpg" alt="" class="img-rounded img-responsive"></div>
+            <div><img src="<?php echo $baseUrl; ?>assets/small-kv3.jpg" alt="" class="img-rounded img-responsive"></div>
             <p class="desc">To approach environment and charity fields further, encouraging participants to return
               building society</p>
           </div>

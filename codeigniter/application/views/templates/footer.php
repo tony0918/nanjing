@@ -11,12 +11,15 @@
     <div class="col-md-3 col-md-offset-1 col-xs-12">
       <div class="center-block language">
         <div class="pull-left">Language:</div>
-        <ul class="pull-left list-unstyled">
+        <ul class="pull-left list-unstyled hidden-xs">
           <li>
             <a href="zh">中文&nbsp;<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
           </li>
           <li><a href="<?php echo $baseUrl; ?>en">English</a></li>
         </ul>
+        <div class="pull-left visible-md-block">
+          <a href="<?php echo $baseUrl; ?>zh">中文</a>&nbsp;<a href="<?php echo $baseUrl; ?>en">English</a>
+        </div>
       </div>
 
     </div>
