@@ -7,7 +7,7 @@
   <title><?php echo $pageTitle; ?>|NANJING MOUNTAIN MARATHON 2016</title>
   <link rel="shortcut icon" href="<?php echo $baseUrl; ?>images/favicon.ico" type="image/vnd.microsoft.icon"/>
   <link rel="stylesheet" href="<?php echo $baseUrl; ?>libs/bootstrap/dist/css/bootstrap.min.css"/>
-  <link rel="stylesheet" href="<?php echo $baseUrl; ?>css/main.css"/>
+  <link rel="stylesheet" href="<?php echo $baseUrl; ?>css/main.css?1"/>
   <script>
     var _hmt = _hmt || [];
     (function () {
