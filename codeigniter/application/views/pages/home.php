@@ -47,15 +47,15 @@
       <div class="container">
         <div class="row">
           <div class="image-block col-md-4 col-xs-12">
-            <div><img src="<?php echo $baseUrl; ?>assets/small-kv1.jpg" alt="" class="img-rounded img-responsive"></div>
+            <div><img src="<?php echo $baseUrl; ?>assets/small-kv1.jpg?1" alt="" class="img-rounded img-responsive"></div>
             <p class="desc">探索、享受南京的人文和自然之美</p>
           </div>
           <div class="image-block col-md-4 col-xs-12">
-            <div><img src="<?php echo $baseUrl; ?>assets/small-kv2.jpg" alt="" class="img-rounded img-responsive"></div>
+            <div><img src="<?php echo $baseUrl; ?>assets/small-kv2.jpg?1" alt="" class="img-rounded img-responsive"></div>
             <p class="desc">在晨曦朝阳之下，征服一切目标；在湖光山色掩映之中，释放您的原动力</p>
           </div>
           <div class="image-block col-md-4 col-xs-12">
-            <div><img src="<?php echo $baseUrl; ?>assets/small-kv3.jpg" alt="" class="img-rounded img-responsive"></div>
+            <div><img src="<?php echo $baseUrl; ?>assets/small-kv3.jpg?1" alt="" class="img-rounded img-responsive"></div>
             <p class="desc">在环保与公益领域积极探讨，鼓励选手参与回报社会</p>
           </div>
         </div>
