@@ -174,7 +174,7 @@
       <div class="text-block">
         <h4 class="text-title">XIV. Contact</h4>
         <p>Race committee of 2017 CUAM Nanjing Mountain Marathon</p>
-        <p>Address: Room A03, Central district, Block 8 No.619, LongChang Road, Yangpu Shanghai</p>
+        <p>Address: Room 312, Building A, No.10, No.619, LongChang Road, Yangpu Shanghai</p>
         <p>Tel: 021－6567 3828</p>
         <p>Postcode: 200090</p>
         <p>Website: <a href="http://nanjing.huluanpao.com">http://nanjing.huluanpao.com</a></p>
