@@ -1,6 +1,6 @@
 (function ($) {
     'use strict';
-    $(function () {
+    // $(function () {
         function countDown(time, id) {
             var day_elem = $(id).find('#t_h');
             var hour_elem = $(id).find('#t_m');
@@ -37,6 +37,6 @@
         //         window.location.href = '/';
         //     }
         // });
-    });
+    // });
 
 })(jQuery);
