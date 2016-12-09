@@ -23,6 +23,6 @@ class Welcome extends CI_Controller {
     $now = new DateTime('NOW', $timezone);
     $target = new DateTime('2017-3-26 8:30:00', $timezone);
     $dif = $target->diff($now, TRUE);
-    $this->pagerender->page_render_body($this, 'home', '首页', array('d' => $dif->d, 'h' => $dif->h, 'i' => $dif->i));
+    $this->pagerender->page_render_body($this, 'home', '首页', array('d' => $dif->days, 'h' => $dif->h, 'i' => $dif->i));
   }
 }
