@@ -10,19 +10,19 @@
     <div class="countdown time_area" data-time="2017-3-26 8:30:00">
       <div class="center-block clearfix">
         <div class="day pull-left">
-          <h2 id="t_h"></h2>
+          <h2 id="t_h"><?php echo $countDown['d'];?></h2>
         </div>
         <div class="unit pull-left">
           <h4>天</h4>
         </div>
         <div class="hour pull-left">
-          <h2 id="t_m"></h2>
+          <h2 id="t_m"><?php echo $countDown['h'];?></h2>
         </div>
         <div class="unit pull-left">
           <h4>时</h4>
         </div>
         <div class="min pull-left">
-          <h2 id="t_s"></h2>
+          <h2 id="t_s"><?php echo $countDown['i'];?></h2>
         </div>
         <div class="unit pull-left last">
           <h4>分</h4>
@@ -59,12 +59,7 @@
             <p class="desc">在环保与公益领域积极探讨，鼓励选手参与回报社会</p>
           </div>
         </div>
-
-        <div class="row text-center">
-
-        </div>
-
-
+<!--        <div class="row text-center"></div>-->
       </div>
     </div>
   </div>

@@ -19,6 +19,10 @@ class Welcome extends CI_Controller {
    * @see http://codeigniter.com/user_guide/general/urls.html
    */
   public function index() {
-    $this->pagerender->page_render_body($this, 'home');
+    $timezone = new DateTimeZone('Asia/Shanghai');
+    $now = new DateTime('NOW', $timezone);
+    $target = new DateTime('2017-3-26 8:30:00', $timezone);
+    $dif = $target->diff($now, TRUE);
+    $this->pagerender->page_render_body($this, 'home', '首页', array('d' => $dif->d, 'h' => $dif->h, 'i' => $dif->i));
   }
 }

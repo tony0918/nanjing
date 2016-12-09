@@ -1,13 +1,14 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 class PageRender {
-  public function page_render_body(&$self, $page = 'home', $pageTitle = '首页') {
+  public function page_render_body(&$self, $page = 'home', $pageTitle = '首页', $countDown = array()) {
     $language = $self->uri->segment(1, 0);
     $self->load->helper('url');
     $data = new stdClass();
     $data->baseUrl = base_url();
     $data->pageTitle = $pageTitle;
     $data->pageClass = strtolower($page);
+    $data->countDown = $countDown;
     $head = 'head';
     $menu = 'menu';
     $footer = 'footer';

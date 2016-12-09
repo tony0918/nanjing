@@ -74,7 +74,7 @@
         <p>6、报名成功的参赛者于3月25日（周六）10:00-20:00，携带报名确认单和身份证原件至南京市银城皇冠假日酒店（南京市江宁区佳湖东路9号）领取比赛装备。不能代领装备。</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">八、报名确认后如不参加比赛，将不予退还报名费，参赛项目和其他一切个人信息经确认后不得更改，参考<a href="<?php echo $baseUrl; ?>faq.html">常见问题FAQ</a>。
+        <h4 class="text-title">八、报名确认后如不参加比赛，将不予退还报名费，参赛项目和其他一切个人信息经确认后不得更改，参考<a href="<?php echo $baseUrl; ?>race/faq.html">常见问题FAQ</a>。
         </h4>
       </div>
       <div class="text-block">
