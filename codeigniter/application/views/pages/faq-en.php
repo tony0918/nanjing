@@ -59,7 +59,7 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">4. Quota limits</h4>
-        <p>There will be 1050 places in all, including 600 for the 42km group, 350 for the 25km group and 50 groups for
+        <p>There will be 1050 places in all, including 350 for the 42km group, 600 for the 25km group and 50 groups for
           the 12km group. All registration is based on a first-come-first-served basis.</p>
       </div>
       <div class="text-block">

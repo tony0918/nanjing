@@ -55,7 +55,7 @@
         <p>2. Each team in the 12km family will be formed by an adolescent between 8 years old and 16 years old (born
           between March 26, 2009 and March 26, 2001) and a parent or a legal guardian (born before March 26, 1999). They
           should enroll the race together. Anyone in a good health condition can participates in the race.</p>
-        <p>3. The 42km group is limited to 600 entries. The 25km group is limited to 350 entries. The 12km group is
+        <p>3. The 42km group is limited to 350 entries. The 25km group is limited to 600 entries. The 12km group is
           limited to 50 groups. All registration is based on a first-come-first-served basis.</p>
         <p>4. Please follow "Registration Note" to enroll the race.</p>
         <p>5. Anyone who has any of the following diseases is not in a suitable health condition to participate in the

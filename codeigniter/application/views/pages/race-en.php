@@ -1,7 +1,7 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-<!--    <h4 class="page-title hidden-xs text-center col-md-12">2017 CUAM Nanjing Mountain Marathon</h4>-->
+    <!--    <h4 class="page-title hidden-xs text-center col-md-12">2017 CUAM Nanjing Mountain Marathon</h4>-->
   </div>
 </div>
 
@@ -12,14 +12,12 @@
 
       <div class="text-block">
         <h4 class="text-title">2017 CUAM Nanjing Mountain Marathon</h4>
-
         <p>Through trail running, one of the outdoor activities, 2017 CUAM Nanjing Mountain Marathon is able to spread
           such a spirit with which human beings keep challenging their own limits, and offers the race participants an
           opportunity to discover and enjoy the cultural and natural beauty of Nanjing. With mountains, trails and woods
           all combined in the same course, the runners will be fully enjoying the elegant landscapes of Jiangnan, the
-          regions in the south of Yangtze River, as they run along the Panlong Lake.
-          2017 CUAM Nanjing Mountain Marathon will be the third Nanjing Mountain Marathon.
-        </p>
+          regions in the south of Yangtze River, as they run along the Panlong Lake. 2017 CUAM Nanjing Mountain Marathon
+          will be the fourth Nanjing Mountain Marathon.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">About Nanjing</h4>
