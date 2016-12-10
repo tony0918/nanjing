@@ -33,7 +33,7 @@
         <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">公益合作伙伴</h3>
           <p class="col-xs-12 col-md-12">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u163.jpg" alt=""></a>
+            <a href=""><img src="<?php echo $baseUrl; ?>images/u160.png" alt=""></a>
           </p>
         </div>
       </div>
