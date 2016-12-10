@@ -13,8 +13,8 @@
         <h4 class="text-title">I. Race date and events</h4>
         <p>1. Race date: March 26th, 2017 (Sunday)</p>
         <p>2. Events</p>
-        <p>2.1 42km group: with an elevation gain of 1200m, 650 participants</p>
-        <p>2.2 25km group: with an elevation gain of 500m, 300 participants</p>
+        <p>2.1 42km group: with an elevation gain of 1200m, 350 participants</p>
+        <p>2.2 25km group: with an elevation gain of 500m, 600 participants</p>
         <p>2.3 12km Family group: with an elevation gain of 300m, 50 groups</p>
       </div>
       <div class="text-block">

@@ -34,7 +34,7 @@
           <h3 class="sponsor-title">Charity Partner</h3>
 
           <p class="col-xs-12 col-md-12">
-            <a href=""><img src="<?php echo $baseUrl; ?>images/u163.jpg" alt=""></a>
+            <img src="<?php echo $baseUrl; ?>images/u160.png" alt="" style="max-width: 100%;">
           </p>
         </div>
       </div>
