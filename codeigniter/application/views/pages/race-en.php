@@ -21,7 +21,6 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">About Nanjing</h4>
-
         <p>Located in the eastern area of China, Nanjing is the capital of Jiangsu Province and was the capital of
           multiple ancient Chinese Dynasties. It has always been in an important position in China's history and
           culture. Situated in the lower reaches of the Yangtze River as well as in the Yangtze River Delta Economic
@@ -30,6 +29,30 @@
           you'll feel like keeping running and keeping racing even after the race ends.</p>
       </div>
       <div class="text-block">
+        <div class="text-block">
+          <h4 class="text-title">About “River·Kids”</h4>
+          <p>"Wherever there are rivers there are villages. Wherever there are villages there are kids. Wherever there
+            are kids there is hope."</p>
+          <p>With the intention of "train a batch of country teachers, construct a school with donations and help a
+            batch of students in order to change the current education situation in the countrysides of the western part
+            of China", the charity plan "River Kids" has been mainly focusing on training teachers and has been
+            investing hardware as well as a supplement. By adopting such an operation mode that combines spiritual and
+            material investments, the plan aims to not only enhance the overall education level of the impoverished
+            regions, but also have a long-term impact on generations and generations of country students, and launch a
+            revolution in ideas at root in these regions in the end.</p>
+          <p>Thousands of volunteers have been working together in the past 9 years to launch "River·Kids" plan in
+            Lushui County of Yunnan Province, Meigu County of Sichuan Province, Jingyuan County of Ningxia Province,
+            Xiahe County of Gansu Province, Liping County of Guizhou Province, Zhonglu Town of Hubei Province, Huzhu
+            County of Qinghai province, Yongle Town of Guangxi Province and Chengbu County of Hunan Province. With the
+            received donations, 9 well-equipped Tianfu Elementary Schools have been constructed in these areas and more
+            than 3000 poor students from rural areas and more than 700 country teachers have been helped. These students
+            and teachers are from a total of 9 minorities, including Lisu, Yi, Hui, Tibetan, Dong, Tujia, Tu, Yao and
+            Miao.</p>
+          <p>After many years' successful project running, "River Kids" have formed an education aiding system, covering
+            almost all areas, including sub-projects such as training for country youngster teachers, donation and
+            construction for Tianfu Elementary Schools, donation for library rooms, multi-media classrooms, student
+            grants, faculty fellowship and school and living supplies, and organizations of charity trips.</p>
+        </div>
         <h4 class="text-title">About CUAM</h4>
 
         <p>China Universal Asset Management Co., ltd, one of the most outstanding and most energetic asset managers in

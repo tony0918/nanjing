@@ -39,33 +39,33 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">VII. Events</h4>
-        <p>1. 42km , with an elevation gain of 1200m</p>
-        <p>2. 25km, with an elevation gain of 500m</p>
-        <p>3. 12km Family, with an elevation gain of 300m</p>
+        <p>1. 42km group, with an elevation gain of 1200m</p>
+        <p>2. 25km group, with an elevation gain of 500m</p>
+        <p>3. 12km Family group, with an elevation gain of 300m</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">VIII. Course</h4>
-        <p>Please refer to the course map publicized in the official website and "Race Guide" for derailed course
+        <p>Please refer to the course map publicized in the official website and "Race Brochure" for derailed course
           information.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">IX. Participation</h4>
         <p>1. Runners in the 42km and 25km group should be in a health condition suitable for the race and at least 18
           years old by the race day, March 26th, 2017.</p>
-        <p>2. Each team in the 12km family will be formed by an adolescent between 8 years old and 16 years old (born
-          between March 26, 2009 and March 26, 2001) and a parent or a legal guardian (born before March 26, 1999). They
+        <p>2. Each team in the 12km family will be formed by an adolescent between 8 years old and 18 years old (born
+          between March 26, 2009 and March 26, 1999) and a parent or a legal guardian (born before March 26, 1999). They
           should enroll the race together. Anyone in a good health condition can participates in the race.</p>
         <p>3. The 42km group is limited to 350 entries. The 25km group is limited to 600 entries. The 12km group is
           limited to 50 groups. All registration is based on a first-come-first-served basis.</p>
         <p>4. Please follow "Registration Note" to enroll the race.</p>
         <p>5. Anyone who has any of the following diseases is not in a suitable health condition to participate in the
           2017 CUAM Nanjing Mountain Marathon.</p>
-        <p>5.1 Congenital heart disease and rheumatic heart disease</p>
-        <p>5.2 Hypertension and cerebrovascular disease</p>
-        <p>5.3 Myocarditis and other heart diseases</p>
-        <p>5.4 Coronary artery disease and server irregular heartbeat</p>
-        <p>5.5 Diabetes</p>
-        <p>5.6 Other diseases that is not suitable for sports.</p>
+        <p><span style="padding-left: 10px;">5.1</span> Congenital heart disease and rheumatic heart disease</p>
+        <p><span style="padding-left: 10px;">5.2</span> Hypertension and cerebrovascular disease</p>
+        <p><span style="padding-left: 10px;">5.3</span> Myocarditis and other heart diseases</p>
+        <p><span style="padding-left: 10px;">5.4</span> Coronary artery disease and server irregular heartbeat</p>
+        <p><span style="padding-left: 10px;">5.5</span> Diabetes</p>
+        <p><span style="padding-left: 10px;">5.6</span> Other diseases that is not suitable for sports.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">X. Race</h4>
@@ -108,28 +108,32 @@
           </tbody>
         </table>
         </p>
-        <p>5. Please refer to "Guidelines for Athletes" for detailed information about the requirements and arrangements
+        <p>4. Please refer to "Guidelines for Athletes" for detailed information about the requirements and arrangements
           of the competition. (The guidelines will be handed out along with the BIB number and the timing chip.) </p>
-        <p>6. Participants who foul in the following ways will be disqualified and disallowed to take part in this race
+        <p>5. Participants who foul in the following ways will be disqualified and disallowed to take part in this race
           within two years. </p>
-        <ol>
-          <li>Age falsefication or having someone else to run on behalf of the participant himself after registration.
-          </li>
-          <li>Wearing others’ timing chips (including male athletes wearing female athletes’ timing chips), or wearing
+        <div>
+          <p style="padding-left: 10px;">5.1 Age falsefication or having someone else to run on behalf of
+            the participant himself after registration.
+          </p>
+          <p style="padding-left: 10px;">5.2 Wearing others’ timing chips (including male athletes wearing
+            female athletes’ timing chips), or wearing
             more than one timing chip in the race.
-          </li>
-          <li>Regardless of the start sequence, setting off in wrong corrals.</li>
-          <li>Starting off ahead of the regulated start time.</li>
-          <li>Refusing to stop running after cut-off time or returning to the course after quitting the race.</li>
-          <li>Not following the regulated course to complete the whole race; adoptions of any means of transportation.
-          </li>
-          <li>Couterfeiting bib numbers; multiple persons running in turn with one bib number.</li>
-          <li>Refusing to follow directions of the race staff; interfering with the proceeding of the race; gathering
-            around and making troubles.
-          </li>
-          <li>Entering the course with pets.</li>
-          <li>Other behaviors violating the race regulations.</li>
-        </ol>
+          </p>
+          <p style="padding-left: 10px;">5.3 Regardless of the start sequence, setting off in wrong
+            corrals.</p>
+          <p style="padding-left: 10px;">5.4 Starting off ahead of the regulated start time.</p>
+          <p style="padding-left: 10px;">5.5 Refusing to stop running after cutoff time or returning to the course
+            after quitting the race.</p>
+          <p style="padding-left: 10px;">5.6 Not following the regulated course to complete the whole race;
+            adoptions of any means of transportation.</p>
+          <p style="padding-left: 10px;">5.7 Couterfeiting BIB numbers; multiple persons running in turn with one bib
+            number.</p>
+          <p style="padding-left: 10px;">5.8 Refusing to follow directions of the race staff; interfering
+            with the proceeding of the race; gathering around and making troubles.</p>
+          <p style="padding-left: 10px;">5.9 Entering the course with pets.</p>
+          <p style="padding-left: 10px;">5.10 Other behaviors violating the race regulations.</p>
+        </div>
       </div>
       <div class="text-block">
         <h4 class="text-title">XI. Awards</h4>
@@ -139,10 +143,10 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">XII. Race insurance and medical</h4>
-        <p>1 The race committee will purchase personal accident insurances for all the participants and staff. If
+        <p>1. The race committee will purchase personal accident insurances for all the participants and staff. If
           insurances can’t be purchased or are invalidated due to incomplete or false information provided by the
           participants, it shall be the participants who take the responsibility. </p>
-        <p>2 Medical aid stations will be set up at every check point and the finish location. The race committee will
+        <p>2. Medical aid stations will be set up at every check point and the finish location. The race committee will
           also arrange for volunteers and staff at certain medical aid station and check point to assist with the
           medical care and to maintain the race order. Runners can call the emergency number printed on the bib numbers
           to ask for help for any problems. </p>

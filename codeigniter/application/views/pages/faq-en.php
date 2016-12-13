@@ -17,24 +17,24 @@
         <h4 class="text-title">1. Qualifications of the race</h4>
         <p>a. Regardless of nationalities, anyone with a legal identification and in a good health condition can enroll
           the race.</p>
-        <p>b. Age limits: </p>
+        <p>b. Age limits:</p>
         <ol class="level-2">
-          <li>Participants in the 42km and 25km group must be at least 18 years old (born before March 26, 1999), in a
-            good health condition, and shall be runners with regular training.
+          <li>Participants in the 42km and 25km group must be at least 18 years old (born before March 26, 1999), in
+            a good health condition, and shall be runners with regular training.
           </li>
-          <li>Each team in the 12km family will be formed by an adolescent between 8 years old and 16 years old and a
+          <li>Each team in the 12km family will be formed by an adolescent between 8 years old and 18 years old and a
             parent or a legal guardian. They should enroll the race together. Anyone in a good health condition can
             participates in the race.
           </li>
         </ol>
-        <p>Remarks: Adolescent participants between 8 and 16 years old can only enroll the race with a statement signed
-          by their guardians or legal representatives. </p>
-        <p>c. Patients of the following diseases are not in suitable health conditions for the race. </p>
-        <p>1. Congenital heart disease and rheumatic heart disease. </p>
-        <p>2. Hypertension and cerebrovascular disease </p>
-        <p>3. Myocarditis and other heart diseases </p>
-        <p>4. Coronary artery disease and server irregular heartbeat </p>
-        <p>5. Diabetes </p>
+        <p>Remarks: Adolescent participants between 8 and 18 years old can only enroll the race with a statement signed
+          by their guardians or legal representatives.</p>
+        <p>c. Patients of the following diseases are not in suitable health conditions for the race.</p>
+        <p>1. Congenital heart disease and rheumatic heart disease.</p>
+        <p>2. Hypertension and cerebrovascular disease</p>
+        <p>3. Myocarditis and other heart diseases</p>
+        <p>4. Coronary artery disease and server irregular heartbeat</p>
+        <p>5. Diabetes</p>
         <p>6. Other diseases that is not suitable for sports.</p>
       </div>
       <div class="text-block">
@@ -42,13 +42,12 @@
         <p>Please log onto the official website of 2017 CUAM Nanjing Mountain Marathon to register the race. </p>
         <p>Official website: <a href="http://nanjing.huluanpao.com">nanjing.huluanpao.com</a></p>
         <p>Attention:</p>
-        <p>1. Please inquire your bib number in the official website and download your confirmation slip of the race
-          registration between March 1st and March 26th. Please pick up your race packet with your confirmation slip of
-          the race registration and your original ID at Crowne Plaza Nanjing Jiangning (No.9 East Jiahu Road, Jiangning
-          District, Nanjing) from 10:00 am to 20:00 pm on March 25th. (After registering online successfully you need to
-          inquire your bib number by yourself in the "Registration Check" module at the official website of 2017 CUAM
-          Nanjing Mountain Marathon. You also need to download the confirmation slip of your registration and sign the
-          race statement.)</p>
+        <p>1. Please inquire your BIB number in the official website and download your race packet pickup certificate
+          between March 1st and March 25th. Please pick up your race packet with your race packet pickup certificate and
+          your original ID at Crowne Plaza Nanjing Jiangning (No.9 East Jiahu Road, Jiangning District, Nanjing) from
+          10:00 am to 20:00 pm on March 25th. (After registering online successfully you need to inquire your BIB number
+          by yourself in the "Registration Check" module at the official website of 2017 CUAM Nanjing Mountain Marathon.
+          You also need to download the race packet pickup certificate and sign the race statement.)</p>
         <p>2. We recommend you following "湖乱跑"(huluanpao), our official account in Wechat, to get the immediate race
           information.</p>
       </div>
@@ -95,12 +94,12 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">7. Confirmation of the registration</h4>
-        <p>1. After the pay success, a confirmation email will be sent to the email address provided by
+        <p>a. After the pay success, a confirmation email will be sent to the email address provided by
           participants. </p>
-        <p>2. After the pay success,participants’ll be able to inquire registration status in the “Query Result” column
+        <p>b. After the pay success,participants’ll be able to inquire registration status in the “Query Result” column
           of the website after registration. </p>
-        <p>3. After the registration success, please inquire your bib number at the official website and download the
-          confirmation slip of the registration between March 1st and March 25th.</p>
+        <p>c. After the registration success, please inquire your BIB number at the official website and download the
+          race packet pickup certificate between March 1st and March 25th.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">8. Refund of the entry fee</h4>
@@ -120,9 +119,9 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">1. Pickup of the race packet</h4>
-        <p>Please pick up your race packet with your confirmation slip of the race registration and your original ID at
-          Crowne Plaza Nanjing Jiangning (No.9 East Jiahu Road, Jiangning District, Nanjing) from 10:00 am to 20:00 pm
-          on March 25th.</p>
+        <p>Please pick up your race packet with your race packet pickup certificate and your original ID at Crowne Plaza
+          Nanjing Jiangning (No.9 East Jiahu Road, Jiangning District, Nanjing) from 10:00 am to 20:00 pm on March
+          25th.</p>
         <p>The race packet includes a bib number, a timing chip, a race T-shirt, a backsack and so on.</p>
       </div>
       <div class="text-block">
@@ -186,8 +185,8 @@
       <div class="text-block">
         <h4 class="text-title">7. Distribution of the water stations</h4>
         <p>The race committee will provide participants in all events with water, beverages and food along the race
-          course. Please refer to the "Guidelines for Athletes" you’ll get at the expo for the detailed information
-          regarding where these water stations will be located.</p>
+          course. Please refer to the "Race Brochure" you'll get at the expo for the detailed information regarding
+          where these water stations will be located.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">8. How to get the certificate of the race?</h4>
@@ -202,7 +201,7 @@
         <p>To Panlong Lake: March 26th, from 6:30 am to 7:00 am</p>
         <p>The shuttle buses will start from Crowne Plaza.</p>
         <p>From Panlong Lake: March 26th, 12:00 pm</p>
-        <p>The shuttle buses will leave for Crowne Plaza since 12:00 whenever they get full. Runners with bib numbers,
+        <p>The shuttle buses will leave for Crowne Plaza since 12:00pm whenever they get full. Runners with BIB numbers,
           families and friends with papers given out by the race committee can take the race shuttle buses.</p>
       </div>
       <div class="text-block">
