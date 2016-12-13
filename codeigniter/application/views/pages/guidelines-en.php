@@ -13,9 +13,9 @@
         <h4 class="text-title">I. Race date and events</h4>
         <p>1. Race date: March 26th, 2017 (Sunday)</p>
         <p>2. Events</p>
-        <p>2.1 42km group: with an elevation gain of 1200m, 350 participants</p>
-        <p>2.2 25km group: with an elevation gain of 500m, 600 participants</p>
-        <p>2.3 12km Family group: with an elevation gain of 300m, 50 groups</p>
+        <p style="padding-left: 10px;">2.1 42km group: with an elevation gain of 1200m, 350 participants</p>
+        <p style="padding-left: 10px;">2.2 25km group: with an elevation gain of 500m, 600 participants</p>
+        <p style="padding-left: 10px;">2.3 12km Family group: with an elevation gain of 300m, 50 groups</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">II. Qualification</h4>
@@ -24,20 +24,23 @@
           physical checks, can register the race with no regard of
           nationalities.</p>
         <p>2. Age limits:</p>
-        <p>2.1 Participants in the 42km and 25km group must be at least 18 years old (born before March 26, 1999),
+        <p style="padding-left: 10px;">2.1 Participants in the 42km and 25km group must be at least 18 years old (born
+          before March 26, 1999),
           in a good health condition, and shall be runners with regular training.</p>
-        <p>2.2 Each team in the 12km family will be formed by an adolescent between 8 years old and 18 years old and a
+        <p style="padding-left: 10px;">2.2 Each team in the 12km family will be formed by an adolescent between 8 years
+          old and 18 years old and a
           parent or a legal guardian. They should enroll the race together. Anyone in a good health condition can
           participates in the race.</p>
-        <p>Remarks: Adolescent participants between 8 and 18 years old can only enroll the race with a statement signed
+        <p style="padding-left: 10px;">Remarks: Adolescent participants between 8 and 18 years old can only enroll the
+          race with a statement signed
           by their guardians or legal representatives.</p>
         <p>3. Patients of the following diseases are not in suitable health conditions for the race.</p>
-        <p>3.1 Congenital heart disease and rheumatic heart disease.</p>
-        <p>3.2 Hypertension and cerebrovascular disease</p>
-        <p>3.3 Myocarditis and other heart diseases</p>
-        <p>3.4 Coronary artery disease and server irregular heartbeat</p>
-        <p>3.5 Diabetes</p>
-        <p>3.6 Other diseases that is not suitable for sports.</p>
+        <p style="padding-left: 10px;">3.1 Congenital heart disease and rheumatic heart disease.</p>
+        <p style="padding-left: 10px;">3.2 Hypertension and cerebrovascular disease</p>
+        <p style="padding-left: 10px;">3.3 Myocarditis and other heart diseases</p>
+        <p style="padding-left: 10px;">3.4 Coronary artery disease and server irregular heartbeat</p>
+        <p style="padding-left: 10px;">3.5 Diabetes</p>
+        <p style="padding-left: 10px;">3.6 Other diseases that is not suitable for sports.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">III. Open period for registration</h4>
