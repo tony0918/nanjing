@@ -1,7 +1,7 @@
 <div class="container-fluid">
   <div class="row header-banner">
     <img src="<?php echo $baseUrl; ?>images/header-banner.jpg" alt="" class="img-responsive"/>
-<!--    <h4 class="page-title hidden-xs text-center col-md-12">立即报名</h4>-->
+    <!--    <h4 class="page-title hidden-xs text-center col-md-12">立即报名</h4>-->
   </div>
 </div>
 
@@ -16,7 +16,7 @@
 
       <div class="text-center">
         <p>
-          <a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','cn']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/485?guest_register=true" target="_blank">立即报名</a>
+          <a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','cn']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/NANJINGMOUNTAIN/query?guest_register=true" target="_blank">立即报名</a>
         </p>
       </div>
 
