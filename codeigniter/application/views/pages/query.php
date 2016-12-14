@@ -16,7 +16,7 @@
 
       <div class="text-center">
         <p>
-          <a onclick="_hmt.push(['_trackEvent', 'btn:query', 'click', 'query','cn']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/485/query?locale=cn" target="_blank">报名查询</a>
+          <a onclick="_hmt.push(['_trackEvent', 'btn:query', 'click', 'query','cn']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/NANJINGMOUNTAIN/query?guest_register=true" target="_blank">报名查询</a>
         </p>
       </div>
 
