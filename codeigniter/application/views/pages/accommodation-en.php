@@ -8,7 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center visible-xs-block">Transportation and Hotel</h3>
+      <h3 class="article-title text-center">Transportation and Hotel</h3>
       <div class="text-block">
         <p>2017 CUAM Nanjing Mountain Marathon will be held on March 26 of 2017 in Panlong Lake, Jiangning District of
           Nanjing. For those who are going to take part in the race, please pay attention to transportation information
