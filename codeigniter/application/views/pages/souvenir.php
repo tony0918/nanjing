@@ -20,9 +20,7 @@
         <p><b>材质：</b>麻灰面料，80%棉，20%聚酯纤维，外层纯棉，里层抓绒</p>
         <p><b>类型：</b>欧版</p>
         <p><b>预售时间：</b>2016年12月15日上午10 : 00 – 2016年12月22日下午18 : 00</p>
-        <p><b>预售方式：</b>关注“湖乱跑”官方微信公众号，点击“纪念卫衣” – “马上购买”或点击
-          <a href="http://iranshao.com/register/reg_races/Hlpsouvenirhoody?guest_register=true" target="_blank">http://iranshao.com/register/reg_races/Hlpsouvenirhoody?guest_register=true</a>
-          购买。</p>
+        <p><b>预售方式：</b>关注“湖乱跑”官方微信公众号，点击“纪念卫衣” – “马上购买”或点击“<a href="http://iranshao.com/register/reg_races/Hlpsouvenirhoody?guest_register=true" target="_blank">立即购买</a>”购买。</p>
         <p><b>备注：</b>所有纪念卫衣将在预售结束后35天左右寄送。</p>
       </div>
       <div class="text-block">
@@ -59,7 +57,7 @@
       <div class="text-block">
         <img src="<?php echo $baseUrl; ?>assets/souvenir4.jpg" alt="" class="img-responsive center-block"/>
       </div>
-      <div class="text-block">
+      <div class="text-block text-center">
         <a onclick="_hmt.push(['_trackEvent', 'btn:query', 'click', 'souvenir-buy','cn']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/Hlpsouvenirhoody?guest_register=true" target="_blank">立即购买</a>
       </div>
       <div class="text-block">

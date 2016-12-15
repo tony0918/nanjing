@@ -37,6 +37,10 @@
                   and Hotel</a>
               </li>
               <li>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-souvenir', 'en']);" href="<?php echo $baseUrl; ?>en/race/souvenir.html" class="text-center">Souvenir
+                  Hoody</a>
+              </li>
+              <li>
                 <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-faq', 'en']);" href="<?php echo $baseUrl; ?>en/race/faq.html" class="text-center">FAQ</a>
               </li>
             </ul>
