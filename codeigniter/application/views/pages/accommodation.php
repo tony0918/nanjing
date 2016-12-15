@@ -8,7 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center visible-xs-block">2017汇添富南京山地马拉松交通酒店</h3>
+      <h3 class="article-title text-center">2017汇添富南京山地马拉松交通酒店</h3>
       <div class="text-block">
         <p>
           2017汇添富南京山地马拉松将于2017年3月26日于南京市江宁区蟠龙湖举行。报名参加南京山地马拉松的选手，请务必知悉交通信息并提前做好酒店预订。现提供以下交通及酒店信息，请大家根据自己的实际情况安排行程及预订酒店。</p>
