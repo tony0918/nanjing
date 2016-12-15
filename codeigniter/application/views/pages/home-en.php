@@ -72,16 +72,16 @@
           <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="img-responsive center-block">
         </p>
       </div>
-      <!--      <div class="col-md-6 col-xs-12">-->
-      <!--        <h3 class="sponsor-title">Official Sponsor</h3>-->
-      <!--        <p class="col-xs-6 col-md-6">-->
-      <!--          <a href=""><img src="--><?php //echo $baseUrl; ?><!--images/u181.png" alt=""></a>-->
-      <!--        </p>-->
-      <!--        <p class="col-xs-6 col-md-6">-->
-      <!--          <a href=""><img src="--><?php //echo $baseUrl; ?><!--images/u183.png" alt=""></a>-->
-      <!--        </p>-->
-      <!--      </div>-->
-      <div class="col-md-6 col-xs-12">
+      <div class="col-md-4 col-xs-12">
+        <h3 class="sponsor-title">Sponsor</h3>
+        <!--              <p class="col-xs-6 col-md-6">-->
+        <!--                <a href=""><img src="--><?php //echo $baseUrl; ?><!--images/u181.png" alt=""></a>-->
+        <!--              </p>-->
+        <p class="col-xs-12 col-md-12">
+          <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
+        </p>
+      </div>
+      <div class="col-md-4 col-xs-12">
         <h3 class="sponsor-title">Charity Partner</h3>
         <p class="col-xs-12 col-md-12">
           <img src="<?php echo $baseUrl; ?>images/u160.png" alt="" style="max-width: 100%;">
