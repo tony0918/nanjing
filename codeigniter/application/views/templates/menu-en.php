@@ -33,6 +33,10 @@
                   Map</a>
               </li>
               <li>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-accommodation', 'en']);" href="<?php echo $baseUrl; ?>en/race/accommodation.html" class="text-center">Transportation
+                  and Hotel</a>
+              </li>
+              <li>
                 <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-faq', 'en']);" href="<?php echo $baseUrl; ?>en/race/faq.html" class="text-center">FAQ</a>
               </li>
             </ul>
