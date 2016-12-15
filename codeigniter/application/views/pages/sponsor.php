@@ -19,17 +19,19 @@
       </div>
 
       <div class="row text-center">
-        <!--        <div class="col-md-6 col-xs-12">-->
-        <!--          <h3 class="sponsor-title">官方赞助商</h3>-->
-        <!---->
-        <!--          <p class="col-xs-6 col-md-6">-->
-        <!--            <a href=""><img src="--><?php //echo $baseUrl; ?><!--images/u181.png" alt=""></a>-->
-        <!--          </p>-->
-        <!---->
-        <!--          <p class="col-xs-6 col-md-6">-->
-        <!--            <a href=""><img src="--><?php //echo $baseUrl; ?><!--images/u183.png" alt=""></a>-->
-        <!--          </p>-->
-        <!--        </div>-->
+        <div class="col-md-12 col-xs-12">
+          <h3 class="sponsor-title">赞助商</h3>
+
+          <!--          <p class="col-xs-6 col-md-6">-->
+          <!--            <a href=""><img src="--><?php //echo $baseUrl; ?><!--images/u181.png" alt=""></a>-->
+          <!--          </p>-->
+
+          <p class="col-xs-12 col-md-12">
+            <img src="<?php echo $baseUrl; ?>images/u183.png" alt=""/>
+          </p>
+        </div>
+      </div>
+      <div class="row text-center">
         <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">公益合作伙伴</h3>
           <p class="col-xs-12 col-md-12">
