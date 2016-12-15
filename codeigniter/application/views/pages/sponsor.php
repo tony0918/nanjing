@@ -27,7 +27,7 @@
           <!--          </p>-->
 
           <p class="col-xs-12 col-md-12">
-            <img src="<?php echo $baseUrl; ?>images/u183.png" alt=""/>
+            <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
           </p>
         </div>
       </div>
