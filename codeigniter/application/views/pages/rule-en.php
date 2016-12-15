@@ -11,11 +11,11 @@
       <h3 class="article-title text-center">Competition Rules of 2017 CUAM Nanjing Mountain Marathon</h3>
       <div class="text-block">
         <h4 class="text-title">I. Host</h4>
-        <p>Nanjing Sports Development Group</p>
+        <p>Qing Ao Industries Nanjing Co., Ltd</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">II. Operation</h4>
-        <p>Shanghai Skyview Sports Co., ltd</p>
+        <p>Shanghai Skyview Sports Co., Ltd</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">III. Co - Operation</h4>
