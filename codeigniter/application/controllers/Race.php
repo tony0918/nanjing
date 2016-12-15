@@ -22,4 +22,8 @@ class Race extends CI_Controller {
   public function accommodation() {
     $this->pagerender->page_render_body($this, 'accommodation', '酒店与交通');
   }
+
+  public function souvenir() {
+    $this->pagerender->page_render_body($this, 'souvenir', '纪念卫衣');
+  }
 }

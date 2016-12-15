@@ -58,7 +58,7 @@
             <td>March 26</td>
             <td>Panlong Lake</td>
             <td>Crowne Plaza Nanjing</td>
-            <td>12:00起</td>
+            <td>12:00</td>
             <td>The buses will depart when all seats are taken.</td>
           </tr>
           </tbody>
