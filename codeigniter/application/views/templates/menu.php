@@ -34,6 +34,9 @@
                 <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-accommodation', 'cn']);" href="<?php echo $baseUrl; ?>race/accommodation.html" class="text-center">交通和酒店</a>
               </li>
               <li>
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-souvenir', 'cn']);" href="<?php echo $baseUrl; ?>race/souvenir.html" class="text-center">纪念卫衣</a>
+              </li>
+              <li>
                 <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-faq', 'cn']);" href="<?php echo $baseUrl; ?>race/faq.html" class="text-center">常见问题</a>
               </li>
             </ul>
