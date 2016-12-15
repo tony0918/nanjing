@@ -70,6 +70,8 @@
           2017 CUAM Nanjing Mountain Marathon are delivered. Participants who have registered the race successfully can
           pick up their race packets at Crowne Plaza Nanjing between 10am and 8pm on March 25, Saturday. The race packet
           pickup certificate and the original ID will be sufficient for the race packet pickup.</p>
+      </div>
+      <div class="text-block">
         <p>Moreover, the shuttle buses heading for the race location Panlong Lake on the race day will depart from
           Crowne Plaza Nanjing from 6 : 30 am to 7 : 00 am. Hence the race committee suggests participants book hotel of
           Crowne Plaza Nanjing or choose hotels in Baijia Lake area in Jiangning District, Nanjing.</p>
