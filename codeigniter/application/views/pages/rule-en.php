@@ -20,7 +20,6 @@
       <div class="text-block">
         <h4 class="text-title">III. Co - Operation</h4>
         <p>Association of Outdoor Sports of Nanjing</p>
-        <p>General Sports Association of Jiangning District of Nanjing</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">IV. Title Sponsors</h4>

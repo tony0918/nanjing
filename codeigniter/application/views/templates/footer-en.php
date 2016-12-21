@@ -6,7 +6,6 @@
       <p>Qing Ao Industries Nanjing Co., Ltd</p>
       <p>Shanghai Skyview Sports Co., Ltd</p>
       <p>Association of Outdoor Sports of Nanjing</p>
-      <p>General Sports Association of Jiangning District of Nanjing</p>
     </div>
 
     <div class="col-md-3 col-md-offset-1 col-xs-12">
