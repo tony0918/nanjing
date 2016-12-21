@@ -11,7 +11,7 @@
       <h3 class="article-title text-center">2017汇添富南京山地马拉松竞赛规程</h3>
       <div class="text-block">
         <h4 class="text-title">一、主办单位</h4>
-        <p>青奥产业南京有限公司</p>
+        <p>青奥产业南京有限公司（拟）</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">二、运营推广单位</h4>
@@ -19,7 +19,7 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">三、协办单位</h4>
-        <p>南京市户外运动协会、南京市江宁区体育局</p>
+        <p>南京市户外运动协会</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">四、冠名单位</h4>
