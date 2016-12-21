@@ -6,7 +6,6 @@
       <p>Nanjing Sports Development Group</p>
       <p>Shanghai Skyview Sports Co., ltd</p>
       <p>Association of Outdoor Sports of Nanjing</p>
-      <p>General Sports Association of Jiangning District of Nanjing</p>
     </div>
 
     <div class="col-md-3 col-md-offset-1 col-xs-12">
