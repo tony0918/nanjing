@@ -33,6 +33,14 @@
       </div>
       <div class="row text-center">
         <div class="col-md-12 col-xs-12">
+          <h3 class="sponsor-title">合作伙伴</h3>
+          <p class="col-xs-12 col-md-12">
+            <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" style="max-width: 100%;">
+          </p>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">公益合作伙伴</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u160.png" alt="" style="max-width: 100%;">
