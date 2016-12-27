@@ -86,7 +86,7 @@
           </p>
         </div>
         <div class="col-md-3 col-xs-12">
-          <h3 class="sponsor-title">合作伙伴</h3>
+          <h3 class="sponsor-title">合作媒体</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" style="max-width: 100%;">
           </p>
