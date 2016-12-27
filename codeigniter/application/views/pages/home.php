@@ -70,13 +70,13 @@
   <div class="row sponsor">
     <div class="container">
       <div class="row text-center">
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-3 col-xs-12">
           <h3 class="sponsor-title">冠名赞助商</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="img-responsive center-block">
           </p>
         </div>
-        <div class="col-md-4 col-xs-12">
+        <div class="col-md-3 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
           <!--          <p class="col-xs-12 col-md-12">-->
           <!--            <a href=""><img src="--><?php //echo $baseUrl; ?><!--images/u181.png" alt=""></a>-->
@@ -85,7 +85,13 @@
             <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
           </p>
         </div>
-        <div class="col-md-4 col-xs-12">
+        <div class="col-md-3 col-xs-12">
+          <h3 class="sponsor-title">合作伙伴</h3>
+          <p class="col-xs-12 col-md-12">
+            <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" style="max-width: 100%;">
+          </p>
+        </div>
+        <div class="col-md-3 col-xs-12">
           <h3 class="sponsor-title">公益合作伙伴</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u160.png" alt="" style="max-width: 100%;">
