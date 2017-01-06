@@ -35,11 +35,12 @@
         <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">合作媒体</h3>
           <div class="row">
-            <p class="col-xs-12 col-md-6">
+            <p class="col-xs-12 col-md-4 col-md-offset-2">
               <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" class="img-responsive center-block">
             </p>
-            <p class="col-xs-12 col-md-6">
-              <img src="<?php echo $baseUrl; ?>images/u189.png?2" alt="" class="img-responsive center-block">
+            <p class="col-xs-12 col-md-4">
+              <img src="<?php echo $baseUrl; ?>images/u189.png?2" alt=""
+                class="img-responsive center-block" style="margin-top: 10%;">
             </p>
           </div>
         </div>
