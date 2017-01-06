@@ -91,7 +91,8 @@
             <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" class="img-responsive center-block"/>
           </p>
           <p class="col-xs-12 col-md-12">
-            <img src="<?php echo $baseUrl; ?>images/u189.png?1" alt="" class="img-responsive center-block"/>
+            <img src="<?php echo $baseUrl; ?>images/u189.png?2" alt=""
+              class="img-responsive center-block" style="margin-top: 10%;"/>
           </p>
         </div>
       </div>
