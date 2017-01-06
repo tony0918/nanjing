@@ -86,9 +86,14 @@
       </div>
       <div class="col-md-3 col-xs-12">
         <h3 class="sponsor-title">Media Partner</h3>
-        <p class="col-xs-12 col-md-12">
-          <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" style="max-width: 100%;"/>
-        </p>
+        <div class="row">
+          <p class="col-xs-12 col-md-12">
+            <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" class="img-responsive center-block"/>
+          </p>
+          <p class="col-xs-12 col-md-12">
+            <img src="<?php echo $baseUrl; ?>images/u189.png" alt="" class="img-responsive center-block"/>
+          </p>
+        </div>
       </div>
       <div class="col-md-3 col-xs-12">
         <h3 class="sponsor-title">Charity Partner</h3>
