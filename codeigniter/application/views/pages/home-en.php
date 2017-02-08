@@ -77,11 +77,11 @@
       </div>
       <div class="col-md-3 col-xs-12">
         <h3 class="sponsor-title">Sponsor</h3>
-        <!--              <p class="col-xs-6 col-md-6">-->
-        <!--                <a href=""><img src="--><?php //echo $baseUrl; ?><!--images/u181.png" alt=""></a>-->
-        <!--              </p>-->
-        <p class="col-xs-12 col-md-12">
+        <p class="col-xs-12 col-md-6">
           <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
+        </p>
+        <p class="col-xs-12 col-md-6">
+          <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="img-responsive center-block" alt=""/>
         </p>
       </div>
       <div class="col-md-3 col-xs-12">
