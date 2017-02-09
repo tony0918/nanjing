@@ -31,14 +31,17 @@
       </div>
       <div class="row text-center">
         <div class="col-md-12 col-xs-12">
-          <h3 class="sponsor-title">合作媒体</h3>
+          <h3 class="sponsor-title">合作伙伴</h3>
           <div class="row">
-            <p class="col-xs-12 col-md-4 col-md-offset-2">
+            <p class="col-xs-12 col-md-4">
               <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" class="img-responsive center-block">
             </p>
             <p class="col-xs-12 col-md-4">
               <img src="<?php echo $baseUrl; ?>images/u189.png?2" alt=""
                 class="img-responsive center-block" style="margin-top: 10%;">
+            </p>
+            <p class="col-xs-12 col-md-4">
+              <img src="<?php echo $baseUrl; ?>images/u190.png" alt="" class="img-responsive center-block">
             </p>
           </div>
         </div>
