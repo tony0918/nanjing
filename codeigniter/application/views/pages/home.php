@@ -96,7 +96,7 @@
             </p>
             <p class="col-xs-12 col-md-4">
               <img src="<?php echo $baseUrl; ?>images/u189.png?2" alt=""
-                class="center-block" style="margin-top: 5%;">
+                class="center-block" style="margin-top: 20%;">
             </p>
             <p class="col-xs-12 col-md-4">
               <img src="<?php echo $baseUrl; ?>images/u190.png" alt="" class="center-block">

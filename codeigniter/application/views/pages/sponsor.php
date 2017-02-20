@@ -21,11 +21,14 @@
       <div class="row text-center">
         <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
-          <p class="col-xs-12 col-md-6">
+          <p class="col-xs-12 col-md-4">
             <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
           </p>
-          <p class="col-xs-12 col-md-6">
+          <p class="col-xs-12 col-md-4">
             <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="img-responsive center-block" alt=""/>
+          </p>
+          <p class="col-xs-12 col-md-4">
+            <img src="<?php echo $baseUrl; ?>images/u191.png" class="img-responsive center-block" alt=""/>
           </p>
         </div>
       </div>
@@ -41,7 +44,7 @@
                 class="img-responsive center-block" style="margin-top: 10%;">
             </p>
             <p class="col-xs-12 col-md-4">
-              <img src="<?php echo $baseUrl; ?>images/u190.png" alt="" class="img-responsive center-block">
+              <img src="<?php echo $baseUrl; ?>images/u190.png" alt="" class="img-responsive center-block" style="margin-top: -5px;">
             </p>
           </div>
         </div>
