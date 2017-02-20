@@ -65,7 +65,7 @@
   </div>
 
   <div class="row sponsor sponsor-section">
-    <div class="container text-center">
+    <div class="container-fluid text-center">
       <div class="col-md-2 col-xs-12">
         <h3 class="sponsor-title">Title Sponsor</h3>
         <p class="col-xs-12 col-md-12">
