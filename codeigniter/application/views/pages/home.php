@@ -70,21 +70,21 @@
   <div class="row sponsor">
     <div class="container-fluid">
       <div class="row text-center">
-        <div class="col-md-3 col-xs-12">
+        <div class="col-md-2 col-xs-12">
           <h3 class="sponsor-title">冠名赞助商</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block">
           </p>
         </div>
-        <div class="col-md-3 col-xs-12">
+        <div class="col-md-5 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
-          <p class="col-xs-12 col-md-6">
+          <p class="col-xs-12 col-md-4">
             <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="center-block"/>
           </p>
-          <p class="col-xs-12 col-md-6">
+          <p class="col-xs-12 col-md-4">
             <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="center-block" alt=""/>
           </p>
-          <p class="col-xs-12 col-md-6">
+          <p class="col-xs-12 col-md-4">
             <img src="<?php echo $baseUrl; ?>images/u191.png" class="center-block" alt=""/>
           </p>
         </div>
@@ -94,16 +94,16 @@
             <p class="col-xs-12 col-md-4">
               <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" class="center-block">
             </p>
-            <p class="col-xs-12 col-md-5">
+            <p class="col-xs-12 col-md-4">
               <img src="<?php echo $baseUrl; ?>images/u189.png?2" alt=""
-                class="center-block" style="">
+                class="center-block" style="margin-top: 5%;">
             </p>
-            <p class="col-xs-12 col-md-3">
+            <p class="col-xs-12 col-md-4">
               <img src="<?php echo $baseUrl; ?>images/u190.png" alt="" class="center-block">
             </p>
           </div>
         </div>
-        <div class="col-md-3 col-xs-12">
+        <div class="col-md-2 col-xs-12">
           <h3 class="sponsor-title">公益合作伙伴</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u160.png" alt="">
