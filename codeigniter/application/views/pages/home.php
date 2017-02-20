@@ -67,7 +67,7 @@
       </div>
     </div>
   </div>
-  <div class="row sponsor">
+  <div class="row sponsor sponsor-section">
     <div class="container-fluid">
       <div class="row text-center">
         <div class="col-md-2 col-xs-12">
