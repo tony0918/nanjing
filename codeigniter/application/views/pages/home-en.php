@@ -64,39 +64,42 @@
     </div>
   </div>
 
-  <div class="row sponsor">
+  <div class="row sponsor sponsor-section">
     <div class="container text-center">
-      <div class="col-md-3 col-xs-12">
+      <div class="col-md-2 col-xs-12">
         <h3 class="sponsor-title">Title Sponsor</h3>
         <p class="col-xs-12 col-md-12">
-          <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="img-responsive center-block">
+          <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block">
         </p>
       </div>
-      <div class="col-md-3 col-xs-12">
+      <div class="col-md-5 col-xs-12">
         <h3 class="sponsor-title">Sponsor</h3>
-        <p class="col-xs-12 col-md-6">
-          <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
+        <p class="col-xs-12 col-md-4">
+          <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="center-block"/>
         </p>
-        <p class="col-xs-12 col-md-6">
-          <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="img-responsive center-block" alt=""/>
+        <p class="col-xs-12 col-md-4">
+          <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="center-block" alt=""/>
+        </p>
+        <p class="col-xs-12 col-md-4">
+          <img src="<?php echo $baseUrl; ?>images/u191.png" class="center-block" alt=""/>
         </p>
       </div>
       <div class="col-md-3 col-xs-12">
         <h3 class="sponsor-title">Partner</h3>
         <div class="row">
           <p class="col-xs-12 col-md-4">
-            <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" class="img-responsive center-block"/>
+            <img src="<?php echo $baseUrl; ?>images/u188.png" alt="" class="center-block">
           </p>
-          <p class="col-xs-12 col-md-5">
+          <p class="col-xs-12 col-md-4">
             <img src="<?php echo $baseUrl; ?>images/u189.png?2" alt=""
-              class="img-responsive center-block" style="margin-top: 10%;"/>
+              class="center-block" style="margin-top: 20%;">
           </p>
-          <p class="col-xs-12 col-md-3">
-            <img src="<?php echo $baseUrl; ?>images/u190.png" alt="" class="img-responsive center-block"/>
+          <p class="col-xs-12 col-md-4">
+            <img src="<?php echo $baseUrl; ?>images/u190.png" alt="" class="center-block" style="max-height: 90px;margin-top: -5px;">
           </p>
         </div>
       </div>
-      <div class="col-md-3 col-xs-12">
+      <div class="col-md-2 col-xs-12">
         <h3 class="sponsor-title">Charity Partner</h3>
         <p class="col-xs-12 col-md-12">
           <img src="<?php echo $baseUrl; ?>images/u160.png" alt="" style="max-width: 100%;">
