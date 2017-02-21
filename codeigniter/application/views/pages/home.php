@@ -72,8 +72,8 @@
       <div class="row text-center">
         <div class="col-md-2 col-xs-12">
           <h3 class="sponsor-title">冠名赞助商</h3>
-          <p class="col-xs-12 col-md-12">
-            <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block">
+          <p class="col-xs-12 col-md-12" style="padding: 0;">
+            <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block" style="max-height: 90px;">
           </p>
         </div>
         <div class="col-md-5 col-xs-12">
