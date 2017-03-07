@@ -2,9 +2,9 @@
   <div class="row main-footer">
 
     <div class="col-md-4 col-xs-12 copyright">
-      <p>Hosts：</p>
-      <p>Nanjing Sports Development Group</p>
-      <p>Shanghai Skyview Sports Co., ltd</p>
+      <p>Hosts：</p>、
+<!--      <p>Qing Ao Industries Nanjing Co., Ltd</p>-->
+      <p>Shanghai Skyview Sports Co., Ltd</p>
       <p>Association of Outdoor Sports of Nanjing</p>
     </div>
 
