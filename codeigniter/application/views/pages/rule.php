@@ -14,8 +14,9 @@
 <!--        <p>青奥产业南京有限公司（拟）</p>-->
 <!--      </div>-->
       <div class="text-block">
-        <h4 class="text-title">一、运营推广单位</h4>
+        <h4 class="text-title">一、主办单位</h4>
         <p>上海穹景体育文化发展有限公司</p>
+        <p>青奥产业南京有限公司</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">二、协办单位</h4>
