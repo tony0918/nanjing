@@ -6,7 +6,6 @@
       <p>Shanghai Skyview Sports Co., Ltd</p>
       <p>Qing Ao Industries Nanjing Co., Ltd</p>
       <p>Association of Outdoor Sports of Nanjing</p>
-      <p>© 2016-2017 沪ICP备14023412号-2</p>
     </div>
 
     <div class="col-md-3 col-md-offset-1 col-xs-12">
