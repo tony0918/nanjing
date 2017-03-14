@@ -28,7 +28,7 @@
     <div class="col-md-4 hidden-xs share-list">
       <div class="pull-right">
         <div class="pull-left" style="padding: 30px 20px 30px 0">关注我们</div>
-        <a href="http://weibo.com/u/3239397594" class="pull-left sina"><img src="<?php echo $baseUrl; ?>images/sina_icon.svg" alt=""></a>
+        <a href="http://weibo.com/u/5513165133?topnav=1&wvr=6&topsug=1&is_hot=1" class="pull-left sina"><img src="<?php echo $baseUrl; ?>images/sina_icon.svg" alt=""></a>
         <a href="#" class="wechat pull-left"><img src="<?php echo $baseUrl; ?>images/wechat_icon.svg" alt=""></a>
         <div class="pull-left"><img src="<?php echo $baseUrl; ?>images/qr.jpg" alt=""></div>
       </div>
