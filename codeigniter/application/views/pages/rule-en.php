@@ -14,8 +14,9 @@
 <!--        <p>Qing Ao Industries Nanjing Co., Ltd</p>-->
 <!--      </div>-->
       <div class="text-block">
-        <h4 class="text-title">I. Operation</h4>
+        <h4 class="text-title">I. Host</h4>
         <p>Shanghai Skyview Sports Co., Ltd</p>
+        <p>Qing Ao Industries Nanjing Co., Ltd</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">II. Co - Operation</h4>
