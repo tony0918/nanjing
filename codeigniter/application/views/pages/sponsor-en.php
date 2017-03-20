@@ -19,14 +19,17 @@
       <div class="row text-center">
         <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">Sponsor</h3>
-          <p class="col-xs-12 col-md-4">
+          <p class="col-xs-12 col-md-3">
             <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
           </p>
-          <p class="col-xs-12 col-md-4">
+          <p class="col-xs-12 col-md-3">
             <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="img-responsive center-block" alt=""/>
           </p>
-          <p class="col-xs-12 col-md-4">
+          <p class="col-xs-12 col-md-3">
             <img src="<?php echo $baseUrl; ?>images/u191.png" class="img-responsive center-block" alt=""/>
+          </p>
+          <p class="col-xs-12 col-md-3">
+            <img src="<?php echo $baseUrl; ?>images/u181.png" class="img-responsive center-block" alt=""/>
           </p>
         </div>
       </div>
