@@ -22,6 +22,9 @@
         <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
           <p class="col-xs-12 col-md-3">
+            <img src="<?php echo $baseUrl; ?>images/u181.png" class="img-responsive center-block" alt=""/>
+          </p>
+          <p class="col-xs-12 col-md-3">
             <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
           </p>
           <p class="col-xs-12 col-md-3">
@@ -29,9 +32,6 @@
           </p>
           <p class="col-xs-12 col-md-3">
             <img src="<?php echo $baseUrl; ?>images/u191.png" class="img-responsive center-block" alt=""/>
-          </p>
-          <p class="col-xs-12 col-md-3">
-            <img src="<?php echo $baseUrl; ?>images/u181.png" class="img-responsive center-block" alt=""/>
           </p>
         </div>
       </div>
