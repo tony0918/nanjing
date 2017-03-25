@@ -79,10 +79,10 @@
         <div class="col-md-5 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
           <p class="col-xs-12 col-md-3" style="margin-top: 15px;">
-            <img src="<?php echo $baseUrl; ?>images/u181.png" class="center-block" alt="" style="max-height: 100px;"/>
+            <img src="<?php echo $baseUrl; ?>images/u181.png" class="center-block" alt=""/>
           </p>
           <p class="col-xs-12 col-md-3">
-            <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="center-block"/>
+            <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="center-block" style="max-height: 70px;"/>
           </p>
           <p class="col-xs-12 col-md-3">
             <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="center-block" alt=""/>
