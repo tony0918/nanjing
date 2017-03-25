@@ -25,7 +25,7 @@
             <img src="<?php echo $baseUrl; ?>images/u181.png" class="img-responsive center-block" alt=""/>
           </p>
           <p class="col-xs-12 col-md-3">
-            <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block"/>
+            <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="img-responsive center-block" style="max-width: 80%;"/>
           </p>
           <p class="col-xs-12 col-md-3">
             <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="img-responsive center-block" alt=""/>
