@@ -16,7 +16,8 @@
 
       <div class="text-center">
         <p>
-          <a onclick="_hmt.push(['_trackEvent', 'btn:result', 'click', 'result','cn']);" class="btn btn-default btn-lg" href="">立即查询</a>
+          <a onclick="_hmt.push(['_trackEvent', 'btn:result', 'click', 'result','cn']);" class="btn btn-default btn-lg"
+            href="http://iranshao.com/results/events/1013" target="_blank">立即查询</a>
         </p>
       </div>
 
