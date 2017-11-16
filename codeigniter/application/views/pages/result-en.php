@@ -11,14 +11,16 @@
       <h3 class="article-title text-center">Query Result</h3>
 
       <div class="text-block">
-        <p>Congrations to you on having completed one of the most wonderful races in the world! Please enter your bib
-          number to inquire your race result and download your race certificate.</p>
+        <p>Congrations to you on having completed one of the most wonderful
+          races in the world! Please enter your bib number to inquire your race
+          result and download your race certificate.</p>
       </div>
 
       <div class="text-center">
         <p>
           <a onclick="_hmt.push(['_trackEvent', 'btn:result', 'click', 'result','en']);" class="btn btn-default btn-lg"
-            href="http://iranshao.com/results/events/1013" target="_blank">Query Now</a></p>
+             href="http://iranshao.com/results/events/1013" target="_blank">Query
+            Now</a></p>
       </div>
 
       <div class="text-center">
