@@ -21,10 +21,10 @@
         <table class="table table-bordered text-center">
           <thead>
           <tr>
-            <th class="text-center">日期</th>
+            <th class="text-center" style="width: 114px;">日期</th>
             <th class="text-center" style="width: 200px;">发车地点</th>
             <th class="text-center" style="width: 200px;">到达地点</th>
-            <th class="text-center">时间</th>
+            <th class="text-center" style="width: 114px;">时间</th>
             <th class="text-center">备注</th>
           </tr>
           </thead>
@@ -42,10 +42,10 @@
         <table class="table table-bordered text-center">
           <thead>
           <tr>
-            <th class="text-center">日期</th>
+            <th class="text-center" style="width: 114px;">日期</th>
             <th class="text-center" style="width: 200px;">发车地点</th>
             <th class="text-center" style="width: 200px;">到达地点</th>
-            <th class="text-center">时间</th>
+            <th class="text-center" style="width: 114px;">时间</th>
             <th class="text-center">备注</th>
           </tr>
           </thead>

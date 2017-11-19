@@ -30,10 +30,10 @@
         <table class="table table-bordered text-center">
           <thead>
           <tr>
-            <th class="text-center">Date</th>
+            <th class="text-center" style="width: 50px;">Date</th>
             <th class="text-center" style="width: 165px;">Start</th>
             <th class="text-center" style="width: 165px;">Terminal</th>
-            <th class="text-center">Time</th>
+            <th class="text-center" style="width: 95px;">Time</th>
             <th class="text-center">Note</th>
           </tr>
           </thead>
@@ -51,10 +51,10 @@
         <table class="table table-bordered text-center">
           <thead>
           <tr>
-            <th class="text-center">Date</th>
+            <th class="text-center" style="width: 50px;">Date</th>
             <th class="text-center" style="width: 165px;">Start</th>
             <th class="text-center" style="width: 165px;">Terminal</th>
-            <th class="text-center">Time</th>
+            <th class="text-center" style="width: 95px;">Time</th>
             <th class="text-center">Note</th>
           </tr>
           </thead>
