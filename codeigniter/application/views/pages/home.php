@@ -6,7 +6,7 @@
 
 <div class="container-fluid front-countdown">
   <div class="row text-center">
-    <h3>2017汇添富南京山地马拉松比赛倒计时</h3>
+    <h3>2018汇添富南京山地马拉松比赛倒计时</h3>
     <div class="countdown time_area" data-time="2018-4-1 8:30:00">
       <div class="center-block clearfix">
         <div class="day pull-left">

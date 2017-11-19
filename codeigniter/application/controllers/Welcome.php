@@ -21,7 +21,7 @@ class Welcome extends CI_Controller {
   public function index() {
     $timezone = new DateTimeZone('Asia/Shanghai');
     $now = new DateTime('NOW', $timezone);
-    $target = new DateTime('2017-3-26 8:30:00', $timezone);
+    $target = new DateTime('2018-4-1 8:30:00', $timezone);
     $dif = $target->diff($now, TRUE);
     if ($now >= $target) {
       $this->pagerender->page_render_body($this, 'home', '首页', array('d' => 0, 'h' => 0, 'i' => 0));
