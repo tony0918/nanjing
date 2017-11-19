@@ -84,7 +84,7 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">6. 支付方式</h4>
-        <p>参赛者可通过 “支付宝”、“微信支付”、“信用卡”进行在线缴费。</p>
+        <p>参赛者可通过 “支付宝”、“微信支付”、“银联”进行在线缴费。</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">7. 报名成功确认</h4>

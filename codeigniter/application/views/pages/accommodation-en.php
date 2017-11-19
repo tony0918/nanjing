@@ -31,8 +31,8 @@
           <thead>
           <tr>
             <th class="text-center">Date</th>
-            <th class="text-center">Start</th>
-            <th class="text-center">Terminal</th>
+            <th class="text-center" style="width: 165px;">Start</th>
+            <th class="text-center" style="width: 165px;">Terminal</th>
             <th class="text-center">Time</th>
             <th class="text-center">Note</th>
           </tr>
@@ -52,8 +52,8 @@
           <thead>
           <tr>
             <th class="text-center">Date</th>
-            <th class="text-center">Start</th>
-            <th class="text-center">Terminal</th>
+            <th class="text-center" style="width: 165px;">Start</th>
+            <th class="text-center" style="width: 165px;">Terminal</th>
             <th class="text-center">Time</th>
             <th class="text-center">Note</th>
           </tr>

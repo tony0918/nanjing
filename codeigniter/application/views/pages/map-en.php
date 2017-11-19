@@ -8,7 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">Course map of 2017 CUAM Nanjing Mountain Marathon</h3>
+      <h3 class="article-title text-center">Course map</h3>
 
       <div class="text-block">
         <p>
