@@ -17,7 +17,7 @@
           <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="img-responsive center-block">
         </p>
       </div>
-
+<!--
       <div class="row text-center">
         <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
@@ -52,6 +52,8 @@
           </div>
         </div>
       </div>
+      -->
+
       <div class="row text-center">
         <div class="col-md-12 col-xs-12">
           <h3 class="sponsor-title">公益合作伙伴</h3>

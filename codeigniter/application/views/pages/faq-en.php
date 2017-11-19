@@ -126,7 +126,7 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">6. Payment</h4>
-        <p>You can pay online by Alipay/Wechat and credit card.</p>
+        <p>You can pay online by Alipay/Wechat and Unionpay.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">7. Confirmation of the registration</h4>

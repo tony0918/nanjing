@@ -8,8 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">Registration Guidelines of 2017 CUAM
-        Nanjing Mountain Marathon</h3>
+      <h3 class="article-title text-center">Registration Guidelines</h3>
       <div class="text-block">
         <h4 class="text-title">I. Race date and events</h4>
         <p>1. Race date: April 1st, 2018 (Sunday)</p>
@@ -98,7 +97,7 @@
           </tbody>
         </table>
         <p>Remark: </p>
-        <p>1) The whole entry fee of 12km Junior Group, 200 RMB per person,
+        <p>1) The whole entry fee of 12km YOUNG ATHLETE Group, 200 RMB per person,
           will be donated to the partner charity project of the race, River &
           Kids. We also encourage donation by means of purchasing the charity
           goody bags. (60 RMB per goody bag, available for purchasing at
@@ -129,7 +128,7 @@
         <p>2. Read the registration notes, the insurance instruction and related
           contents regarding the online registration carefully.</p>
         <p>3. Fill in the registration form.</p>
-        <p>4. Pay entry fee online. (Alipay/Wechat and credit card are
+        <p>4. Pay entry fee online. (Alipay/Wechat and Unionpay are
           supported.)</p>
         <p>5. The online registration will be completed after the pay
           success.</p>

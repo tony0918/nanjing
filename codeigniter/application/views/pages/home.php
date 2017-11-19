@@ -7,7 +7,7 @@
 <div class="container-fluid front-countdown">
   <div class="row text-center">
     <h3>2017汇添富南京山地马拉松比赛倒计时</h3>
-    <div class="countdown time_area" data-time="2017-3-26 8:30:00">
+    <div class="countdown time_area" data-time="2018-4-1 8:30:00">
       <div class="center-block clearfix">
         <div class="day pull-left">
           <h2 id="t_h"><?php echo $countDown['d']; ?></h2>
@@ -70,12 +70,13 @@
   <div class="row sponsor sponsor-section">
     <div class="container-fluid">
       <div class="row text-center">
-        <div class="col-md-2 col-xs-12">
+        <div class="col-md-6 col-xs-12">
           <h3 class="sponsor-title">冠名赞助商</h3>
           <p class="col-xs-12 col-md-12" style="padding: 0;">
             <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block" style="max-height: 90px;">
           </p>
         </div>
+        <!--
         <div class="col-md-5 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
           <p class="col-xs-12 col-md-3" style="margin-top: 15px;">
@@ -106,7 +107,8 @@
             </p>
           </div>
         </div>
-        <div class="col-md-2 col-xs-12">
+        -->
+        <div class="col-md-6 col-xs-12">
           <h3 class="sponsor-title">公益合作伙伴</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u160.png" alt="" style="max-width: 100%;"/>

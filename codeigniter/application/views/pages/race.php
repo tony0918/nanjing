@@ -8,7 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">2017汇添富南京山地马拉松有关赛事</h3>
+      <h3 class="article-title text-center">有关赛事</h3>
       <div class="text-block">
         <h4 class="text-title">2017汇添富南京山地马拉松</h4>
         <p>

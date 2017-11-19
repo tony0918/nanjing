@@ -8,7 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">2018汇添富南京山地马拉松竞赛规程</h3>
+      <h3 class="article-title text-center">竞赛规程</h3>
       <!--      <div class="text-block">-->
       <!--        <h4 class="text-title">二、主办单位</h4>-->
       <!--        <p>青奥产业南京有限公司（拟）</p>-->
@@ -140,7 +140,7 @@
         <p>邮编：200090</p>
         <p>2018汇添富南京山地马拉松赛网址：<a href="http://nanjing.huluanpao.com">http://nanjing.huluanpao.com</a>
         </p>
-        <p>2018汇添富南京山地马拉松赛电子邮箱：<a href="mailto:service@skyviewsport.com">service@skyviewsport.com</a>
+        <p>2018汇添富南京山地马拉松赛电子邮箱：<a href="mailto:service@huluanpao.com">service@huluanpao.com</a>
         </p>
       </div>
       <div class="text-block">
