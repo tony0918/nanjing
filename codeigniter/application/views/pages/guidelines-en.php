@@ -97,19 +97,19 @@
           </tbody>
         </table>
         <p>Remark: </p>
-        <p>1) The whole entry fee of 12km YOUNG ATHLETE Group, 200 RMB per person,
+        <p>1. The whole entry fee of 12km YOUNG ATHLETE Group, 200 RMB per person,
           will be donated to the partner charity project of the race, River &
           Kids. We also encourage donation by means of purchasing the charity
           goody bags. (60 RMB per goody bag, available for purchasing at
           registration)</p>
-        <p>2) There will be a discount for team registration in 42km and 25km
+        <p>2. There will be a discount for team registration in 42km and 25km
           group. Only limited to 50 teams in either group.</p>
-        <p>3) The individual result of each team member in 42km and 25km group
+        <p>3. The individual result of each team member in 42km and 25km group
           will be the result recorded by his/her timing chip. The team’s time
           will be calculated by adding all four members’ individual time and
           this result will decide the team’s ranking. The four team members
           won’t have to arrive at the finish line at the same time.</p>
-        <p>4) After the race a top 10 team list will be published with their
+        <p>4. After the race a top 10 team list will be published with their
           respective team time on it. All teams will be given a race certificate
           on the spot. There will be no awarding ceremony.</p>
       </div>

@@ -17,39 +17,39 @@
         <h4 class="text-title">I. Host</h4>
         <p>Shanghai Skyview Sports Co., Ltd</p>
       </div>
+<!--      <div class="text-block">-->
+<!--        <h4 class="text-title">II. Co - Operation</h4>-->
+<!--        <p>Association of Outdoor Sports of Nanjing</p>-->
+<!--      </div>-->
       <div class="text-block">
-        <h4 class="text-title">II. Co - Operation</h4>
-        <p>Association of Outdoor Sports of Nanjing</p>
-      </div>
-      <div class="text-block">
-        <h4 class="text-title">III. Title Sponsors</h4>
+        <h4 class="text-title">II. Title Sponsors</h4>
         <p>China Universal Asset Management Co., ltd</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">IV. Race date and location</h4>
+        <h4 class="text-title">III. Race date and location</h4>
         <p>April 01th, 2018 (Sunday) 8:30 am at the Panlong Lake, Jiangning
           District, Nanjing</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">V. Date for race registration</h4>
+        <h4 class="text-title">IV. Date for race registration</h4>
         <p>1. November 28th,2017 - February 24th ,2018 ( All registration is
           based on a first-come-first-served basis. )</p>
         <p>2. Please refer to "Registration Note of 2018 CUAM Nanjing Mountain
           Marathon" for more information about the registration.</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">VI. Events</h4>
+        <h4 class="text-title">V. Events</h4>
         <p>1. 42km group, with an elevation gain of 1200m</p>
         <p>2. 25km group, with an elevation gain of 500m</p>
         <p>3. 12km YOUNG ATHLETE group, with an elevation gain of 300m</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">VII. Course</h4>
+        <h4 class="text-title">VI.. Course</h4>
         <p>Please refer to the course map publicized in the official website and
           "Race Brochure" for derailed course information.</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">VIII. Participation</h4>
+        <h4 class="text-title">VII. Participation</h4>
         <p>1. Runners in the 42km and 25km group should be in a health condition
           suitable for the race and at least 18 years old by the race day, April
           1st, 2018.</p>
@@ -79,7 +79,7 @@
           not suitable for sports.</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">IX. Race</h4>
+        <h4 class="text-title">VIII. Race</h4>
         <p>1. Race numbers of all participants will be decided and distributed
           by the committee. </p>
         <p>2. All participants have to arrive at and gather in the corrals
@@ -167,14 +167,14 @@
         </div>
       </div>
       <div class="text-block">
-        <h4 class="text-title">X. Awards</h4>
+        <h4 class="text-title">IX. Awards</h4>
         <p>1. All groups: Top 6 male runners and top 6 female runners (gunshot
           time) will be awarded. </p>
         <p>2. All groups: Finishers’ medals will be handed out to runners who
           complete the race within the regulated time. </p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XI. Race insurance and medical</h4>
+        <h4 class="text-title">X. Race insurance and medical</h4>
         <p>1. The race committee will purchase personal accident insurances for
           all the participants and staff. If insurances can’t be purchased or
           are invalidated due to incomplete or false information provided by the
@@ -214,11 +214,11 @@
         </p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XII. Judges</h4>
+        <h4 class="text-title">XI. Judges</h4>
         <p>Judges of the race will be appointed by the race committee.</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XIII. Contact</h4>
+        <h4 class="text-title">XII. Contact</h4>
         <p>Race committee of 2018 CUAM Nanjing Mountain Marathon</p>
         <p>Address: Room 312, Building A, No.10, No.619, LongChang Road, Yangpu
           Shanghai</p>
@@ -230,15 +230,15 @@
         </p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XIV. The race committee has the right to cancel
+        <h4 class="text-title">XIII. The race committee has the right to cancel
           the race if force majeure is encountered.</h4>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XV. All pending matters will be given further
+        <h4 class="text-title">XIV. All pending matters will be given further
           notice.</h4>
       </div>
       <div class="text-block">
-        <h4 class="text-title">XVI. The race committee reserves the right of the
+        <h4 class="text-title">XV. The race committee reserves the right of the
           final interpretation of this "competition rules".</h4>
       </div>
       <p class="text-right">Committee of the 2018 CUAM Nanjing Mountain

@@ -71,6 +71,11 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">Hotels</h4>
+        <p>The race committee cooperation hotel:</p>
+        <p>Crowne Plaza Nanjing</p>
+        <p>Address: No.9, Jiahu East Road, Jiangning District, Nanjing</p>
+        <p>Telephone reservation:025-81038888</p>
+        <p>&nbsp;</p>
         <p>Crowne Plaza Nanjing ( No.9, Jiahu East Road, Jiangning District,
           Nanjing ) will be where race packets of 2018 CUAM Nanjing Mountain
           Marathon are delivered. Participants who have registered the race
