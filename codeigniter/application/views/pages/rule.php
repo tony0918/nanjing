@@ -17,35 +17,35 @@
         <h4 class="text-title">一、主办单位</h4>
         <p>上海穹景体育文化发展有限公司</p>
       </div>
+<!--      <div class="text-block">-->
+<!--        <h4 class="text-title">二、协办单位</h4>-->
+<!--        <p>南京市户外运动协会</p>-->
+<!--      </div>-->
       <div class="text-block">
-        <h4 class="text-title">二、协办单位</h4>
-        <p>南京市户外运动协会</p>
-      </div>
-      <div class="text-block">
-        <h4 class="text-title">三、冠名单位</h4>
+        <h4 class="text-title">二、冠名单位</h4>
         <p>汇添富基金管理股份有限公司</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">四、竞赛日期及地点</h4>
+        <h4 class="text-title">三、竞赛日期及地点</h4>
         <p>2018年04月01日(星期日) 8:30 南京市江宁区蟠龙湖</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">五、报名日期</h4>
+        <h4 class="text-title">四、报名日期</h4>
         <p>（一）2017年11月28日—2018年2月24日（报名参赛人数额满为止）；</p>
         <p>（二）报名办法详见《2018汇添富南京山地马拉松赛报名须知》。</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">六、比赛项目</h4>
+        <h4 class="text-title">五、比赛项目</h4>
         <p>（一）42公里组，累计爬升1200米</p>
         <p>（二）25公里组，累计爬升500米</p>
         <p>（三）12公里青少年组，累计爬升300米</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">七、比赛路线</h4>
+        <h4 class="text-title">六、比赛路线</h4>
         <p>详细比赛路线以网站和《参赛手册》上公布的路线图为准。</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">八、参赛办法</h4>
+        <h4 class="text-title">七、参赛办法</h4>
         <p>（一）参加42公里组和25公里组比赛者须在比赛当年04月01日前满18周岁，身体健康，适宜参加该项比赛。</p>
         <p>
           （二）参加12公里青少年组比赛者由一名成年人和一名青少年组成，成年人比赛当年04月01日前满18周岁，青少年须在比赛当年04月01日前8周岁（满）-18周岁（未满），身体健康者。</p>
@@ -55,7 +55,7 @@
           （五）以下疾病患者不宜参加2018汇添富南京山地马拉松赛：先天性心脏病和风湿性心脏病患者/高血压和脑血管疾病患者/心肌炎和其它心脏病患者/冠状动脉病患者和严重心率不齐者/糖尿病患者/其他不适合运动的疾病患者。</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">九、竞赛办法</h4>
+        <h4 class="text-title">八、竞赛办法</h4>
         <p>（一）运动员比赛号码由组委会统一编发。</p>
         <p>（二）参赛运动员必须于04月01日上午8：25前到起点按竞赛项目及号码布分类/分区，分别进行排队集结，8:30鸣枪起跑。</p>
         <p>
@@ -109,12 +109,12 @@
         </ol>
       </div>
       <div class="text-block">
-        <h4 class="text-title">十、奖励办法</h4>
+        <h4 class="text-title">九、奖励办法</h4>
         <p>（一）所有组别：男、女前6名选手（按枪声计时），分别获得奖品。</p>
         <p>（二）所有组别：规定时间内完赛者均发给“完赛奖牌”。</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">十一、参赛保险与医疗救护</h4>
+        <h4 class="text-title">十、参赛保险与医疗救护</h4>
         <p>
           （一）组委会为所有参赛者和工作人员购买比赛期间的人身意外伤害保险，若由于参赛者报名信息填写不全或不真实造成无法购买保险或者保险无效，责任由参赛者自负。</p>
         <p>
@@ -129,11 +129,11 @@
         </ol>
       </div>
       <div class="text-block">
-        <h4 class="text-title">十二、裁判员</h4>
+        <h4 class="text-title">十一、裁判员</h4>
         <p>裁判员由组委会选拔。</p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">十三、组委会联系方法</h4>
+        <h4 class="text-title">十二、组委会联系方法</h4>
         <p>2018汇添富南京山地马拉松赛组委会</p>
         <p>地址：上海市杨浦区隆昌路619号10号A楼312室</p>
         <p>电话：021－6567 3828</p>
@@ -144,13 +144,13 @@
         </p>
       </div>
       <div class="text-block">
-        <h4 class="text-title">十四、如遇不可抗力情况，组委会有权取消比赛。</h4>
+        <h4 class="text-title">十三、如遇不可抗力情况，组委会有权取消比赛。</h4>
       </div>
       <div class="text-block">
-        <h4 class="text-title">十五、未尽事项，另行通知。</h4>
+        <h4 class="text-title">十四、未尽事项，另行通知。</h4>
       </div>
       <div class="text-block">
-        <h4 class="text-title">十六、本规程解释权归组委会</h4>
+        <h4 class="text-title">十五、本规程解释权归组委会</h4>
       </div>
       <p class="text-right">2018汇添富南京山地马拉松赛组委会</p>
       <p class="text-right">二〇一七年十一月</p>

@@ -94,7 +94,7 @@
             <td>350 RMB per head</td>
           </tr>
           <tr>
-            <td>12km Family group</td>
+            <td>12km YOUNG ATHLETE group</td>
             <td>200 RMB per head</td>
           </tr>
           <tr>
@@ -108,19 +108,19 @@
           </tbody>
         </table>
         <p>Remark:</p>
-        <p>1) The whole entry fee of 12km YOUNG ATHLETE group, 200 RMB per
+        <p>1. The whole entry fee of 12km YOUNG ATHLETE group, 200 RMB per
           person, will be donated to the partner charity project of the race,
           River & Kids. We also encourage donation by means of purchasing the
           charity goody bags. (60 RMB per goody bag, available for purchasing at
           registration)</p>
-        <p>2) There will be a discount for team registration in 42km and 25km
+        <p>2. There will be a discount for team registration in 42km and 25km
           group. Only limited to 50 teams in either group.</p>
-        <p>3) The individual result of each team member in 42km and 25km group
+        <p>3. The individual result of each team member in 42km and 25km group
           will be the result recorded by his/her timing chip. The team’s time
           will be calculated by adding all four members’ individual time and
           this result will decide the team’s ranking. The four team members
           won’t have to arrive at the finish line at the same time.</p>
-        <p>4) After the race a top 10 team list will be published with their
+        <p>4. After the race a top 10 team list will be published with their
           respective team time on it. All teams will be given a race certificate
           on the spot. There will be no awarding ceremony.</p>
       </div>
@@ -230,7 +230,7 @@
             <td>5h</td>
           </tr>
           <tr>
-            <td>12km Family group</td>
+            <td>12km YOUNG ATHLETE group</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>3h</td>
@@ -307,9 +307,8 @@
         <h4 class="text-title">1. Will the race committee assist with the
           reservation of hotels?</h4>
         <p>The race committee won’t assist the participants with the reservation
-          of hotels. But we will publicize a list of hotels located in Juangning
-          District, Nanjing, along with their ways of contacts in the official
-          website.</p>
+          of hotels. But we will publicize the race committee cooperation hotel
+          and reservation way.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">2. How can families and friends get to the race

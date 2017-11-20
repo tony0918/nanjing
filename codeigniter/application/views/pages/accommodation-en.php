@@ -10,17 +10,25 @@
     <div class="col-sm-12 col-md-8 col-md-offset-2">
       <h3 class="article-title text-center">Transportation and Hotel</h3>
       <div class="text-block">
-        <p>2017 CUAM Nanjing Mountain Marathon will be held on March 26 of 2017 in Panlong Lake, Jiangning District of
-          Nanjing. For those who are going to take part in the race, please pay attention to transportation information
-          and reserve hotels in advance. Below is the information regarding transportation and hotels.Please arrange
-          your itinerary and make hotel reservation based on your own situation.</p>
+        <p>2017 CUAM Nanjing Mountain Marathon will be held on March 26 of 2017
+          in Panlong Lake, Jiangning District of
+          Nanjing. For those who are going to take part in the race, please pay
+          attention to transportation information
+          and reserve hotels in advance. Below is the information regarding
+          transportation and hotels.Please arrange
+          your itinerary and make hotel reservation based on your own
+          situation.</p>
       </div>
       <div class="text-block">
         <h4 class="text-title">Transportation</h4>
-        <p>2017 CUAM Nanjing Mountain Marathon will be held in Panlong Lake, Jiangning Districtof Nanjing. Since there
-          is no public transportation in downtown that directly leads to Panlong Lake, for all participants’
-          conveniences, the race committee will arrange shuttle buses for return trips between downtown and the race
-          location. There will be traffic controls around the race area and no private vehicles will be allowed.</p>
+        <p>2017 CUAM Nanjing Mountain Marathon will be held in Panlong Lake,
+          Jiangning Districtof Nanjing. Since there
+          is no public transportation in downtown that directly leads to Panlong
+          Lake, for all participants’
+          conveniences, the race committee will arrange shuttle buses for return
+          trips between downtown and the race
+          location. There will be traffic controls around the race area and no
+          private vehicles will be allowed.</p>
         <p>To the race venue</p>
         <table class="table table-bordered text-center">
           <thead>
@@ -66,15 +74,26 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">Hotels</h4>
-        <p>Crowne Plaza Nanjing ( No.9, Jiahu East Road, Jiangning District, Nanjing ) will be where race packets of
-          2017 CUAM Nanjing Mountain Marathon are delivered. Participants who have registered the race successfully can
-          pick up their race packets at Crowne Plaza Nanjing between 10am and 8pm on March 25, Saturday. The race packet
-          pickup certificate and the original ID will be sufficient for the race packet pickup.</p>
+        <p>The race committee cooperation hotel:</p>
+        <p>Crowne Plaza Nanjing</p>
+        <p>Address: No.9, Jiahu East Road, Jiangning District, Nanjing</p>
+        <p>Telephone reservation:025-81038888</p>
+        <p>&nbsp;</p>
+        <p>Crowne Plaza Nanjing ( No.9, Jiahu East Road, Jiangning District,
+          Nanjing ) will be where race packets of 2018 CUAM Nanjing Mountain
+          Marathon are delivered. Participants who have registered the race
+          successfully can pick up their race packets at Crowne Plaza Nanjing
+          between 10am and 8pm on March 31, Saturday. The race packet pickup
+          certificate and the original ID will be sufficient for the race packet
+          pickup.</p>
       </div>
       <div class="text-block">
-        <p>Moreover, the shuttle buses heading for the race location Panlong Lake on the race day will depart from
-          Crowne Plaza Nanjing from 6 : 30 am to 7 : 00 am. Hence the race committee suggests participants book hotel of
-          Crowne Plaza Nanjing or choose hotels in Baijia Lake area in Jiangning District, Nanjing.</p>
+        <p>Moreover, the shuttle buses heading for the race location Panlong
+          Lake on the race day will depart from
+          Crowne Plaza Nanjing from 6 : 30 am to 7 : 00 am. Hence the race
+          committee suggests participants book hotel of
+          Crowne Plaza Nanjing or choose hotels in Baijia Lake area in Jiangning
+          District, Nanjing.</p>
       </div>
     </div>
   </div>

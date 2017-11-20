@@ -17,7 +17,7 @@
 
       <div class="text-center">
         <p>
-          <a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','en']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/NANJINGMOUNTAIN?guest_register=true" target="_blank">Sign
+          <a onclick="_hmt.push(['_trackEvent', 'btn:signup', 'click', 'signup','en']);" class="btn btn-default btn-lg" href="http://iranshao.com/register/reg_races/2018NANJINGMOUNTAIN?guest_register=true" target="_blank">Sign
             Up</a></p>
       </div>
 
