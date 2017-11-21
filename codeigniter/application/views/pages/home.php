@@ -6,8 +6,9 @@
 
 <div class="container-fluid front-countdown">
   <div class="row text-center">
-    <h3>2018汇添富南京山地马拉松比赛<br>倒计时</h3>
-    <div class="countdown time_area" data-time="2018-4-1 8:30:00">
+    <h3>2018汇添富南京山地马拉松比赛</h3>
+    <h3 style="padding-top: 15px;">倒计时</h3>
+    <div class="countdown time_area" data-time="2018-4-1 8:30:00" style="padding-top: 15px;">
       <div class="center-block clearfix">
         <div class="day pull-left">
           <h2 id="t_h"><?php echo $countDown['d']; ?></h2>
