@@ -31,7 +31,7 @@
       </div>
       <div class="text-block">
         <h4 class="text-title">四、报名日期</h4>
-        <p>（一）2017年11月28日—2018年2月24日（报名参赛人数额满为止）；</p>
+        <p>（一）2017年11月28日—2018年2月24日（报名参赛人数额满为止）。</p>
         <p>（二）报名办法详见《2018汇添富南京山地马拉松赛报名须知》。</p>
       </div>
       <div class="text-block">
@@ -150,7 +150,7 @@
         <h4 class="text-title">十四、未尽事项，另行通知。</h4>
       </div>
       <div class="text-block">
-        <h4 class="text-title">十五、本规程解释权归组委会</h4>
+        <h4 class="text-title">十五、本规程解释权归组委会。</h4>
       </div>
       <p class="text-right">2018汇添富南京山地马拉松赛组委会</p>
       <p class="text-right">二〇一七年十一月</p>
