@@ -97,10 +97,11 @@
           </tbody>
         </table>
         <p>Remark: </p>
-        <p>1. The whole entry fee of 12km YOUNG ATHLETE Group, 200 RMB per person,
+        <p>1. The whole entry fee of 12km YOUNG ATHLETE Group, 200 RMB per
+          person,
           will be donated to the partner charity project of the race, River &
-          Kids. We also encourage donation by means of purchasing the charity
-          goody bags. (60 RMB per goody bag, available for purchasing at
+          Children. We also encourage donation by means of purchasing the
+          charity goody bags. (60 RMB per goody bag, available for purchasing at
           registration)</p>
         <p>2. There will be a discount for team registration in 42km and 25km
           group. Only limited to 50 teams in either group.</p>
@@ -157,7 +158,8 @@
           final interpretation of this "registration notes". All pending events
           will be given further notice.</h4>
       </div>
-      <p class="text-right">Committee of the 2018 CUAM Nanjing Mountain Marathon</p>
+      <p class="text-right">Committee of the 2018 CUAM Nanjing Mountain
+        Marathon</p>
       <p class="text-right">November, 2017</p>
     </div>
   </div>

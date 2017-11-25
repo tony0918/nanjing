@@ -110,7 +110,7 @@
         <p>Remark:</p>
         <p>1. The whole entry fee of 12km YOUNG ATHLETE group, 200 RMB per
           person, will be donated to the partner charity project of the race,
-          River & Kids. We also encourage donation by means of purchasing the
+          River & Children. We also encourage donation by means of purchasing the
           charity goody bags. (60 RMB per goody bag, available for purchasing at
           registration)</p>
         <p>2. There will be a discount for team registration in 42km and 25km
