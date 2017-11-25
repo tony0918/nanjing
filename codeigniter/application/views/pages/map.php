@@ -16,6 +16,7 @@
             <img src="<?php echo $baseUrl; ?>assets/map.jpg" alt="" class="img-responsive"/>
           </a>
         </p>
+        <p class="text-center">*路线轨迹可在赛前一周登录网站查询下载</p>
       </div>
 
     </div>
