@@ -56,7 +56,7 @@
             <ul class="dropdown-menu">
               <li>
                 <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'signup-guidelines', 'en']);" href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">Registration
-                  Note</a>
+                  Guidelines</a>
               </li>
               <li>
                 <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'signup', 'en']);" href="<?php echo $baseUrl; ?>en/signup.html" class="text-center">Registrate
