@@ -22,7 +22,7 @@
 <!--        <p>Association of Outdoor Sports of Nanjing</p>-->
 <!--      </div>-->
       <div class="text-block">
-        <h4 class="text-title">II. Title Sponsors</h4>
+        <h4 class="text-title">II. Co-founded</h4>
         <p>China Universal Asset Management Co., ltd</p>
       </div>
       <div class="text-block">

@@ -22,7 +22,7 @@
 <!--        <p>南京市户外运动协会</p>-->
 <!--      </div>-->
       <div class="text-block">
-        <h4 class="text-title">二、冠名单位</h4>
+        <h4 class="text-title">二、联合创办</h4>
         <p>汇添富基金管理股份有限公司</p>
       </div>
       <div class="text-block">
