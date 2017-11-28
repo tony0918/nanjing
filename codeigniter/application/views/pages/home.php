@@ -72,7 +72,7 @@
     <div class="container-fluid">
       <div class="row text-center">
         <div class="col-md-6 col-xs-12">
-          <h3 class="sponsor-title">冠名赞助商</h3>
+          <h3 class="sponsor-title">联合创办</h3>
           <p class="col-xs-12 col-md-12" style="padding: 0;">
             <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block" style="max-height: 90px;">
           </p>
