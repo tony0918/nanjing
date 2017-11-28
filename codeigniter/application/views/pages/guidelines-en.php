@@ -8,7 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
-      <h3 class="article-title text-center">Registration Guidelines</h3>
+      <h3 class="article-title text-center">Registration Note</h3>
       <div class="text-block">
         <h4 class="text-title">I. Race date and events</h4>
         <p>1. Race date: April 1st, 2018 (Sunday)</p>
