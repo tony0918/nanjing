@@ -10,7 +10,7 @@
     <div class="col-sm-12 col-md-8 col-md-offset-2">
       <h3 class="article-title text-center">Sponsor</h3>
       <div class="row text-center">
-        <h3 class="sponsor-title">Title Sponsor</h3>
+        <h3 class="sponsor-title">Co-founded</h3>
         <p class="col-xs-12 col-md-12">
           <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="img-responsive center-block">
         </p>

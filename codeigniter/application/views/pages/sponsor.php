@@ -11,7 +11,7 @@
       <h3 class="article-title text-center">赞助商</h3>
 
       <div class="row text-center">
-        <h3 class="sponsor-title">冠名赞助商</h3>
+        <h3 class="sponsor-title">联合创办</h3>
 
         <p class="col-xs-12 col-md-12">
           <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="img-responsive center-block">
