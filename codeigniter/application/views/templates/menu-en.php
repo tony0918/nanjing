@@ -29,7 +29,7 @@
                   Rules</a>
               </li>
               <li>
-                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-map', 'en']);" href="<?php echo $baseUrl; ?>en/race/map.html" class="text-center">Route
+                <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'race-map', 'en']);" href="<?php echo $baseUrl; ?>en/race/map.html" class="text-center">Course
                   Map</a>
               </li>
               <li>
@@ -56,7 +56,7 @@
             <ul class="dropdown-menu">
               <li>
                 <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'signup-guidelines', 'en']);" href="<?php echo $baseUrl; ?>en/signup/guidelines.html" class="text-center">Registration
-                  Guidelines</a>
+                  Note</a>
               </li>
               <li>
                 <a onclick="_hmt.push(['_trackEvent', 'nav', 'click', 'signup', 'en']);" href="<?php echo $baseUrl; ?>en/signup.html" class="text-center">Registrate

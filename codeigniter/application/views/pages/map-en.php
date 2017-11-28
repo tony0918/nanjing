@@ -15,7 +15,7 @@
             <img src="<?php echo $baseUrl; ?>assets/map.jpg" alt="" class="img-responsive"/>
           </a>
         </p>
-        <p class="text-center">*Route track can login website to download a week before the race</p>
+        <p class="text-center">*Please log on into the official website to download the route map one week before the race.</p>
       </div>
     </div>
   </div>
