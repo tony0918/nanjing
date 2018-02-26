@@ -71,28 +71,29 @@
   <div class="row sponsor sponsor-section">
     <div class="container-fluid">
       <div class="row text-center">
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-2 col-xs-12">
           <h3 class="sponsor-title">联合创办</h3>
           <p class="col-xs-12 col-md-12" style="padding: 0;">
             <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block" style="max-height: 90px;">
           </p>
         </div>
-        <!--
-        <div class="col-md-5 col-xs-12">
+
+        <div class="col-md-8 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
-          <p class="col-xs-12 col-md-3" style="margin-top: 15px;">
-            <img src="<?php echo $baseUrl; ?>images/u181.png" class="center-block" alt=""/>
+<!--          <p class="col-xs-12 col-md-3" style="margin-top: 15px;">-->
+<!--            <img src="--><?php //echo $baseUrl; ?><!--images/u181.png" class="center-block" alt=""/>-->
+<!--          </p>-->
+          <p class="col-xs-12 col-md-4">
+            <img src="<?php echo $baseUrl; ?>images/salomon.png" alt="" class="center-block" style="max-height: 70px;"/>
           </p>
-          <p class="col-xs-12 col-md-3">
-            <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="center-block" style="max-height: 70px;"/>
+          <p class="col-xs-12 col-md-4">
+            <img src="<?php echo $baseUrl; ?>images/yibao.png" class="center-block" alt=""/>
           </p>
-          <p class="col-xs-12 col-md-3">
-            <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="center-block" alt=""/>
-          </p>
-          <p class="col-xs-12 col-md-3">
-            <img src="<?php echo $baseUrl; ?>images/u191.png" class="center-block" alt=""/>
+          <p class="col-xs-12 col-md-4">
+            <img src="<?php echo $baseUrl; ?>images/suunto.png" class="center-block" alt=""/>
           </p>
         </div>
+        <!--
         <div class="col-md-3 col-xs-12">
           <h3 class="sponsor-title">合作伙伴</h3>
           <div class="row">
@@ -109,7 +110,7 @@
           </div>
         </div>
         -->
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-2 col-xs-12">
           <h3 class="sponsor-title">公益合作伙伴</h3>
           <p class="col-xs-12 col-md-12">
             <img src="<?php echo $baseUrl; ?>images/u160.png" alt="" style="max-width: 100%;"/>
