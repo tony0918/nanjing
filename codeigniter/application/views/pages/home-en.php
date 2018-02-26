@@ -106,7 +106,7 @@
         </div>
       </div>
       -->
-      <div class="col-md-6 col-xs-12">
+      <div class="col-md-2 col-xs-12">
         <h3 class="sponsor-title">Charity Partner</h3>
         <p class="col-xs-12 col-md-12">
           <img src="<?php echo $baseUrl; ?>images/u160.png" alt="" style="max-width: 100%;"/>
