@@ -67,28 +67,29 @@
 
   <div class="row sponsor sponsor-section">
     <div class="container-fluid text-center">
-      <div class="col-md-6 col-xs-12">
+      <div class="col-md-2 col-xs-12 col-md-offset-2">
         <h3 class="sponsor-title">Co-founded</h3>
         <p class="col-xs-12 col-md-12" style="padding: 0;">
           <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block" style="max-height: 90px;">
         </p>
       </div>
-      <!--
-      <div class="col-md-5 col-xs-12">
+
+      <div class="col-md-4 col-xs-12">
         <h3 class="sponsor-title">Sponsor</h3>
-        <p class="col-xs-12 col-md-3" style="margin-top: 15px;">
-          <img src="<?php echo $baseUrl; ?>images/u181.png" class="center-block" alt=""/>
+<!--        <p class="col-xs-12 col-md-3" style="margin-top: 15px;">-->
+<!--          <img src="--><?php //echo $baseUrl; ?><!--images/u181.png" class="center-block" alt=""/>-->
+<!--        </p>-->
+        <p class="col-xs-12 col-md-4">
+          <img src="<?php echo $baseUrl; ?>images/salomon.png" alt="" class="center-block" style="max-height: 70px;"/>
         </p>
-        <p class="col-xs-12 col-md-3">
-          <img src="<?php echo $baseUrl; ?>images/u183.png?1" alt="" class="center-block" style="max-height: 70px;"/>
+        <p class="col-xs-12 col-md-4">
+          <img src="<?php echo $baseUrl; ?>images/yibao.png" class="center-block" alt=""/>
         </p>
-        <p class="col-xs-12 col-md-3">
-          <img src="<?php echo $baseUrl; ?>images/HeroBrand_Tyvek.png" class="center-block" alt=""/>
-        </p>
-        <p class="col-xs-12 col-md-3">
-          <img src="<?php echo $baseUrl; ?>images/u191.png" class="center-block" alt=""/>
+        <p class="col-xs-12 col-md-4">
+          <img src="<?php echo $baseUrl; ?>images/suunto.png" class="center-block" alt=""/>
         </p>
       </div>
+      <!--
       <div class="col-md-3 col-xs-12">
         <h3 class="sponsor-title">Partner</h3>
         <div class="row">

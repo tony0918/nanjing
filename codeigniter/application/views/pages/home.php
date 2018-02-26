@@ -71,14 +71,14 @@
   <div class="row sponsor sponsor-section">
     <div class="container-fluid">
       <div class="row text-center">
-        <div class="col-md-2 col-xs-12">
+        <div class="col-md-2 col-xs-12 col-md-offset-2">
           <h3 class="sponsor-title">联合创办</h3>
           <p class="col-xs-12 col-md-12" style="padding: 0;">
             <img src="<?php echo $baseUrl; ?>images/u143.png" alt="汇添富基金" class="center-block" style="max-height: 90px;">
           </p>
         </div>
 
-        <div class="col-md-8 col-xs-12">
+        <div class="col-md-4 col-xs-12">
           <h3 class="sponsor-title">赞助商</h3>
 <!--          <p class="col-xs-12 col-md-3" style="margin-top: 15px;">-->
 <!--            <img src="--><?php //echo $baseUrl; ?><!--images/u181.png" class="center-block" alt=""/>-->
