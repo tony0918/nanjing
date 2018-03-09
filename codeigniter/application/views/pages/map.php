@@ -9,16 +9,40 @@
   <div class="row">
     <div class="col-sm-12 col-md-8 col-md-offset-2">
       <h3 class="article-title text-center">赛事路线图</h3>
-
       <div class="text-block">
         <p>
-          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map_2016.jpg','cn']);" href="<?php echo $baseUrl; ?>assets/map_original.jpg" target="_blank">
+          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map.jpg','cn']);" href="<?php echo $baseUrl; ?>assets/map_original.jpg" target="_blank">
             <img src="<?php echo $baseUrl; ?>assets/map.jpg" alt="" class="img-responsive"/>
           </a>
         </p>
-        <p class="text-center">*路线轨迹可在赛前一周登录网站查询下载</p>
       </div>
-
+      <h3 class="article-title text-center">12公里青少年组</h3>
+      <div class="text-block">
+        <p>
+          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map_12k.jpg','cn']);" href="<?php echo $baseUrl; ?>assets/map_12k_original.jpg" target="_blank">
+            <img src="<?php echo $baseUrl; ?>assets/map_12k.jpg" alt="" class="img-responsive"/>
+          </a>
+        </p>
+        <p class="text-center">12公里青少年组<a href="<?php echo $baseUrl; ?>assets/12k.gpx" target="_blank">轨迹下载</a></p>
+      </div>
+      <h3 class="article-title text-center">25公里组</h3>
+      <div class="text-block">
+        <p>
+          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map_25k.jpg','cn']);" href="<?php echo $baseUrl; ?>assets/map_25k_original.jpg" target="_blank">
+            <img src="<?php echo $baseUrl; ?>assets/map_25k.jpg" alt="" class="img-responsive"/>
+          </a>
+        </p>
+        <p class="text-center">25公里组<a href="<?php echo $baseUrl; ?>assets/25k.gpx" target="_blank">轨迹下载</a></p>
+      </div>
+      <h3 class="article-title text-center">42公里组</h3>
+      <div class="text-block">
+        <p>
+          <a onclick="_hmt.push(['_trackEvent', 'img:map', 'click', 'map_42k.jpg','cn']);" href="<?php echo $baseUrl; ?>assets/map_42k_original.jpg" target="_blank">
+            <img src="<?php echo $baseUrl; ?>assets/map_42k.jpg" alt="" class="img-responsive"/>
+          </a>
+        </p>
+        <p class="text-center">42公里组<a href="<?php echo $baseUrl; ?>assets/42k.gpx" target="_blank">轨迹下载</a></p>
+      </div>
     </div>
   </div>
 </div>
