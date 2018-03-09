@@ -23,7 +23,7 @@
             <img src="<?php echo $baseUrl; ?>assets/map_12k.jpg" alt="" class="img-responsive"/>
           </a>
         </p>
-        <p class="text-center">12公里青少年组<a href="<?php echo $baseUrl; ?>assets/12k.gpx" target="_blank">轨迹下载</a></p>
+        <h4 class="text-center">12公里青少年组<a href="<?php echo $baseUrl; ?>assets/12k.gpx" target="_blank">轨迹下载</a></h4>
       </div>
       <h3 class="article-title text-center">25公里组</h3>
       <div class="text-block">
@@ -32,7 +32,7 @@
             <img src="<?php echo $baseUrl; ?>assets/map_25k.jpg" alt="" class="img-responsive"/>
           </a>
         </p>
-        <p class="text-center">25公里组<a href="<?php echo $baseUrl; ?>assets/25k.gpx" target="_blank">轨迹下载</a></p>
+        <h4 class="text-center">25公里组<a href="<?php echo $baseUrl; ?>assets/25k.gpx" target="_blank">轨迹下载</a></h4>
       </div>
       <h3 class="article-title text-center">42公里组</h3>
       <div class="text-block">
@@ -41,7 +41,7 @@
             <img src="<?php echo $baseUrl; ?>assets/map_42k.jpg" alt="" class="img-responsive"/>
           </a>
         </p>
-        <p class="text-center">42公里组<a href="<?php echo $baseUrl; ?>assets/42k.gpx" target="_blank">轨迹下载</a></p>
+        <h4 class="text-center">42公里组<a href="<?php echo $baseUrl; ?>assets/42k.gpx" target="_blank">轨迹下载</a></h4>
       </div>
     </div>
   </div>
